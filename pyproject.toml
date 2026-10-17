@@ -15,9 +15,6 @@ test = ["pytest==7.4.3"]
 pilot = ["pyrodigal==3.6.3"]
 plot = ["matplotlib==3.7.4", "contourpy==1.1.1"]
 
-[project.scripts]
-genomespot-lens = "genomespot_lens.cli:main"
-
 [tool.setuptools.packages.find]
 where = ["src"]
 

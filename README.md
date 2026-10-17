@@ -56,7 +56,7 @@ per line. FASTA IDs are the first whitespace-delimited token. Do not supply shor
 peptide hits as a whole-organism proteome. GenomeSPOT does not perform gene calling.
 
 ```bash
-.venv/bin/genomespot-lens audit \
+.venv/bin/python -m genomespot_lens.cli audit \
   --contigs genome.fna.gz --proteins proteins.faa.gz \
   --subset-ids selected_ids.txt --models vendor/GenomeSPOT/models \
   --out runs/my-audit --replicates 100 --seed 23
@@ -69,7 +69,7 @@ All ten upstream predictions are preserved in raw JSON regardless of report targ
 If your subset has different sequence IDs:
 
 ```bash
-.venv/bin/genomespot-lens map-subset \
+.venv/bin/python -m genomespot_lens.cli map-subset \
   --proteins proteins.faa.gz --subset-fasta curated.faa \
   --out runs/mapping
 ```
@@ -78,6 +78,10 @@ Use `runs/mapping/subset_ids.txt` in the audit and inspect `mapping.json`.
 Ambiguous, unmatched and partial sequences are never silently assigned.
 This checks sequence correspondence, not whether the nucleotide/protein files
 belong to the same assembly; you must establish that through accession metadata.
+
+Use the `python -m` invocation shown here, including for pytest. The upstream
+package installs a `genome_spot.py` script beside Python executables; executable
+launchers can otherwise resolve that file instead of the importable package.
 
 ## Reproduce the real-data pilot
 
