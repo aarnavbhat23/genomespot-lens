@@ -1,0 +1,146 @@
+[
+  {
+    "target": "oxygen",
+    "control": "count_matched",
+    "baseline": 9.36196131595679e-06,
+    "selected": 1.0759676894678272e-05,
+    "delta": 1.3977155787214812e-06,
+    "baseline_flags": [
+      "outside_training_distribution"
+    ],
+    "selected_flags": [
+      "outside_training_distribution"
+    ],
+    "control_total": 100,
+    "control_finite": 100,
+    "control_unflagged": 0,
+    "control_delta_q025": -3.288149910987692e-06,
+    "control_delta_median": -1.292470351299535e-07,
+    "control_delta_q975": 4.764930115025428e-06,
+    "fraction_controls_abs_delta_ge_selected": 0.5
+  },
+  {
+    "target": "oxygen",
+    "control": "length_matched",
+    "baseline": 9.36196131595679e-06,
+    "selected": 1.0759676894678272e-05,
+    "delta": 1.3977155787214812e-06,
+    "baseline_flags": [
+      "outside_training_distribution"
+    ],
+    "selected_flags": [
+      "outside_training_distribution"
+    ],
+    "control_total": 100,
+    "control_finite": 100,
+    "control_unflagged": 2,
+    "control_delta_q025": -3.0039223543082418e-06,
+    "control_delta_median": 1.905966494075706e-07,
+    "control_delta_q975": 4.564181628352592e-06,
+    "fraction_controls_abs_delta_ge_selected": 0.49
+  },
+  {
+    "target": "temperature_optimum",
+    "control": "count_matched",
+    "baseline": 78.66277683556687,
+    "selected": 77.7532869017407,
+    "delta": -0.9094899338261797,
+    "baseline_flags": [],
+    "selected_flags": [],
+    "control_total": 100,
+    "control_finite": 100,
+    "control_unflagged": 64,
+    "control_delta_q025": -4.438838916419519,
+    "control_delta_median": -0.012357082961926835,
+    "control_delta_q975": 7.7643439592532415,
+    "fraction_controls_abs_delta_ge_selected": 0.75
+  },
+  {
+    "target": "temperature_optimum",
+    "control": "length_matched",
+    "baseline": 78.66277683556687,
+    "selected": 77.7532869017407,
+    "delta": -0.9094899338261797,
+    "baseline_flags": [],
+    "selected_flags": [],
+    "control_total": 100,
+    "control_finite": 100,
+    "control_unflagged": 78,
+    "control_delta_q025": -4.868273225547651,
+    "control_delta_median": -0.07776788462315665,
+    "control_delta_q975": 5.924670092729319,
+    "fraction_controls_abs_delta_ge_selected": 0.65
+  },
+  {
+    "target": "ph_optimum",
+    "control": "count_matched",
+    "baseline": 5.653625708702203,
+    "selected": 5.965334381608265,
+    "delta": 0.31170867290606274,
+    "baseline_flags": [],
+    "selected_flags": [],
+    "control_total": 100,
+    "control_finite": 100,
+    "control_unflagged": 81,
+    "control_delta_q025": -1.0755438535522601,
+    "control_delta_median": 0.058645525895795636,
+    "control_delta_q975": 0.6306526118700524,
+    "fraction_controls_abs_delta_ge_selected": 0.52
+  },
+  {
+    "target": "ph_optimum",
+    "control": "length_matched",
+    "baseline": 5.653625708702203,
+    "selected": 5.965334381608265,
+    "delta": 0.31170867290606274,
+    "baseline_flags": [],
+    "selected_flags": [],
+    "control_total": 100,
+    "control_finite": 100,
+    "control_unflagged": 88,
+    "control_delta_q025": -0.794906573504655,
+    "control_delta_median": 0.08079294125354819,
+    "control_delta_q975": 1.0371039367073212,
+    "fraction_controls_abs_delta_ge_selected": 0.55
+  },
+  {
+    "target": "salinity_optimum",
+    "control": "count_matched",
+    "baseline": 1.3394815190900058,
+    "selected": 2.869605678828822,
+    "delta": 1.5301241597388162,
+    "baseline_flags": [
+      "outside_training_distribution"
+    ],
+    "selected_flags": [
+      "outside_training_distribution"
+    ],
+    "control_total": 100,
+    "control_finite": 100,
+    "control_unflagged": 0,
+    "control_delta_q025": -1.3394815190900058,
+    "control_delta_median": -0.2614545055117592,
+    "control_delta_q975": 2.142005394090396,
+    "fraction_controls_abs_delta_ge_selected": 0.11
+  },
+  {
+    "target": "salinity_optimum",
+    "control": "length_matched",
+    "baseline": 1.3394815190900058,
+    "selected": 2.869605678828822,
+    "delta": 1.5301241597388162,
+    "baseline_flags": [
+      "outside_training_distribution"
+    ],
+    "selected_flags": [
+      "outside_training_distribution"
+    ],
+    "control_total": 100,
+    "control_finite": 100,
+    "control_unflagged": 0,
+    "control_delta_q025": -1.3394815190900058,
+    "control_delta_median": -0.29614373057655086,
+    "control_delta_q975": 2.3252146602239896,
+    "fraction_controls_abs_delta_ge_selected": 0.1
+  }
+]

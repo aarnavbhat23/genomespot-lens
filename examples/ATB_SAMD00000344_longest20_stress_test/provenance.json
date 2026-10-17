@@ -1,0 +1,69 @@
+{
+  "lens_version": "0.1.0",
+  "genomespot_commit": "f79f7d6fdece71b766ff47f4fb7114daae5287d7",
+  "created_utc": "2026-10-17T22:15:00.931572+00:00",
+  "python": "3.11.16 (main, Aug 25 2026, 13:50:51) [Clang 22.1.3 ]",
+  "parameters": {
+    "contigs": "runs/pilot/inputs/atb.fna.gz",
+    "proteins": "runs/pilot/inputs/atb.faa",
+    "subset_ids": "runs/pilot/inputs/atb_longest20_ids.txt",
+    "models": "../../work/GenomeSPOT/models",
+    "out": "runs/pilot/ATB_SAMD00000344_longest20_stress_test",
+    "label": "ATB_SAMD00000344_longest20_stress_test",
+    "replicates": 100,
+    "seed": 23,
+    "length_bin": 100,
+    "targets": "oxygen,temperature_optimum,ph_optimum,salinity_optimum"
+  },
+  "inputs": {
+    "contigs": {
+      "name": "atb.fna.gz",
+      "sha256": "46bb8201fe4d05b8614dfe8a9f1a2ff0a0904bf3142f0cd75984e0f9fda873ba"
+    },
+    "proteins": {
+      "name": "atb.faa",
+      "sha256": "10c00caa2260862604425bf9497bb45b4e515d0231e176bc8d1ef7d8893260d0"
+    },
+    "subset_ids": {
+      "name": "atb_longest20_ids.txt",
+      "sha256": "b3cdfad4313ee4f944ca7571f833a2f998b4a5f76c3196a2fcfa5e836f81de2a"
+    }
+  },
+  "models": {
+    "error_ph_max.joblib": "7a60655846523c7d3fedab3aca178618b2f1b3189777b5767f65221e33a065bd",
+    "error_ph_min.joblib": "706eb5174eb162074ec14d1ec89c2aad0a8674e6503cf13343fe88514b9cfc70",
+    "error_ph_optimum.joblib": "dbd7571b6074f3ee7aeca05fe4e51b8a5905abfbdd156199a82dbb442a5bfbe3",
+    "error_salinity_max.joblib": "e6029754325d2e0780137cc42cccbbe3457d0e705418c0a9fcec0710bfd22990",
+    "error_salinity_min.joblib": "f3be7fa8ec4a943d8d1f59e0dcc34e07ca07dc1078f9415a4df5439f7eea1275",
+    "error_salinity_optimum.joblib": "32f1f92d05654d08e3aec8d139257d1cf8f0fd96ccca1ce52e54b7c3d828d0f8",
+    "error_temperature_max.joblib": "ceee778ea7706c9106f37d954729c3b965c7a59c95dfc7b8bb43fe434d63ad98",
+    "error_temperature_min.joblib": "b872e3b2fdbc29343af6a1174993b5bcfe896a1a640153cde982032486b4c679",
+    "error_temperature_optimum.joblib": "cb739ed84913202397904a0d5afe7036be7059315c030c9adb3c261711d9ac24",
+    "instructions.json": "c39448b504e09d1008f5f18d3751e1e0ad456b260cd1a64995d740e5f9d4df0d",
+    "novelty_oxygen.joblib": "8d3b39a575d39537744b2952bfc8520992cc656b6ef81f6b5ec65bfb04139c32",
+    "novelty_ph.joblib": "ccf2d9fcff5ffba652407d63e0a21a727163fcc15b5bee6fc365388fb8b1dc0b",
+    "novelty_salinity.joblib": "5b4090aa10ef412be3439e57d441a1ec87f677f0099954604b746d941ab2ac5b",
+    "novelty_temperature.joblib": "a5a2a1174e62f769018f9e2495b2428ea84efacf5a76f593cd9ca8f40c5b1e69",
+    "oxygen.joblib": "1b16f38cc9d2eea46286c4e07ca69be238be18c24817e2b3ad8e775bcf0ce863",
+    "oxygen_2aa.sh": "b2a4ea78dacbd4e6cd5612c33d246547f8b9a37d92a6bbd36a3821a34229492b",
+    "ph_max.joblib": "65dbd7ec67b7d60964d3f020e80ca1e5918a1f356dc879c9c7edc5ad8cd84cea",
+    "ph_min.joblib": "fd14ec0a0f17812b3670bd55e25c4ecbefffbdc45746c43e586e4a02178adb8b",
+    "ph_optimum.joblib": "42e7956d3e0902417588dd0453b74ae6ab72e99faa08a52b3cb66c34253578c1",
+    "salinity_max.joblib": "84c9196e088fc2858f57924a9634e6a14e47bf64ce36054fcc6e5360581b1e0e",
+    "salinity_min.joblib": "87ba61696726fdb1e188401a62c7dc8f7ee5faa8286d929295e8277dbd39320b",
+    "salinity_optimum.joblib": "8762c58a945c809bd58862f43cba8fd76dbc3606b6ae11052605f9cad62bb821",
+    "temperature_max.joblib": "35db359b3a59ce8ac750b8c50889ae20963e62dfdd7680138b9972a4a0724926",
+    "temperature_min.joblib": "f0ab51ef231d65f01b6f8770c1f8a6066376817f1e5f5c1d8138c2d79462f0bb",
+    "temperature_optimum.joblib": "126e61b094de7f3a5308c44b433d55bf2d9bb9592d6cdeca6d8ff2aef7eadadb"
+  },
+  "packages": {
+    "numpy": "1.24.4",
+    "scipy": "1.10.1",
+    "scikit-learn": "1.2.2",
+    "hmmlearn": "0.3.0",
+    "biopython": "1.83",
+    "pandas": "2.0.3",
+    "joblib": "1.3.2"
+  },
+  "interpretation": "Descriptive model sensitivity only; no causal inference or measured accuracy claim."
+}

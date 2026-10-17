@@ -1,0 +1,118 @@
+# GenomeSPOT Lens
+
+**Does the protein set you feed a physiology model change its answer?**
+
+GenomeSPOT Lens audits how selecting a protein group changes predicted oxygen
+tolerance and growth temperature. It compares the full input with a selected
+subset and two random controls: equal protein count, and equal counts within
+protein-length bins. It retains GenomeSPOT's uncertainty estimates, novelty
+flags, missing predictions and provenance.
+
+Useful for researchers evaluating curated protein collections, gene-family
+panels, and core/accessory proteome selections before interpreting microbial
+physiology. You supply the group membership; Lens does not annotate gene
+functions or construct a pangenome.
+
+**Status: working research prototype with a two-genome pilot, not a validated
+biological discovery or a completed paper.** GenomeSPOT supplies the predictive
+models; Lens supplies the selection audit and matched controls. A fuller
+literature review is needed before claiming methodological novelty.
+
+## What is included
+
+- Strict FASTA and protein-ID validation; optional exact-sequence mapping.
+- A deterministic, seeded audit with both random-control schemes.
+- Oxygen probabilities consistently expressed as P(oxygen tolerant).
+- JSON, TSV and readable Markdown reports, with per-run warnings and IDs.
+- Input/model SHA-256 checksums and software versions.
+- Unit tests and upstream parity tests, plus GitHub Actions CI.
+- A bounded, reproducible AllTheBacteria/archaeal pilot.
+- [Research protocol](docs/research-protocol.md), [paper guide](docs/paper-guide.md),
+  [novelty assessment](docs/novelty.md) and [pilot findings](docs/pilot-results.md).
+
+## Install
+
+Use Python 3.11. The upstream serialized models require scikit-learn 1.2.2;
+changing this or upgrading NumPy without checking compatibility can break inference.
+Commands below assume `uv` is installed and that you are in this repository.
+
+```bash
+uv venv --python 3.11 .venv
+uv pip install --python .venv/bin/python -e '.[test,pilot]'
+git clone https://github.com/cultivarium/GenomeSPOT.git vendor/GenomeSPOT
+git -C vendor/GenomeSPOT checkout f79f7d6fdece71b766ff47f4fb7114daae5287d7
+uv pip install --python .venv/bin/python --no-deps -e vendor/GenomeSPOT
+```
+
+The source checkout must remain unmodified. Models are read from it rather than
+redistributed here. For the exact pilot package set, install
+`requirements-pilot-lock.txt` before the editable installs.
+
+## Run your own audit
+
+Provide nucleotide contigs and their corresponding full protein FASTA from the
+**same assembly and annotation**, plus a text file with one selected protein ID
+per line. FASTA IDs are the first whitespace-delimited token. Do not supply short
+peptide hits as a whole-organism proteome. GenomeSPOT does not perform gene calling.
+
+```bash
+.venv/bin/genomespot-lens audit \
+  --contigs genome.fna.gz --proteins proteins.faa.gz \
+  --subset-ids selected_ids.txt --models vendor/GenomeSPOT/models \
+  --out runs/my-audit --replicates 100 --seed 23
+```
+
+The default report focuses on oxygen and temperature. For the later ecology
+analysis, add `--targets oxygen,temperature_optimum,ph_optimum,salinity_optimum`.
+All ten upstream predictions are preserved in raw JSON regardless of report targets.
+
+If your subset has different sequence IDs:
+
+```bash
+.venv/bin/genomespot-lens map-subset \
+  --proteins proteins.faa.gz --subset-fasta curated.faa \
+  --out runs/mapping
+```
+
+Use `runs/mapping/subset_ids.txt` in the audit and inspect `mapping.json`.
+Ambiguous, unmatched and partial sequences are never silently assigned.
+This checks sequence correspondence, not whether the nucleotide/protein files
+belong to the same assembly; you must establish that through accession metadata.
+
+## Reproduce the real-data pilot
+
+```bash
+.venv/bin/python scripts/pilot.py --models vendor/GenomeSPOT/models \
+  --out runs/pilot --replicates 100
+GENOMESPOT_ROOT="$PWD/vendor/GenomeSPOT" .venv/bin/python -m pytest -q
+```
+
+This downloads small inputs directly from official repositories, calls proteins
+for one ATB assembly with Pyrodigal, and tests a current reviewed-protein subset
+for *Methanocaldococcus jannaschii*. It performs 404 model evaluations: two
+baselines, two selected inputs and 400 controls. Output directories must be new.
+Public databases change; checksums capture the retrieved inputs, and later runs
+may differ. It does not reconstruct the archaeome paper's historical input release.
+
+To regenerate the archived figure, install `.[plot]` and run
+`.venv/bin/python scripts/plot_pilot.py`.
+
+## Interpretation
+
+These are model-input perturbations, **not gene knockouts or causal genetic
+effects**. DNA remains unchanged. Whole-proteome predictions are comparison
+baselines, not ground truth. Control envelopes describe sampling variation,
+not measurement confidence intervals. Length matching uses fixed 100-aa bins;
+inspect residue totals and repeat with other bin widths before research claims.
+
+An upstream novelty flag means unusual input relative to the training data,
+not a novel organism or discovery. Predicted oxygen tolerance is not habitat
+oxygen concentration. Predicted pH preference is not measured soil pH.
+
+## Credit and license
+
+Lens code is MIT licensed. GenomeSPOT is by Barnum and colleagues at Cultivarium
+and collaborators: [paper](https://doi.org/10.1101/2024.03.22.586313),
+[upstream repository](https://github.com/cultivarium/GenomeSPOT).
+See [third-party notice](THIRD_PARTY_NOTICES.md). Data retain their source terms;
+this repository's software license does not relicense third-party datasets.

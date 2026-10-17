@@ -1,0 +1,50 @@
+[
+  {
+    "name": "atb.fna.gz",
+    "url": "https://allthebacteria-assemblies.s3.eu-west-2.amazonaws.com/SAMD00000344.fa.gz",
+    "bytes": 740479,
+    "sha256": "46bb8201fe4d05b8614dfe8a9f1a2ff0a0904bf3142f0cd75984e0f9fda873ba",
+    "retrieved_utc": "2026-10-17T22:14:47.388798+00:00"
+  },
+  {
+    "name": "archaea.fna.gz",
+    "url": "https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/091/665/GCF_000091665.1_ASM9166v1/GCF_000091665.1_ASM9166v1_genomic.fna.gz",
+    "bytes": 496606,
+    "sha256": "8ed685de5a2691a532053ea9c2597946f62e37a26c3b4b33a079577f0c96f56c",
+    "retrieved_utc": "2026-10-17T22:14:48.089849+00:00"
+  },
+  {
+    "name": "archaea.faa.gz",
+    "url": "https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/091/665/GCF_000091665.1_ASM9166v1/GCF_000091665.1_ASM9166v1_protein.faa.gz",
+    "bytes": 330970,
+    "sha256": "cbd09de5edd1193e81c0e93f290e8a9b0d992055817512007e68b3781514d58a",
+    "retrieved_utc": "2026-10-17T22:14:48.604284+00:00"
+  },
+  {
+    "name": "reviewed.faa",
+    "url": "https://rest.uniprot.org/uniprotkb/stream?query=%28organism_id%3A243232%29%20AND%20%28reviewed%3Atrue%29&format=fasta",
+    "bytes": 845234,
+    "sha256": "45e1c70a1bbb9d6012876a3c719e41242df4d1afd96541e36524365161ce1cbf",
+    "retrieved_utc": "2026-10-17T22:14:50.307374+00:00"
+  },
+  {
+    "name": "archaea_assembly.json",
+    "url": "https://api.ncbi.nlm.nih.gov/datasets/v2/genome/taxon/243232/dataset_report?page_size=5",
+    "bytes": 5990,
+    "sha256": "62c92e52f89278cb6779723c69224f80cd0918ff54cda1c30c7da17065ec7305",
+    "retrieved_utc": "2026-10-17T22:14:50.563996+00:00"
+  },
+  {
+    "name": "archaeome_supplementary_data_2.csv",
+    "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41564-025-02061-0/MediaObjects/41564_2025_2061_MOESM4_ESM.csv",
+    "bytes": 118168,
+    "sha256": "51ad7cc136604d56632bad87f3d2efae5adfcaa7513d922575c62d1b92953c7a",
+    "retrieved_utc": "2026-10-17T22:14:51.479743+00:00"
+  },
+  {
+    "name": "atb.faa",
+    "generated_by": "pyrodigal 3.6.3",
+    "mode": "single genome trained on all contigs, default translation table",
+    "sha256": "10c00caa2260862604425bf9497bb45b4e515d0231e176bc8d1ef7d8893260d0"
+  }
+]

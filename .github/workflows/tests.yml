@@ -1,0 +1,16 @@
+name: Tests
+on: [push, pull_request]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install -e '.[test]'
+      - run: |
+          git clone https://github.com/cultivarium/GenomeSPOT.git vendor/GenomeSPOT
+          git -C vendor/GenomeSPOT checkout f79f7d6fdece71b766ff47f4fb7114daae5287d7
+          pip install --no-deps -e vendor/GenomeSPOT
+      - run: GENOMESPOT_ROOT="$PWD/vendor/GenomeSPOT" pytest -q
