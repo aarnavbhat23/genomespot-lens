@@ -1,0 +1,10 @@
+# Python 3.11; install after the project with .[test,plot].
+nbformat==5.10.4
+nbclient==0.10.0
+ipykernel==6.29.5
+ipython==8.26.0
+matplotlib-inline==0.1.7
+statsmodels==0.14.1
+pymc==5.10.4
+arviz==0.17.1
+xarray==2023.12.0

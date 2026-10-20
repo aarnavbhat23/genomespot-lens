@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "data_kind": "demo",
+  "seed": 23,
+  "threshold_mode": "any",
+  "threshold_comparison": "lt",
+  "threshold_um": 80,
+  "targets": [
+    "SIM_target_A",
+    "SIM_target_B"
+  ],
+  "tree_rooted": true,
+  "tree_rooting_method": "known simulated root",
+  "description": "ALL DATA SIMULATED. Software demonstration only. No biological findings.",
+  "sources": {
+    "all_tables": "scripts/make_study_demo.py"
+  }
+}

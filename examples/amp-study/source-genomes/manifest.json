@@ -1,0 +1,161 @@
+{
+  "source_url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41564-025-02061-0/MediaObjects/41564_2025_2061_MOESM4_ESM.csv",
+  "source_sha256": "51ad7cc136604d56632bad87f3d2efae5adfcaa7513d922575c62d1b92953c7a",
+  "genomes": [
+    {
+      "taxon_id": "243232",
+      "selected_table_rows": 55,
+      "mapping_scope": "current exact-taxon reference; historical proteome unverified",
+      "assembly_accession": "GCF_000091665.1",
+      "organism": "Methanocaldococcus jannaschii DSM 2661",
+      "nucleotide_url": "https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/091/665/GCF_000091665.1_ASM9166v1/GCF_000091665.1_ASM9166v1_genomic.fna.gz",
+      "protein_url": "https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/091/665/GCF_000091665.1_ASM9166v1/GCF_000091665.1_ASM9166v1_protein.faa.gz",
+      "nucleotide_sha256": "8ed685de5a2691a532053ea9c2597946f62e37a26c3b4b33a079577f0c96f56c",
+      "protein_sha256": "cbd09de5edd1193e81c0e93f290e8a9b0d992055817512007e68b3781514d58a",
+      "protein_count": 1811,
+      "proteome_aa": 497636,
+      "status": "predicted",
+      "compartment_counts": {
+        "all": 1811,
+        "extracellular_soluble": 11,
+        "intracellular_soluble": 1583,
+        "membrane": 217
+      }
+    },
+    {
+      "taxon_id": "70601",
+      "selected_table_rows": 17,
+      "mapping_scope": "current exact-taxon reference; historical proteome unverified",
+      "assembly_accession": "GCF_000011105.1",
+      "organism": "Pyrococcus horikoshii OT3",
+      "nucleotide_url": "https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/011/105/GCF_000011105.1_ASM1110v1/GCF_000011105.1_ASM1110v1_genomic.fna.gz",
+      "protein_url": "https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/011/105/GCF_000011105.1_ASM1110v1/GCF_000011105.1_ASM1110v1_protein.faa.gz",
+      "nucleotide_sha256": "5907e37902b1c02eb10dc593c8dd8a9d776432ec50104af6e19b08a9bfe9c032",
+      "protein_sha256": "da750049efd74fa38e662173b06fdb82bcb2bd0b1e93f01cc46e3cf3d957bc78",
+      "protein_count": 1856,
+      "proteome_aa": 528688,
+      "status": "predicted",
+      "compartment_counts": {
+        "all": 1856,
+        "extracellular_soluble": 36,
+        "intracellular_soluble": 1568,
+        "membrane": 252
+      }
+    },
+    {
+      "taxon_id": "224325",
+      "selected_table_rows": 13,
+      "mapping_scope": "current exact-taxon reference; historical proteome unverified",
+      "assembly_accession": "GCF_000008665.1",
+      "organism": "Archaeoglobus fulgidus DSM 4304",
+      "nucleotide_url": "https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/008/665/GCF_000008665.1_ASM866v1/GCF_000008665.1_ASM866v1_genomic.fna.gz",
+      "protein_url": "https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/008/665/GCF_000008665.1_ASM866v1/GCF_000008665.1_ASM866v1_protein.faa.gz",
+      "nucleotide_sha256": "3d8c7c9e546e4848cdb4c5a2cf080f9da74af78c54be5815470970d60fc15843",
+      "protein_sha256": "cf752f6ad47b07e773a841194995c03b9c7cb57a3b17b6c598f595e38ee30e4d",
+      "protein_count": 2461,
+      "proteome_aa": 662688,
+      "status": "predicted",
+      "compartment_counts": {
+        "all": 2461,
+        "extracellular_soluble": 61,
+        "intracellular_soluble": 2106,
+        "membrane": 294
+      }
+    },
+    {
+      "taxon_id": "273057",
+      "selected_table_rows": 12,
+      "mapping_scope": "current exact-taxon reference; historical proteome unverified",
+      "assembly_accession": "GCF_000007005.1",
+      "organism": "Saccharolobus solfataricus P2",
+      "nucleotide_url": "https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/007/005/GCF_000007005.1_ASM700v1/GCF_000007005.1_ASM700v1_genomic.fna.gz",
+      "protein_url": "https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/007/005/GCF_000007005.1_ASM700v1/GCF_000007005.1_ASM700v1_protein.faa.gz",
+      "nucleotide_sha256": "f83bb93656f584e7f79d225a2d6a6ea8fb8c36add7f831625df772c5fcda387e",
+      "protein_sha256": "17b34dec5c74b024487ac6da521b516fe410aa5a24c4f22e946ef084c59d3f68",
+      "protein_count": 2826,
+      "proteome_aa": 786527,
+      "status": "predicted",
+      "compartment_counts": {
+        "all": 2826,
+        "extracellular_soluble": 20,
+        "intracellular_soluble": 2422,
+        "membrane": 384
+      }
+    },
+    {
+      "taxon_id": "187420",
+      "selected_table_rows": 11,
+      "mapping_scope": "current exact-taxon reference; historical proteome unverified",
+      "assembly_accession": "GCF_000008645.1",
+      "organism": "Methanothermobacter thermautotrophicus str. Delta H",
+      "nucleotide_url": "https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/008/645/GCF_000008645.1_ASM864v1/GCF_000008645.1_ASM864v1_genomic.fna.gz",
+      "protein_url": "https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/008/645/GCF_000008645.1_ASM864v1/GCF_000008645.1_ASM864v1_protein.faa.gz",
+      "nucleotide_sha256": "0aa0f845746e2d4e6edba9f012bdc53845f8fd96e915646fc08afdb23d956841",
+      "protein_sha256": "3ebb20e453628c25ca819aaeda467443d2ba12916d4afbacadd0ad745850bca0",
+      "protein_count": 1801,
+      "proteome_aa": 502854,
+      "status": "predicted",
+      "compartment_counts": {
+        "all": 1801,
+        "extracellular_soluble": 36,
+        "intracellular_soluble": 1558,
+        "membrane": 207
+      }
+    },
+    {
+      "taxon_id": "272557",
+      "selected_table_rows": 10,
+      "mapping_scope": "current exact-taxon reference; historical proteome unverified",
+      "assembly_accession": "GCF_000011125.1",
+      "organism": "Aeropyrum pernix K1",
+      "nucleotide_url": "https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/011/125/GCF_000011125.1_ASM1112v1/GCF_000011125.1_ASM1112v1_genomic.fna.gz",
+      "protein_url": "https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/011/125/GCF_000011125.1_ASM1112v1/GCF_000011125.1_ASM1112v1_protein.faa.gz",
+      "nucleotide_sha256": "bf3d0a46779d1e45368788a078e306beef111b24b6d87a07c55e16ad1999e9a2",
+      "protein_sha256": "328361b4fac435788f322d4ec92599d864b88d8dcb77d84bcdd28d08d5770c79",
+      "protein_count": 1704,
+      "proteome_aa": 491128,
+      "status": "predicted",
+      "compartment_counts": {
+        "all": 1704,
+        "extracellular_soluble": 74,
+        "intracellular_soluble": 1416,
+        "membrane": 214
+      }
+    }
+  ],
+  "genomespot_commit": "f79f7d6fdece71b766ff47f4fb7114daae5287d7",
+  "software": {
+    "numpy": "1.24.4",
+    "scikit-learn": "1.2.2",
+    "hmmlearn": "0.3.0",
+    "biopython": "1.83",
+    "pandas": "2.0.3"
+  },
+  "models": {
+    "novelty_salinity.joblib": "5b4090aa10ef412be3439e57d441a1ec87f677f0099954604b746d941ab2ac5b",
+    "novelty_ph.joblib": "ccf2d9fcff5ffba652407d63e0a21a727163fcc15b5bee6fc365388fb8b1dc0b",
+    "oxygen_2aa.sh": "b2a4ea78dacbd4e6cd5612c33d246547f8b9a37d92a6bbd36a3821a34229492b",
+    "salinity_optimum.joblib": "8762c58a945c809bd58862f43cba8fd76dbc3606b6ae11052605f9cad62bb821",
+    "error_salinity_optimum.joblib": "32f1f92d05654d08e3aec8d139257d1cf8f0fd96ccca1ce52e54b7c3d828d0f8",
+    "novelty_oxygen.joblib": "8d3b39a575d39537744b2952bfc8520992cc656b6ef81f6b5ec65bfb04139c32",
+    "error_temperature_optimum.joblib": "cb739ed84913202397904a0d5afe7036be7059315c030c9adb3c261711d9ac24",
+    "error_ph_optimum.joblib": "dbd7571b6074f3ee7aeca05fe4e51b8a5905abfbdd156199a82dbb442a5bfbe3",
+    "oxygen.joblib": "1b16f38cc9d2eea46286c4e07ca69be238be18c24817e2b3ad8e775bcf0ce863",
+    "temperature_min.joblib": "f0ab51ef231d65f01b6f8770c1f8a6066376817f1e5f5c1d8138c2d79462f0bb",
+    "instructions.json": "c39448b504e09d1008f5f18d3751e1e0ad456b260cd1a64995d740e5f9d4df0d",
+    "temperature_max.joblib": "35db359b3a59ce8ac750b8c50889ae20963e62dfdd7680138b9972a4a0724926",
+    "ph_min.joblib": "fd14ec0a0f17812b3670bd55e25c4ecbefffbdc45746c43e586e4a02178adb8b",
+    "ph_max.joblib": "65dbd7ec67b7d60964d3f020e80ca1e5918a1f356dc879c9c7edc5ad8cd84cea",
+    "temperature_optimum.joblib": "126e61b094de7f3a5308c44b433d55bf2d9bb9592d6cdeca6d8ff2aef7eadadb",
+    "error_temperature_max.joblib": "ceee778ea7706c9106f37d954729c3b965c7a59c95dfc7b8bb43fe434d63ad98",
+    "error_salinity_min.joblib": "f3be7fa8ec4a943d8d1f59e0dcc34e07ca07dc1078f9415a4df5439f7eea1275",
+    "error_salinity_max.joblib": "e6029754325d2e0780137cc42cccbbe3457d0e705418c0a9fcec0710bfd22990",
+    "ph_optimum.joblib": "42e7956d3e0902417588dd0453b74ae6ab72e99faa08a52b3cb66c34253578c1",
+    "error_temperature_min.joblib": "b872e3b2fdbc29343af6a1174993b5bcfe896a1a640153cde982032486b4c679",
+    "error_ph_min.joblib": "706eb5174eb162074ec14d1ec89c2aad0a8674e6503cf13343fe88514b9cfc70",
+    "salinity_max.joblib": "84c9196e088fc2858f57924a9634e6a14e47bf64ce36054fcc6e5360581b1e0e",
+    "novelty_temperature.joblib": "a5a2a1174e62f769018f9e2495b2428ea84efacf5a76f593cd9ca8f40c5b1e69",
+    "salinity_min.joblib": "87ba61696726fdb1e188401a62c7dc8f7ee5faa8286d929295e8277dbd39320b",
+    "error_ph_max.joblib": "7a60655846523c7d3fedab3aca178618b2f1b3189777b5767f65221e33a065bd"
+  }
+}

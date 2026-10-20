@@ -14,3 +14,16 @@ jobs:
           git -C vendor/GenomeSPOT checkout f79f7d6fdece71b766ff47f4fb7114daae5287d7
           pip install --no-deps -e vendor/GenomeSPOT
       - run: GENOMESPOT_ROOT="$PWD/vendor/GenomeSPOT" python -m pytest -q
+  amp-notebooks:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install -e '.[test,plot]' -r study/requirements.txt
+      - run: python -m pytest tests/test_amp_study.py -q
+      - run: python scripts/execute_study_notebooks.py
+        env:
+          MPLBACKEND: Agg
+          AMP_STUDY_MODE: demo

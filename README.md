@@ -1,6 +1,24 @@
 # GenomeSPOT Lens
 
-**Does the protein set you feed a physiology model change its answer?**
+**Explore microbial physiology, ancestry, AMR burden and encrypted-AMP richness.**
+
+Three executable research notebooks implement ecology, evolution and resistance
+analyses with explicit screening denominators and source-mapping checks:
+
+1. [Ecology and AMP richness](notebooks/01_ecology_amp_richness.ipynb)
+2. [Evolution and AMP richness](notebooks/02_evolution_amp_richness.ipynb)
+3. [Resistance and AMP opportunity](notebooks/03_resistance_amp_opportunity.ipynb)
+
+Read [study setup and execution](study/README.md) first. The saved statistical
+outputs use an explicitly simulated cohort. Actual GenomeSPOT results for six
+reported archaeome source taxa and a thorough public-data audit are included.
+The complete original per-genome AMP screen linkage remains unresolved; see
+[source search](study/source-search.md). The notebooks do not turn selected hit
+lists into zero-hit genomes or claim biological results from the demonstration.
+
+## Protein-selection audit
+
+Does the protein set supplied to a physiology model change its answer?
 
 GenomeSPOT Lens audits how selecting a protein group changes predicted oxygen
 tolerance and growth temperature. It compares the full input with a selected
@@ -13,8 +31,8 @@ panels, and core/accessory proteome selections before interpreting microbial
 physiology. You supply the group membership; Lens does not annotate gene
 functions or construct a pangenome.
 
-**Status: working research prototype with a two-genome pilot, not a validated
-biological discovery or a completed paper.** GenomeSPOT supplies the predictive
+**Status: working research prototype with tested notebooks and genome pilots.**
+Biological hypotheses still require a complete real cohort. GenomeSPOT supplies the predictive
 models; Lens supplies the selection audit and matched controls. A fuller
 literature review is needed before claiming methodological novelty.
 

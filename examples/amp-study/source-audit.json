@@ -1,0 +1,199 @@
+{
+  "checked_utc": "2026-10-20T22:04:31.166007+00:00",
+  "files": {
+    "archaeome_all_scores.csv": {
+      "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41564-025-02061-0/MediaObjects/41564_2025_2061_MOESM3_ESM.csv",
+      "sha256": "be8f62397e6afd97245fb72ebc08e62a1d5afeec42a185d5950ddf625792447a",
+      "bytes": 2003878
+    },
+    "archaeome_selected_sources.csv": {
+      "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41564-025-02061-0/MediaObjects/41564_2025_2061_MOESM4_ESM.csv",
+      "sha256": "51ad7cc136604d56632bad87f3d2efae5adfcaa7513d922575c62d1b92953c7a",
+      "bytes": 118168
+    },
+    "mendeley_files.json": {
+      "url": "https://data.mendeley.com/public-api/datasets/d8yzgtdrcp/files?folder_id=root&version=3&$start=0&$limit=1000",
+      "sha256": "33917cbf4edb95baf4dd2cc47aff980453b0e5246081e1346d237ea226ffe5a7",
+      "bytes": 4443
+    },
+    "carbon_metadata.json": {
+      "url": "https://huggingface.co/api/models/HuggingFaceBio/Carbon-A-1.2B",
+      "sha256": "fe1fd9d59e044ca832c32a3eb19b47040dd35767ac2639ec8fad7f9086320fb4",
+      "bytes": 3540
+    },
+    "amr_latest_files.json": {
+      "url": "https://api.osf.io/v2/nodes/7nwrx/files/osfstorage/69f1e3f3d84f7f2bb2fc8fa3/?page%5Bsize%5D=100",
+      "sha256": "e9c8b59f965cff4196effcac4fa406d3e2b8391bd76dfdf651e9d264ea38f44d",
+      "bytes": 6642
+    }
+  },
+  "archaeome": {
+    "score_rows": 12623,
+    "unique_sequences": 12623,
+    "score_columns": [
+      "Unnamed: 0",
+      "A. baumannii ATCC 19606",
+      "E. coli ATCC 11775",
+      "E. coli AIG221",
+      "E. coli AIG222",
+      "K. pneumoniae ATCC 13883",
+      "P. aeruginosa PA01",
+      "P. aeruginosa PA14",
+      "S. aureus ATCC 12600",
+      "S. aureus (ATCC BAA-1556) - MRSA",
+      "vancomycin-resistant E. faecalis ATCC 700802",
+      "vancomycin-resistant E. faecium ATCC 700221",
+      "MeanMIC"
+    ],
+    "selected_mapping_rows": 265,
+    "selected_mapping_columns": [
+      "Unnamed: 0",
+      "A. baumannii ATCC 19606",
+      "E. coli ATCC 11775",
+      "E. coli AIG221",
+      "E. coli AIG222",
+      "K. pneumoniae ATCC 13883",
+      "P. aeruginosa PA01",
+      "P. aeruginosa PA14",
+      "S. aureus ATCC 12600",
+      "S. aureus (ATCC BAA-1556) - MRSA",
+      "vancomycin-resistant E. faecalis ATCC 700802",
+      "vancomycin-resistant E. faecium ATCC 700221",
+      "MeanMIC",
+      "Source",
+      "ProteinInfo",
+      "ID"
+    ],
+    "single_taxon_rows": 256,
+    "full_genome_mapping_available_in_score_table": false,
+    "per_genome_screen_denominators_available_in_score_table": false,
+    "scope": "positive score catalog and selected mappings; insufficient for unbiased per-genome richness"
+  },
+  "mendeley": {
+    "doi": "10.17632/d8yzgtdrcp.3",
+    "file_inventory": [
+      {
+        "name": "Active_Archaea_EP_GO_frequency.tsv",
+        "size": 17225,
+        "sha256": "71e64f713486b7eb4b89c383b37216981ee6f46bffb4808d1e0b7ca23aadba13",
+        "url": "https://data.mendeley.com/public-files/datasets/d8yzgtdrcp/files/31b7d609-432a-4887-9fb6-3260f00676da/file_downloaded"
+      },
+      {
+        "name": "COA_archaeasins.zip",
+        "size": 11297157,
+        "sha256": "982cd9a9f6d497c14c67a1b72ea25106cc865743ae63f2e1275d73bad37ef0b3",
+        "url": "https://data.mendeley.com/public-files/datasets/d8yzgtdrcp/files/b1307377-6e4d-4f63-b2c1-da070f075949/file_downloaded"
+      },
+      {
+        "name": "DataS1_List of 12632 archaeasin sequences found by APEX.csv",
+        "size": 567789,
+        "sha256": "b2e28a30a64af421319e4cc72db29f229c9a9c30a66111fb7b831c1eb4b4ea15",
+        "url": "https://data.mendeley.com/public-files/datasets/d8yzgtdrcp/files/5c763dac-eccb-4dfd-8750-31bb2f617f6a/file_downloaded"
+      },
+      {
+        "name": "Data S2_Archaeasins predicted active with source organisms.csv",
+        "size": 118168,
+        "sha256": "51ad7cc136604d56632bad87f3d2efae5adfcaa7513d922575c62d1b92953c7a",
+        "url": "https://data.mendeley.com/public-files/datasets/d8yzgtdrcp/files/338caca5-e8ed-438a-ae96-2d9215753e40/file_downloaded"
+      },
+      {
+        "name": "DataS3_AA_percentage_mannwhitneyu_oneside_greater_pval_table.csv",
+        "size": 1747,
+        "sha256": "6dcbb117297672f4160a04b471f65de17ebde332f6e53403bd3e79b98759357e",
+        "url": "https://data.mendeley.com/public-files/datasets/d8yzgtdrcp/files/cbb2f7ea-ec69-4f49-932a-9c8564862406/file_downloaded"
+      },
+      {
+        "name": "DataS4_AA_percentage_mannwhitneyu_oneside_less_pval_table.csv",
+        "size": 1644,
+        "sha256": "5d81d7e006565464eb62eb1ca18c5626ebd13850b859430de14cdb7e340b1c23",
+        "url": "https://data.mendeley.com/public-files/datasets/d8yzgtdrcp/files/e480ebce-a0cd-4701-ada5-35af57d43f64/file_downloaded"
+      }
+    ],
+    "data_s1_content": {
+      "fasta_records": 12623,
+      "format": "FASTA despite .csv filename",
+      "sha256": "b2e28a30a64af421319e4cc72db29f229c9a9c30a66111fb7b831c1eb4b4ea15",
+      "source_id_mapping": false
+    }
+  },
+  "amr": {
+    "tool_version": "4.2.5",
+    "database_version": "2025-12.03.1",
+    "files": [
+      {
+        "name": "AMRFP_status.tsv.gz",
+        "bytes": 7096366,
+        "download": "https://osf.io/download/gcn98/"
+      },
+      {
+        "name": "AMRFP_results.tsv.gz",
+        "bytes": 1247838193,
+        "download": "https://osf.io/download/mxu5g/"
+      },
+      {
+        "name": "amrfinderplus.parquet",
+        "bytes": 1179145375,
+        "download": "https://osf.io/download/4j7u2/"
+      }
+    ],
+    "zero_count_rule": "Only PASS with no AMR determinants is zero; FAIL/NOT DONE/absent remain missing",
+    "observed_header": [
+      "Name",
+      "Protein id",
+      "Contig id",
+      "Start",
+      "Stop",
+      "Strand",
+      "Element symbol",
+      "Element name",
+      "Scope",
+      "Type",
+      "Subtype",
+      "Class",
+      "Subclass",
+      "Method",
+      "Target length",
+      "Reference sequence length",
+      "% Coverage of reference",
+      "% Identity to reference",
+      "Alignment length",
+      "Closest reference accession",
+      "Closest reference name",
+      "HMM accession",
+      "HMM description",
+      "Hierarchy node"
+    ]
+  },
+  "carbon_a": {
+    "model": "HuggingFaceBio/Carbon-A-1.2B",
+    "revision": "07f7d86c96f27c3769220205beb0916e67f23448",
+    "role": "Eukaryotic CDS annotation. Outside the documented scope of bacterial/archaeal gene calling; not an AMP predictor.",
+    "weights_downloaded": false
+  },
+  "atb": {
+    "public_genomes_and_amr": true,
+    "complete_amp_to_genome_scoring_manifest_located": false,
+    "caveat": "Scoped public search, not a claim that the files do not exist. See study/source-search.md.",
+    "master_index": {
+      "url": "https://osf.io/download/r6gcp/",
+      "rows": 3009,
+      "sha256": "b36aa796435185a8ea606e63ed5031f40b6e327853e3ef4aab8d07802fd26d3f",
+      "searched_terms": [
+        "peptide",
+        "apex",
+        "encrypted"
+      ],
+      "matched_rows": 0
+    },
+    "supplement": {
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13370402/supplementaryFiles",
+      "pdf_sha256": "8812c13ace4dffa5be81ead5aab33510661af4a9a73a69c467ae690f135e8cba",
+      "pages": 22,
+      "table1": "24 selected synthesized peptides with IDs/sequences; not a full genome-screen registry"
+    }
+  },
+  "scholar": {
+    "profile": "https://scholar.google.com/citations?user=Wyggy_QAAAAJ&hl=en",
+    "result": "Direct request returned HTTP 403; followed author publication links and primary paper/repository deposits."
+  }
+}
