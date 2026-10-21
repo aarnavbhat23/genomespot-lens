@@ -84,8 +84,10 @@ save(fig,'observed_temperature_density');plt.show()
 '''),md('''
 ## Genuine ancestry adjustment and posterior diagnostics
 
-The rooted archaeal 53-marker tree comes from GTDB r226. Tips are exact versioned
-assembly matches; pruning preserves path lengths. The covariance uses shared
+The archaeal 53-marker tree comes from GTDB r226. Tips are exact versioned
+assembly matches; pruning preserves patristic path lengths. A subsequent root
+audit below corrects the original rooting description and tests full published
+roots as well as the original induced-MRCA root. The covariance uses shared
 root-to-common-ancestor branch length, scaled to correlations. It was not inferred
 from the AMP outcome.
 
@@ -132,6 +134,66 @@ ax.set_xlim(results.rr_q025.min()*.85,results.rr_q975.max()*1.15)
 ax.set(xlabel='Rate ratio per 10°C (95% posterior interval)',title='REAL DATA: temperature association depends on controls')
 save(fig,'phylogenetic_temperature_effects');plt.show()
 '''),md('''
+## Exploratory prior and updated-tree sensitivity
+
+An addendum was frozen after seeing the pilot, before fitting these checks
+(commit 07a490c). The same 29 genomes have exact versioned tips in GTDB r232.
+We vary non-intercept coefficient prior SD from 1.5 to 0.75 and 3, retaining all
+other original priors, or update the tree from r226 to r232. These are limited
+sensitivity checks, not an exhaustive prior/phylogeny validation. All use four
+chains with the original final sampling settings and diagnostic gates.
+'''),code('''
+sensitivity=pd.DataFrame(json.loads((DATA/'sensitivity-results/results.json').read_text()))
+assert sensitivity.status.eq('diagnostics_pass').all()
+assert sensitivity.max_rhat.lt(1.01).all() and sensitivity.minimum_bulk_ess.ge(400).all()
+assert sensitivity.divergences.eq(0).all()
+assert sensitivity.genomes.eq(len(primary)).all()
+display(sensitivity[['model','genomes','non_intercept_prior_sd','rr_per10C_median',
+                     'rr_q025','rr_q975','max_rhat','minimum_bulk_ess','divergences']])
+print('Every tested adjusted interval spans 1; this is uncertainty, not evidence of equivalence.')
+'''),md('''
+### Rooting audit and two additional fits
+
+The original pruning routine collapses a unary root path and resets its branch
+to zero. It preserves pairwise distances and published clade orientation, but
+the covariance root becomes the retained MRCA. This corrects the earlier prose
+that the full published root was unchanged. The removed shared stems are 0.04572
+(r226) and 0.14953935 (r232) substitutions/site. The root-audit addendum (b089cb9)
+was committed before these two additional fits.
+
+The new trees preserve the full published root, shared unary stem, root-to-tip
+and root-to-MRCA depths, verified against the originals. These results are added
+to the audit; the original fits are not silently replaced. All six adjusted
+specifications below use the same 29 genomes and retain the original sampling
+settings. They test a limited set of priors/root choices, not every plausible
+model of evolution.
+'''),code('''
+rooting=pd.DataFrame(json.loads((DATA/'rooting-results/results.json').read_text()))
+assert rooting.status.eq('diagnostics_pass').all()
+assert rooting.max_rhat.lt(1.01).all() and rooting.minimum_bulk_ess.ge(400).all()
+assert rooting.divergences.eq(0).all()
+display(rooting[['model','genomes','shared_stem_substitutions_per_site','rr_per10C_median',
+                'rr_q025','rr_q975','max_rhat','minimum_bulk_ess','divergences']])
+combined=pd.concat([results[results.model=='adjusted'],sensitivity,rooting],ignore_index=True)
+names={'adjusted':'r226 MRCA root, original prior (primary)',
+       'prior075':'r226 MRCA root, slope prior SD 0.75',
+       'prior300':'r226 MRCA root, slope prior SD 3',
+       'tree232':'r232 MRCA root, original prior',
+       'r226_published_root':'r226 full published root, original prior',
+       'r232_published_root':'r232 full published root, original prior'}
+fig,ax=plt.subplots(figsize=(8.6,4.8))
+for i,r in combined.iterrows():
+    color='#007f86' if r['model']=='adjusted' else '#667684'
+    ax.plot([r.rr_q025,r.rr_q975],[i,i],color=color,lw=2)
+    ax.scatter(r.rr_per10C_median,i,color=color,s=42,zorder=3)
+ax.axvline(1,color='black',ls='--',lw=1)
+ax.set_yticks(range(len(combined)),[names[x] for x in combined.model]);ax.invert_yaxis()
+ax.set_xscale('log');ax.set_xticks([.75,1,1.5,2],['0.75','1','1.5','2'])
+ax.xaxis.set_minor_formatter(NullFormatter());ax.set_xlim(.65,2)
+ax.set(xlabel='Rate ratio per 10°C (95% posterior interval)',
+       title='REAL DATA: adjusted temperature estimates remain uncertain')
+save(fig,'temperature_prior_root_sensitivity');plt.show()
+'''),md('''
 ## Within-homology sensitivity — a separate analysis
 
 MMseqs2 groups use 30% or 50% identity with 80% bidirectional coverage; these are
@@ -174,8 +236,10 @@ protein subset and predicted activity, not a complete proteome screen or measure
 antimicrobial function.
 
 The proposed contribution is an auditable comparative test, not a claim that hot
-microbes or ecological AMP discovery are new. Next decisive work is an independent
-uniform screen/replication cohort, prior/tree sensitivity and a powered design.
+microbes or ecological AMP discovery are new. The prior/tree checks above leave the pilot conclusion unchanged. The separate
+real-data bacterial comparison in notebook 05 tests species/habitat confounding
+with a different AMP endpoint; it is not temperature replication. Next decisive
+work is an independent uniform screen/replication cohort and a powered design.
 Vinay's ATB resistance question still needs its full screened-sample/parent/score
 export and resolution of its conflicting threshold descriptions. Carbon-A's
 documented eukaryotic CDS task does not replace prokaryotic annotations here.

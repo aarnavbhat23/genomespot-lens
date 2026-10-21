@@ -1,0 +1,12 @@
+{
+  "statistic": 6.063919937847883,
+  "permutations": 9999,
+  "seed": 23,
+  "exceedances": 413,
+  "p_value": 0.0414,
+  "genomes": 1323,
+  "species": 40,
+  "multi_habitat_species": 40,
+  "quality_adjusted": false,
+  "null_assumption": "Habitat labels exchangeable within species; observational sensitivity only"
+}

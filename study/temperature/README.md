@@ -68,6 +68,30 @@ To repeat the label-agreement and training-overlap audit:
 
 The model runner saves every diagnostic result. Any failed model is explicitly
 marked `WITHHOLD_DIAGNOSTICS_FAILED`; it must not support a biological claim.
-The protocol defines prior/cohort choices and the interpretation limits. Formal
-publication additionally requires prior/tree sensitivity, adequate power and
-external replication; statistical output alone does not establish a new mechanism.
+The protocol defines prior/cohort choices and the interpretation limits. The exploratory prior/tree/root checks are now complete for the tested choices;
+formal publication additionally requires adequate power and independent
+uniform-screen replication; statistical output alone does not establish a new mechanism.
+
+
+## Exploratory prior, tree-release and rooting checks
+
+The [extension protocol](extension-protocol.md) records choices after seeing the
+pilot and before the respective fits. The initial pruning retained patristic
+distances but removed the stem above the retained MRCA; the audit corrects earlier
+rooting prose. Original fits are retained, with two further fits preserving the
+full published root in each release.
+
+```bash
+.venv/bin/python scripts/analyze_temperature_sensitivity.py \
+  --data examples/temperature-study \
+  --tree-r232 examples/temperature-study/sources/ar53-r232.tree.gz \
+  --out runs/temperature-sensitivity
+.venv/bin/python scripts/analyze_temperature_rooting.py \
+  --data examples/temperature-study --out runs/temperature-rooting
+```
+
+These five additional real fits all use the same 29 genomes. Public summary
+artifacts reside in `sensitivity-results/` and `rooting-results/` under the real
+data directory; full draws remain local. The independent bacterial comparison
+in notebook 05 addresses habitat/species confounding with a different AMP endpoint
+and cannot replace temperature replication.

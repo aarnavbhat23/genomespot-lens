@@ -1,0 +1,53 @@
+{
+  "data_kind": "real",
+  "created_utc": "2026-10-21T04:47:12.469627+00:00",
+  "exploratory_protocol_commit": "07a490c",
+  "article": "https://doi.org/10.1186/s40168-025-02145-3",
+  "supplement": "https://media.springernature.com/original/springer-static/esm/art%3A10.1186%2Fs40168-025-02145-3/MediaObjects/40168_2025_2145_MOESM1_ESM.zip",
+  "license": "CC BY 4.0 (article and supplementary material; see article rights)",
+  "endpoint": "Macrel small-ORF AMP candidates; distinct from encrypted APEX windows",
+  "zero_definition": "Screened MAG registry members absent from complete positive table",
+  "genomes": 1964,
+  "positive_genomes": 880,
+  "zero_genomes": 1084,
+  "hits": 1327,
+  "species": 137,
+  "multi_habitat_species": 40,
+  "informative_common_support_genomes": 1312,
+  "informative_common_support_species": 36,
+  "all_zero_common_species_genomes_conditioned_out": 11,
+  "all_zero_common_species_conditioned_out": 4,
+  "common_support_genomes": 1323,
+  "single_habitat_genomes": 641,
+  "screened_smorfs_per_genome_available": false,
+  "covariates": "Standardized log genome bp, completeness, contamination, GC fraction; each centered/scaled within the fitted cohort",
+  "uncertainty": "Species cluster sandwich, finite sample correction, t df=clusters-1; exploratory unadjusted 95% intervals",
+  "raw_sha256": {
+    "Supplementary Data 1.xlsx": "04ae8b7887cd667ea8728c951772e0100f4c29c42581546701a0b267e80a7632",
+    "Supplementary Data 2.xlsx": "242c27a73448d90fd39a6e5990ae6531f46973fd6c1ef14703b529dcf0fd58af",
+    "Supplementary Data 3.xlsx": "4a62d8b8587f30a60e0f723c34ff2fb4eed32dd0d3e42bad585708fe0924e13a",
+    "Supplementary Data 4.xlsx": "24b2a857f50a5678cb9034356e3f2d46146c5f7c4164c245d6eec559f4774746",
+    "Supplementary Data 5.xlsx": "b361ecf9cc251d0797a6827d1cc225ee8732661df8f1280b7be0f17c07ba1e56",
+    "Supplementary Data 6.xlsx": "4fa7c2f3f008f6aabbaf73351f75c0f5b181075bdca07d7376b3fb426dccc615"
+  },
+  "code_sha256": {
+    "runner": "260ec224e0f3c11036b7b1a5d0ad64f8de842a0d27d6d8edc207a456ae377dd8",
+    "statistics": "8113f6e2e839e66a7422ab4749cfb1b4aefc2a9420cd85b076141edbf7fb8c5e"
+  },
+  "packages": {
+    "numpy": "1.24.4",
+    "pandas": "2.0.3",
+    "statsmodels": "0.14.1",
+    "scipy": "1.10.1",
+    "openpyxl": "3.1.5"
+  },
+  "supplement_zip_sha256": "a296e3333136a9ea81e7ec023405c34ee69a310512bc765e24202d1b1f2f80e3",
+  "outputs": {
+    "effects.csv": "8051c9df5c7ae87d8b89cdf14d177be7b64a15747c27d13a4191f8dc0207faad",
+    "habitat-summary.csv": "8fd2001b08ff826345f2dc6386ada07294c578c6b1c77ee8fd99c8dc36b1bbb6",
+    "hit-registry.csv": "b04bac311abaad8b20c99f9e9af7f70f8c1b513c1c12aaade3c58128b554ec78",
+    "genomes.csv": "4810460c0c91e4c3b005846ffd637e48fee6456e8bb2000614305de9ef10534c",
+    "permutation.json": "0538a806789ce9a1c360ce5da32d9f89b98481c1aca2cd75a3d655436e7f1ae9",
+    "species-habitat-overlap.csv": "4bbec05cd679fbf6f52dbaa0bb271822483ef9a9bd78b6b5277a18b17c8f1ea5"
+  }
+}

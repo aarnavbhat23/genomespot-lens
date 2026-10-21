@@ -55,6 +55,33 @@ Do not select the more favorable definition or treat secondary raw p-values as
 confirmatory discoveries. Strong overdispersion (about 8–10) reinforces the need
 for robust uncertainty and additional biological replication.
 
+## Exploratory prior, release and root checks
+
+Five additional four-chain fits use the same 29 genomes and original final
+sampling settings. All pass the same all-parameter diagnostic gates, with zero
+divergences, maximum Rhat <1.003 and minimum bulk ESS >2,200.
+
+| Exploratory adjusted specification | RR per 10 C | 95% posterior interval |
+|---|---:|---:|
+| r226 MRCA root; non-intercept prior SD 0.75 | 1.21 | 0.85–1.73 |
+| r226 MRCA root; non-intercept prior SD 3 | 1.15 | 0.74–1.74 |
+| r232 retained-MRCA root; original priors | 1.16 | 0.75–1.74 |
+| r226 full published root; original priors | 1.16 | 0.76–1.74 |
+| r232 full published root; original priors | 1.16 | 0.77–1.72 |
+
+The original pruning removed the shared stem above the retained genomes' MRCA.
+It preserves patristic distances and clade orientation but not the full published
+root-to-tip depths. This corrects earlier rooting prose in the original protocol
+and source provenance; neither those original records nor fits were silently
+rewritten. Removed stems were 0.04572 (r226) and 0.14953935 (r232) substitutions/site.
+The two additional published-root fits preserve both stems and root depths,
+verified against the raw trees. The addenda were committed before their fits.
+
+The tested shrinkage/release/root choices leave the adjusted result uncertain;
+this is neither a proof of equivalence nor an exhaustive model-robustness claim.
+
+![Prior and root sensitivity](figures/temperature_prior_root_sensitivity.png)
+
 ## What is new enough to pursue?
 
 The candidate contribution is an auditable test of whether ecological physiology
@@ -64,7 +91,11 @@ The code/data/provenance make that distinction testable; this pilot does not
 establish publication priority or a new antimicrobial mechanism.
 
 The next decisive evidence is an independently sampled, uniformly screened cohort
-and prior/tree sensitivity, followed by activity validation for functional claims.
+and adequate power, followed by activity validation for functional claims. The
+limited prior/tree/root sensitivities above are now complete. A separate
+[bacterial ecology comparison](../ecology-comparison/results.md) shows how
+species and genome covariates change habitat estimates, but its small-ORF
+endpoint cannot replicate temperature-associated encrypted fragments.
 Vinay's AllTheBacteria resistance question still needs the complete original
 sample/parent/fragment score export and clarification of its threshold. A 24-peptide
 synthesis shortlist cannot supply that cohort. Nothing has been sent to authors

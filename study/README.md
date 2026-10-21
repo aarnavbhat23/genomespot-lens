@@ -1,4 +1,4 @@
-# Three AMP research notebooks
+# AMP research notebooks and real-data studies
 
 The notebooks correspond directly to the ecology, evolution and resistance
 questions. They share validated data preparation, and each contains its own
@@ -25,6 +25,13 @@ full screen export remains
 unresolved. The [source search](source-search.md) documents the evidence. No
 ecology/AMR/co-evolution finding is claimed from the demonstration.
 
+[Notebook 05](../notebooks/05_real_ecology_species_comparison.ipynb) adds a second
+actual-data analysis: 1,964 bacterial genomes, 1,084 true registry zeros, and
+species-controlled habitat comparisons. It refits the models and repeats the
+permutation test using real data; its small-ORF endpoint is distinct from APEX
+windows. Read [the results and limitations](ecology-comparison/results.md).
+The temperature notebook now also includes prior, release and rooting checks.
+
 ## Install and execute
 
 From the repository root, using Python 3.11 and `uv`:
@@ -36,7 +43,7 @@ uv pip install --python .venv/bin/python -e '.[test,plot]' -r study/requirements
 .venv/bin/python scripts/execute_study_notebooks.py
 ```
 
-The runner uses the current Python interpreter explicitly and executes all three
+The runner uses the current Python interpreter explicitly and executes all five
 notebooks, saving their outputs in place. It performs no network downloads or
 paid compute. The delivered notebook metadata uses a generic Python 3 kernel;
 select this environment if opening them in Jupyter or an editor. Shared code
@@ -46,7 +53,8 @@ in the notebook text and [analysis plan](analysis-plan.md).
 The fixture has 384 explicitly synthetic genomes, fake peptide identifiers,
 fake AMR calls, simulated traits and a simulated tree. Its purpose is testing
 joins, offsets, filters and models. `scripts/make_study_demo.py` regenerates it
-in a new directory with seed 23. Raw published inputs stay outside Git in `runs/`.
+in a new directory with seed 23. Large raw downloads stay outside Git in `runs/`; selected frozen source trees
+and the bacterial supplement ZIP are retained in the real-data examples.
 
 ## Reconstruct the historical archaeome input
 
