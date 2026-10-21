@@ -1,0 +1,37 @@
+{
+  "model": "broad",
+  "genomes": 53,
+  "status": "diagnostics_pass",
+  "temperature_variable": "observed_temperature",
+  "rr_per10C_median": 1.2088914823658476,
+  "rr_q025": 0.9121748768547095,
+  "rr_q975": 1.6300012405598823,
+  "posterior_probability_positive": 0.90825,
+  "max_rhat": 1.002097943858086,
+  "minimum_bulk_ess": 1850.9492345454833,
+  "divergences": 0,
+  "draws_per_chain": 4000,
+  "tune_per_chain": 3000,
+  "target_accept": 0.995,
+  "aa_pca_variance_fraction": [
+    0.2440618650571714,
+    0.22826017355749378,
+    0.15383119264398454
+  ],
+  "design_condition_number": 4.212460742764545,
+  "temperature_mean": 67.94339622641509,
+  "temperature_range": [
+    22.5,
+    100.5
+  ],
+  "observed_zero_count": 21,
+  "posterior_predictive_zero_count_q025_q975": [
+    14.0,
+    23.0
+  ],
+  "observed_total": 6780,
+  "posterior_predictive_total_q025_q975": [
+    4546.9,
+    23500.025
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "data_kind": "real",
+  "analysis_code_sha256": "efec2cd36198a5716ac9db2605ae7d44067320c07c77620da568bbc53e9e4db9",
+  "data_sha256": "69cf9be4b2653612d61e65d07551f70975588d8b718159ddcfa6186fc6021b70",
+  "aa_pca_variance_fraction": [
+    0.16381663798371598,
+    0.1269031036821901,
+    0.11891380391164819
+  ],
+  "sensitivity_only": true,
+  "primary_genomes": 29
+}

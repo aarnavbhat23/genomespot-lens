@@ -1,0 +1,36 @@
+{
+  "created_utc": "2026-10-21T02:04:39.839824+00:00",
+  "data_kind": "real",
+  "protocol_commit": "bdb6752",
+  "genomes": 138,
+  "verified_parent_rows": 15786,
+  "primary_genomes": 29,
+  "phenotype_assembly_matches": 82,
+  "phenotype_strain_supported": 71,
+  "tempura_rows": 8645,
+  "tree_exact_genome_matches": 97,
+  "homology_command": "mmseqs easy-cluster reviewed_proteins.fasta PREFIX TMP --min-seq-id {0.3,0.5} -c 0.8 --cov-mode 0 --cluster-mode 2 --threads 4 -s 7.5",
+  "homology_version": "18-8cc5c",
+  "tree_source": "https://data.gtdb.ecogenomic.org/releases/release226/226.0/ar53_r226.tree.gz",
+  "tree_rooting": "Published GTDB r226 ar53 root; unary paths collapsed preserving branch lengths; no independent rerooting",
+  "tempura_source": "https://togodb.org/togodb/fetch/1376?rp=10000&page=1",
+  "licenses": {
+    "TEMPURA": "CC BY-NC 3.0",
+    "GTDB_tree": "CC BY-SA 4.0",
+    "UniProt": "CC BY 4.0"
+  },
+  "verified_strain_aliases_sha256": "94f9adf62c0dee18482d66ed25770066ccac051dadaa23c857e2e4bf3038a7be",
+  "raw_input_sha256": {
+    "tempura.json": "1bf29e443b39730d2b3c2992374918e85abef2be2e2963f69d299610be7c1147",
+    "gtdb-ar53.tree.gz": "fc846c3add38cdb68f50e9ef3dfbcee90ce7a93aebad6dad5fe18a432031fd18",
+    "homology30_cluster.tsv": "742d749a4cfec7c4db49bf05d96101b7767496faf07e625b4de2e89ab29378c7",
+    "homology50_cluster.tsv": "dcf931b62f628616cc71a27f0874cd1c962f47522e1025c139f229e4e01fbef4"
+  },
+  "outputs": {
+    "genomes.csv": "449b3a72b303cb6f34733d78d4f973fffbde955a6c7cf060da8f8e92f6d3185c",
+    "proteins.csv": "034f44ea43654192199bb72c0f9260ce38bbe2fc34d6eab975f99e159211d732",
+    "phenotypes.csv": "b9f30c3d6baa18f88268f6c79770faff397077be3c8d6271a41e46f422438645",
+    "phylogeny.nwk": "f07123202ee424343a4b1a45589ea992b0ba602d5456139c2ee827ff2c702623",
+    "exclusions.csv": "0a5c6caa32bf6f72d793ab57a5b1d589940a52104a8935555986665fa2deb71e"
+  }
+}

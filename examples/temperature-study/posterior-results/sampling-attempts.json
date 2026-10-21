@@ -1,0 +1,277 @@
+{
+  "earlier_attempts": [
+    {
+      "model": "baseline",
+      "genomes": 29,
+      "status": "WITHHOLD_DIAGNOSTICS_FAILED",
+      "temperature_variable": "observed_temperature",
+      "rr_per10C_median": 1.3413006972756365,
+      "rr_q025": 1.0399335634126285,
+      "rr_q975": 1.6801771331414628,
+      "posterior_probability_positive": 0.9865,
+      "max_rhat": 1.002278288728581,
+      "minimum_bulk_ess": 1853.8076792080954,
+      "divergences": 1,
+      "draws_per_chain": 4000,
+      "tune_per_chain": 2000,
+      "target_accept": 0.98,
+      "aa_pca_variance_fraction": [
+        0.46136420741906736,
+        0.2682073547306291,
+        0.12242378025292902
+      ],
+      "design_condition_number": 3.202289169652808,
+      "temperature_mean": 66.72413793103448,
+      "temperature_range": [
+        22.5,
+        100.5
+      ],
+      "observed_zero_count": 2,
+      "posterior_predictive_zero_count_q025_q975": [
+        0.0,
+        2.0
+      ],
+      "observed_total": 6765,
+      "posterior_predictive_total_q025_q975": [
+        4053.0,
+        15227.025
+      ]
+    },
+    {
+      "model": "adjusted",
+      "genomes": 29,
+      "status": "WITHHOLD_DIAGNOSTICS_FAILED",
+      "temperature_variable": "observed_temperature",
+      "rr_per10C_median": 1.1702368267297973,
+      "rr_q025": 0.7621835205872761,
+      "rr_q975": 1.7465393345415543,
+      "posterior_probability_positive": 0.77825,
+      "max_rhat": 1.0012917081198442,
+      "minimum_bulk_ess": 2999.072818932191,
+      "divergences": 1,
+      "draws_per_chain": 4000,
+      "tune_per_chain": 2000,
+      "target_accept": 0.98,
+      "aa_pca_variance_fraction": [
+        0.46136420741906736,
+        0.2682073547306291,
+        0.12242378025292902
+      ],
+      "design_condition_number": 7.3580462929918,
+      "temperature_mean": 66.72413793103448,
+      "temperature_range": [
+        22.5,
+        100.5
+      ],
+      "observed_zero_count": 2,
+      "posterior_predictive_zero_count_q025_q975": [
+        0.0,
+        2.0
+      ],
+      "observed_total": 6765,
+      "posterior_predictive_total_q025_q975": [
+        4201.975,
+        17381.149999999998
+      ]
+    },
+    {
+      "model": "parents100",
+      "genomes": 26,
+      "status": "WITHHOLD_DIAGNOSTICS_FAILED",
+      "temperature_variable": "observed_temperature",
+      "rr_per10C_median": 1.2632847335292854,
+      "rr_q025": 0.8016393547787153,
+      "rr_q975": 1.926716373725505,
+      "posterior_probability_positive": 0.8591875,
+      "max_rhat": 1.0012245484927447,
+      "minimum_bulk_ess": 3024.124447892371,
+      "divergences": 1,
+      "draws_per_chain": 4000,
+      "tune_per_chain": 2000,
+      "target_accept": 0.98,
+      "aa_pca_variance_fraction": [
+        0.5052500744764896,
+        0.2322835597398828,
+        0.12388860371883458
+      ],
+      "design_condition_number": 8.072648621609298,
+      "temperature_mean": 67.51923076923077,
+      "temperature_range": [
+        22.5,
+        100.5
+      ],
+      "observed_zero_count": 2,
+      "posterior_predictive_zero_count_q025_q975": [
+        0.0,
+        2.0
+      ],
+      "observed_total": 6614,
+      "posterior_predictive_total_q025_q975": [
+        3982.975,
+        18756.424999999996
+      ]
+    },
+    {
+      "model": "broad",
+      "genomes": 53,
+      "status": "diagnostics_pass",
+      "temperature_variable": "observed_temperature",
+      "rr_per10C_median": 1.206142551645441,
+      "rr_q025": 0.9107574439760734,
+      "rr_q975": 1.6478613384490053,
+      "posterior_probability_positive": 0.9033125,
+      "max_rhat": 1.0030422208208565,
+      "minimum_bulk_ess": 2249.353719149166,
+      "divergences": 0,
+      "draws_per_chain": 4000,
+      "tune_per_chain": 2000,
+      "target_accept": 0.98,
+      "aa_pca_variance_fraction": [
+        0.2440618650571714,
+        0.22826017355749378,
+        0.15383119264398454
+      ],
+      "design_condition_number": 4.212460742764545,
+      "temperature_mean": 67.94339622641509,
+      "temperature_range": [
+        22.5,
+        100.5
+      ],
+      "observed_zero_count": 21,
+      "posterior_predictive_zero_count_q025_q975": [
+        14.0,
+        23.0
+      ],
+      "observed_total": 6780,
+      "posterior_predictive_total_q025_q975": [
+        4582.775000000001,
+        23857.025
+      ]
+    },
+    {
+      "model": "predicted",
+      "genomes": 26,
+      "status": "diagnostics_pass",
+      "temperature_variable": "predicted_temperature",
+      "rr_per10C_median": 1.034227265664088,
+      "rr_q025": 0.5591050121642581,
+      "rr_q975": 1.9525963939080193,
+      "posterior_probability_positive": 0.542875,
+      "max_rhat": 1.0022299811147222,
+      "minimum_bulk_ess": 3003.9901086275295,
+      "divergences": 0,
+      "draws_per_chain": 4000,
+      "tune_per_chain": 2000,
+      "target_accept": 0.98,
+      "aa_pca_variance_fraction": [
+        0.4517379872267206,
+        0.29776447271749856,
+        0.10086630372238702
+      ],
+      "design_condition_number": 9.202502209781986,
+      "temperature_mean": 66.32050671012908,
+      "temperature_range": [
+        31.400941180864848,
+        99.84773666148912
+      ],
+      "observed_zero_count": 2,
+      "posterior_predictive_zero_count_q025_q975": [
+        0.0,
+        3.0
+      ],
+      "observed_total": 6066,
+      "posterior_predictive_total_q025_q975": [
+        3396.975,
+        18350.74999999999
+      ]
+    }
+  ],
+  "final_source_records": {
+    "baseline": {
+      "posterior_draws_sha256": "eeae80ddb3e627d1423d89156fbd6f1044f19ddf1585562a5f4caf5862b57575",
+      "run_provenance": {
+        "created_utc": "2026-10-21T02:11:45.080551+00:00",
+        "data_kind": "real",
+        "data_provenance_sha256": "69cf9be4b2653612d61e65d07551f70975588d8b718159ddcfa6186fc6021b70",
+        "analysis_code_sha256": "296e158df9e2b58176c4e4b06626e9184ba99aaac089e7cd3b2a783b2f8e4c65",
+        "models_requested": "baseline",
+        "packages": {
+          "numpy": "1.24.4",
+          "pandas": "2.0.3",
+          "pymc": "5.10.4",
+          "arviz": "0.17.1",
+          "scikit-learn": "1.2.2"
+        }
+      }
+    },
+    "adjusted": {
+      "posterior_draws_sha256": "9a1ac9e6b2c381fb627fe37487011d8e63881df86957591b1de03bbd7eab6ded",
+      "run_provenance": {
+        "created_utc": "2026-10-21T02:19:26.775032+00:00",
+        "data_kind": "real",
+        "data_provenance_sha256": "69cf9be4b2653612d61e65d07551f70975588d8b718159ddcfa6186fc6021b70",
+        "analysis_code_sha256": "296e158df9e2b58176c4e4b06626e9184ba99aaac089e7cd3b2a783b2f8e4c65",
+        "models_requested": "adjusted,parents100,broad,predicted",
+        "packages": {
+          "numpy": "1.24.4",
+          "pandas": "2.0.3",
+          "pymc": "5.10.4",
+          "arviz": "0.17.1",
+          "scikit-learn": "1.2.2"
+        }
+      }
+    },
+    "parents100": {
+      "posterior_draws_sha256": "e098db36eef1e057ce3ceafbe13a414f0cc3232915b7986004db48620427d327",
+      "run_provenance": {
+        "created_utc": "2026-10-21T02:19:26.775032+00:00",
+        "data_kind": "real",
+        "data_provenance_sha256": "69cf9be4b2653612d61e65d07551f70975588d8b718159ddcfa6186fc6021b70",
+        "analysis_code_sha256": "296e158df9e2b58176c4e4b06626e9184ba99aaac089e7cd3b2a783b2f8e4c65",
+        "models_requested": "adjusted,parents100,broad,predicted",
+        "packages": {
+          "numpy": "1.24.4",
+          "pandas": "2.0.3",
+          "pymc": "5.10.4",
+          "arviz": "0.17.1",
+          "scikit-learn": "1.2.2"
+        }
+      }
+    },
+    "broad": {
+      "posterior_draws_sha256": "71372f253be3845e81b4f9df61c213eec2bb33b23c6f486c6e5e5cc9665f6328",
+      "run_provenance": {
+        "created_utc": "2026-10-21T02:19:26.775032+00:00",
+        "data_kind": "real",
+        "data_provenance_sha256": "69cf9be4b2653612d61e65d07551f70975588d8b718159ddcfa6186fc6021b70",
+        "analysis_code_sha256": "296e158df9e2b58176c4e4b06626e9184ba99aaac089e7cd3b2a783b2f8e4c65",
+        "models_requested": "adjusted,parents100,broad,predicted",
+        "packages": {
+          "numpy": "1.24.4",
+          "pandas": "2.0.3",
+          "pymc": "5.10.4",
+          "arviz": "0.17.1",
+          "scikit-learn": "1.2.2"
+        }
+      }
+    },
+    "predicted": {
+      "posterior_draws_sha256": "f1b629d5bb5456e57207a983e97223dc002ec1643d6fea591d53df5221ac1e94",
+      "run_provenance": {
+        "created_utc": "2026-10-21T02:19:26.775032+00:00",
+        "data_kind": "real",
+        "data_provenance_sha256": "69cf9be4b2653612d61e65d07551f70975588d8b718159ddcfa6186fc6021b70",
+        "analysis_code_sha256": "296e158df9e2b58176c4e4b06626e9184ba99aaac089e7cd3b2a783b2f8e4c65",
+        "models_requested": "adjusted,parents100,broad,predicted",
+        "packages": {
+          "numpy": "1.24.4",
+          "pandas": "2.0.3",
+          "pymc": "5.10.4",
+          "arviz": "0.17.1",
+          "scikit-learn": "1.2.2"
+        }
+      }
+    }
+  },
+  "selection_rule": "Same models; final stricter sampling configuration selected by protocol diagnostics, never significance. Earlier intervals with failed diagnostics are not reported as findings."
+}

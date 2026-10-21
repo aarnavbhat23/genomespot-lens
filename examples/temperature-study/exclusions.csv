@@ -1,0 +1,172 @@
+taxon_id,stage,reason
+103799,assembly,0 eligible exact-taxon complete RefSeq assemblies
+1054217,temperature,no exact assembly-pair match
+105583,assembly,0 eligible exact-taxon complete RefSeq assemblies
+1071056,assembly,0 eligible exact-taxon complete RefSeq assemblies
+108142,assembly,0 eligible exact-taxon complete RefSeq assemblies
+110163,assembly,0 eligible exact-taxon complete RefSeq assemblies
+1110509,strain,TEMPURA culture label not corroborated by source/NCBI strain aliases
+115547,assembly,"More than 1,000 descendant assemblies; incomplete candidate enumeration"
+1204725,assembly,0 eligible exact-taxon complete RefSeq assemblies
+1227453,assembly,0 eligible exact-taxon complete RefSeq assemblies
+1227459,assembly,0 eligible exact-taxon complete RefSeq assemblies
+1227461,assembly,0 eligible exact-taxon complete RefSeq assemblies
+1227494,assembly,0 eligible exact-taxon complete RefSeq assemblies
+1230452,assembly,0 eligible exact-taxon complete RefSeq assemblies
+1236689,temperature,no exact assembly-pair match
+12915,assembly,0 eligible exact-taxon complete RefSeq assemblies
+1295009,temperature,no exact assembly-pair match
+1295125,temperature,no exact assembly-pair match
+135836,assembly,0 eligible exact-taxon complete RefSeq assemblies
+13769,assembly,0 eligible exact-taxon complete RefSeq assemblies
+145261,temperature,no exact assembly-pair match
+145262,temperature,no exact assembly-pair match
+145262,identity,no exact full historical protein in current annotation
+1495144,temperature,no exact assembly-pair match
+1526048,assembly,0 eligible exact-taxon complete RefSeq assemblies
+1538547,assembly,0 eligible exact-taxon complete RefSeq assemblies
+160432,assembly,0 eligible exact-taxon complete RefSeq assemblies
+165757,assembly,0 eligible exact-taxon complete RefSeq assemblies
+179637,temperature,no exact assembly-pair match
+179637,identity,no exact full historical protein in current annotation
+1803814,assembly,0 eligible exact-taxon complete RefSeq assemblies
+1805247,assembly,0 eligible exact-taxon complete RefSeq assemblies
+1837170,assembly,0 eligible exact-taxon complete RefSeq assemblies
+1841597,assembly,0 eligible exact-taxon complete RefSeq assemblies
+1841599,assembly,0 eligible exact-taxon complete RefSeq assemblies
+186497,temperature,no exact assembly-pair match
+192952,strain,TEMPURA culture label not corroborated by source/NCBI strain aliases
+2012527,assembly,0 eligible exact-taxon complete RefSeq assemblies
+2161,assembly,0 eligible exact-taxon complete RefSeq assemblies
+2162,temperature,no exact assembly-pair match
+2163,assembly,0 eligible exact-taxon complete RefSeq assemblies
+2173,assembly,3 eligible exact-taxon complete RefSeq assemblies
+2180,assembly,0 eligible exact-taxon complete RefSeq assemblies
+2181,temperature,no exact assembly-pair match
+2186,assembly,0 eligible exact-taxon complete RefSeq assemblies
+2187,assembly,0 eligible exact-taxon complete RefSeq assemblies
+2188,assembly,0 eligible exact-taxon complete RefSeq assemblies
+2189,assembly,0 eligible exact-taxon complete RefSeq assemblies
+2199,temperature,no exact assembly-pair match
+2199,identity,no exact full historical protein in current annotation
+2203,assembly,0 eligible exact-taxon complete RefSeq assemblies
+2208,assembly,0 eligible exact-taxon complete RefSeq assemblies
+2209,assembly,4 eligible exact-taxon complete RefSeq assemblies
+2210,assembly,0 eligible exact-taxon complete RefSeq assemblies
+2221,assembly,0 eligible exact-taxon complete RefSeq assemblies
+2223,assembly,0 eligible exact-taxon complete RefSeq assemblies
+2226,temperature,no exact assembly-pair match
+2226,identity,no exact full historical protein in current annotation
+2242,temperature,no exact assembly-pair match
+2246,assembly,4 eligible exact-taxon complete RefSeq assemblies
+2250,assembly,0 eligible exact-taxon complete RefSeq assemblies
+2252,assembly,0 eligible exact-taxon complete RefSeq assemblies
+2253,assembly,0 eligible exact-taxon complete RefSeq assemblies
+2257,assembly,0 eligible exact-taxon complete RefSeq assemblies
+2262,temperature,no exact assembly-pair match
+2264,assembly,0 eligible exact-taxon complete RefSeq assemblies
+2265,assembly,0 eligible exact-taxon complete RefSeq assemblies
+2269,temperature,no exact assembly-pair match
+2271,assembly,0 eligible exact-taxon complete RefSeq assemblies
+2275,assembly,0 eligible exact-taxon complete RefSeq assemblies
+2286,assembly,2 eligible exact-taxon complete RefSeq assemblies
+2287,temperature,no exact assembly-pair match
+2288,assembly,0 eligible exact-taxon complete RefSeq assemblies
+228908,temperature,no exact assembly-pair match
+2303,assembly,0 eligible exact-taxon complete RefSeq assemblies
+2309,assembly,0 eligible exact-taxon complete RefSeq assemblies
+245739,assembly,0 eligible exact-taxon complete RefSeq assemblies
+257466,assembly,0 eligible exact-taxon complete RefSeq assemblies
+263820,assembly,0 eligible exact-taxon complete RefSeq assemblies
+267377,temperature,no exact assembly-pair match
+269443,assembly,0 eligible exact-taxon complete RefSeq assemblies
+269797,assembly,0 eligible exact-taxon complete RefSeq assemblies
+272569,temperature,no exact assembly-pair match
+273057,temperature,no exact assembly-pair match
+28442,assembly,0 eligible exact-taxon complete RefSeq assemblies
+285389,assembly,0 eligible exact-taxon complete RefSeq assemblies
+29285,assembly,0 eligible exact-taxon complete RefSeq assemblies
+29292,assembly,0 eligible exact-taxon complete RefSeq assemblies
+294671,strain,TEMPURA culture label not corroborated by source/NCBI strain aliases
+294671,identity,no exact full historical protein in current annotation
+29540,assembly,0 eligible exact-taxon complete RefSeq assemblies
+33003,assembly,0 eligible exact-taxon complete RefSeq assemblies
+33004,assembly,0 eligible exact-taxon complete RefSeq assemblies
+33005,assembly,0 eligible exact-taxon complete RefSeq assemblies
+33006,assembly,0 eligible exact-taxon complete RefSeq assemblies
+337243,strain,TEMPURA culture label not corroborated by source/NCBI strain aliases
+342949,temperature,no exact assembly-pair match
+349307,temperature,no exact assembly-pair match
+35743,assembly,2 eligible exact-taxon complete RefSeq assemblies
+35746,strain,TEMPURA culture label not corroborated by source/NCBI strain aliases
+362976,temperature,no exact assembly-pair match
+374847,temperature,no exact assembly-pair match
+39152,temperature,no exact assembly-pair match
+39441,temperature,no exact assembly-pair match
+39441,identity,no exact full historical protein in current annotation
+39456,assembly,0 eligible exact-taxon complete RefSeq assemblies
+399549,assembly,2 eligible exact-taxon complete RefSeq assemblies
+402880,temperature,no exact assembly-pair match
+410359,temperature,no exact assembly-pair match
+414004,assembly,0 eligible exact-taxon complete RefSeq assemblies
+419942,temperature,no exact assembly-pair match
+420247,temperature,no exact assembly-pair match
+425944,assembly,0 eligible exact-taxon complete RefSeq assemblies
+426118,temperature,no exact assembly-pair match
+426368,assembly,0 eligible exact-taxon complete RefSeq assemblies
+427317,temperature,no exact assembly-pair match
+427318,temperature,no exact assembly-pair match
+42879,temperature,no exact assembly-pair match
+429572,temperature,no exact assembly-pair match
+43776,temperature,no exact assembly-pair match
+43776,identity,no exact full historical protein in current annotation
+439386,temperature,no exact assembly-pair match
+444157,temperature,no exact assembly-pair match
+444158,assembly,0 eligible exact-taxon complete RefSeq assemblies
+456320,assembly,0 eligible exact-taxon complete RefSeq assemblies
+46539,assembly,0 eligible exact-taxon complete RefSeq assemblies
+46540,temperature,no exact assembly-pair match
+46770,assembly,0 eligible exact-taxon complete RefSeq assemblies
+47303,assembly,0 eligible exact-taxon complete RefSeq assemblies
+47304,assembly,0 eligible exact-taxon complete RefSeq assemblies
+478009,temperature,no exact assembly-pair match
+485914,temperature,no exact assembly-pair match
+490899,temperature,no exact assembly-pair match
+51589,assembly,0 eligible exact-taxon complete RefSeq assemblies
+523841,temperature,no exact assembly-pair match
+53426,temperature,no exact assembly-pair match
+53426,identity,no exact full historical protein in current annotation
+53953,assembly,0 eligible exact-taxon complete RefSeq assemblies
+54076,assembly,0 eligible exact-taxon complete RefSeq assemblies
+543526,temperature,no exact assembly-pair match
+547558,temperature,no exact assembly-pair match
+55399,assembly,0 eligible exact-taxon complete RefSeq assemblies
+555311,assembly,0 eligible exact-taxon complete RefSeq assemblies
+55802,temperature,no exact assembly-pair match
+56636,assembly,0 eligible exact-taxon complete RefSeq assemblies
+57174,temperature,no exact assembly-pair match
+573064,strain,TEMPURA culture label not corroborated by source/NCBI strain aliases
+583356,temperature,no exact assembly-pair match
+59822,assembly,0 eligible exact-taxon complete RefSeq assemblies
+634497,strain,TEMPURA culture label not corroborated by source/NCBI strain aliases
+634498,temperature,no exact assembly-pair match
+63740,assembly,0 eligible exact-taxon complete RefSeq assemblies
+64091,strain,TEMPURA culture label not corroborated by source/NCBI strain aliases
+644281,temperature,no exact assembly-pair match
+679901,temperature,no exact assembly-pair match
+69009,assembly,0 eligible exact-taxon complete RefSeq assemblies
+69013,assembly,0 eligible exact-taxon complete RefSeq assemblies
+69015,assembly,0 eligible exact-taxon complete RefSeq assemblies
+74610,assembly,0 eligible exact-taxon complete RefSeq assemblies
+79680,assembly,0 eligible exact-taxon complete RefSeq assemblies
+79930,assembly,0 eligible exact-taxon complete RefSeq assemblies
+877455,strain,TEMPURA culture label not corroborated by source/NCBI strain aliases
+88773,assembly,0 eligible exact-taxon complete RefSeq assemblies
+926690,assembly,0 eligible exact-taxon complete RefSeq assemblies
+930943,temperature,no exact assembly-pair match
+930945,temperature,no exact assembly-pair match
+933801,temperature,no exact assembly-pair match
+94694,assembly,0 eligible exact-taxon complete RefSeq assemblies
+990316,strain,TEMPURA culture label not corroborated by source/NCBI strain aliases
+999630,strain,TEMPURA culture label not corroborated by source/NCBI strain aliases
+999630,identity,no exact full historical protein in current annotation

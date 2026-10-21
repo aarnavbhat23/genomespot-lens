@@ -10,7 +10,11 @@ question, model, diagnostics, sensitivity analyses, interpretation and sources.
 | [02 Evolution](../notebooks/02_evolution_amp_richness.ipynb) | Clade coverage/contrasts and a branch-length phylogenetic negative-binomial mixed model | Exact tree/sample alignment, covariance checks, prior prediction, optional posterior diagnostics |
 | [03 Resistance](../notebooks/03_resistance_amp_opportunity.ipynb) | AMR burden versus richness, conditional predicted potency and equal-effort cluster diversity | Within-species comparison, alternative AMR burden, endpoint FDR, phylogenetic richness sensitivity |
 
-**Saved inferential outputs are simulated demonstrations.** Real published
+**Notebooks 01–03 use simulated inferential demonstrations.** A separate
+[real temperature pilot](temperature/README.md) now uses verified protein subsets,
+curated strain temperatures and a real marker tree; its
+[results](temperature/results.md) do not yet establish an independent temperature
+effect. The original notebooks remain software demonstrations. Real published
 source audits, a selected published genus table and real GenomeSPOT predictions
 for 138 current source genomes are displayed separately, with the earlier
 six-taxon pilot retained. A count-validated

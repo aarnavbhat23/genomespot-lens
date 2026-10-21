@@ -171,8 +171,11 @@ four primary traits unflagged. These intersect in **24 preliminary historical
 join candidates**. Other records are retained with their limitations. Source
 identity, quality and trait reliability are separate checks; exact taxon labels
 alone did not establish protein identity. The 24 candidates are a feasibility
-result, not a powered, finalized association cohort. No ecological or resistance
-association has been fitted on this reconstructed/current-reference cohort.
+result, not a powered, finalized association cohort. A subsequently frozen [temperature pilot](temperature/results.md) now analyzes
+individually verified protein subsets with curated growth temperatures and a real
+GTDB archaeal tree. Its primary comparison uses 29 genomes and does not establish
+an independent temperature effect. The ATB resistance analysis remains pending
+the complete original export.
 
 All three notebooks have a fully executable, explicitly simulated demonstration
 and a real-data mode that fails on absent/incompatible input instead of silently

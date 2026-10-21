@@ -1,0 +1,12 @@
+{
+  "GCF_000195915.1": {
+    "accepted_TEMPURA_strain_labels": ["122–1B2"],
+    "source_alias": "Thermoplasma acidophilum DSM 1728 / ATCC 25905 / AMRC C165",
+    "evidence": "https://www.dsmz.de/collection/catalogue/details/culture/DSM-1728"
+  },
+  "GCF_000015225.1": {
+    "accepted_TEMPURA_strain_labels": ["Hvv3"],
+    "source_alias": "Thermofilum pendens DSM 2475 / Hrk 5",
+    "evidence": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2269&mode=Info"
+  }
+}

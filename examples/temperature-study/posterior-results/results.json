@@ -1,0 +1,187 @@
+[
+  {
+    "model": "baseline",
+    "genomes": 29,
+    "status": "diagnostics_pass",
+    "temperature_variable": "observed_temperature",
+    "rr_per10C_median": 1.344443876777807,
+    "rr_q025": 1.0502059230258047,
+    "rr_q975": 1.692028381869435,
+    "posterior_probability_positive": 0.9894375,
+    "max_rhat": 1.001457142910708,
+    "minimum_bulk_ess": 1441.3617316815594,
+    "divergences": 0,
+    "draws_per_chain": 4000,
+    "tune_per_chain": 3000,
+    "target_accept": 0.995,
+    "aa_pca_variance_fraction": [
+      0.46136420741906736,
+      0.2682073547306291,
+      0.12242378025292902
+    ],
+    "design_condition_number": 3.202289169652808,
+    "temperature_mean": 66.72413793103448,
+    "temperature_range": [
+      22.5,
+      100.5
+    ],
+    "observed_zero_count": 2,
+    "posterior_predictive_zero_count_q025_q975": [
+      0.0,
+      2.0
+    ],
+    "observed_total": 6765,
+    "posterior_predictive_total_q025_q975": [
+      3950.975,
+      15349.149999999998
+    ]
+  },
+  {
+    "model": "adjusted",
+    "genomes": 29,
+    "status": "diagnostics_pass",
+    "temperature_variable": "observed_temperature",
+    "rr_per10C_median": 1.171303811019925,
+    "rr_q025": 0.7728326098502225,
+    "rr_q975": 1.7335584098991175,
+    "posterior_probability_positive": 0.78775,
+    "max_rhat": 1.0015254609679571,
+    "minimum_bulk_ess": 2455.811615427411,
+    "divergences": 0,
+    "draws_per_chain": 4000,
+    "tune_per_chain": 3000,
+    "target_accept": 0.995,
+    "aa_pca_variance_fraction": [
+      0.46136420741906736,
+      0.2682073547306291,
+      0.12242378025292902
+    ],
+    "design_condition_number": 7.3580462929918,
+    "temperature_mean": 66.72413793103448,
+    "temperature_range": [
+      22.5,
+      100.5
+    ],
+    "observed_zero_count": 2,
+    "posterior_predictive_zero_count_q025_q975": [
+      0.0,
+      2.0
+    ],
+    "observed_total": 6765,
+    "posterior_predictive_total_q025_q975": [
+      4180.0,
+      17513.025
+    ]
+  },
+  {
+    "model": "parents100",
+    "genomes": 26,
+    "status": "diagnostics_pass",
+    "temperature_variable": "observed_temperature",
+    "rr_per10C_median": 1.263272798674889,
+    "rr_q025": 0.8047234336047654,
+    "rr_q975": 1.9197587029808723,
+    "posterior_probability_positive": 0.8549375,
+    "max_rhat": 1.000827176474887,
+    "minimum_bulk_ess": 2755.115979592916,
+    "divergences": 0,
+    "draws_per_chain": 4000,
+    "tune_per_chain": 3000,
+    "target_accept": 0.995,
+    "aa_pca_variance_fraction": [
+      0.5052500744764896,
+      0.2322835597398828,
+      0.12388860371883458
+    ],
+    "design_condition_number": 8.072648621609298,
+    "temperature_mean": 67.51923076923077,
+    "temperature_range": [
+      22.5,
+      100.5
+    ],
+    "observed_zero_count": 2,
+    "posterior_predictive_zero_count_q025_q975": [
+      0.0,
+      2.0
+    ],
+    "observed_total": 6614,
+    "posterior_predictive_total_q025_q975": [
+      4007.0,
+      19397.025
+    ]
+  },
+  {
+    "model": "broad",
+    "genomes": 53,
+    "status": "diagnostics_pass",
+    "temperature_variable": "observed_temperature",
+    "rr_per10C_median": 1.2088914823658476,
+    "rr_q025": 0.9121748768547095,
+    "rr_q975": 1.6300012405598823,
+    "posterior_probability_positive": 0.90825,
+    "max_rhat": 1.002097943858086,
+    "minimum_bulk_ess": 1850.9492345454833,
+    "divergences": 0,
+    "draws_per_chain": 4000,
+    "tune_per_chain": 3000,
+    "target_accept": 0.995,
+    "aa_pca_variance_fraction": [
+      0.2440618650571714,
+      0.22826017355749378,
+      0.15383119264398454
+    ],
+    "design_condition_number": 4.212460742764545,
+    "temperature_mean": 67.94339622641509,
+    "temperature_range": [
+      22.5,
+      100.5
+    ],
+    "observed_zero_count": 21,
+    "posterior_predictive_zero_count_q025_q975": [
+      14.0,
+      23.0
+    ],
+    "observed_total": 6780,
+    "posterior_predictive_total_q025_q975": [
+      4546.9,
+      23500.025
+    ]
+  },
+  {
+    "model": "predicted",
+    "genomes": 26,
+    "status": "diagnostics_pass",
+    "temperature_variable": "predicted_temperature",
+    "rr_per10C_median": 1.0350876881857893,
+    "rr_q025": 0.5655856059179512,
+    "rr_q975": 1.9667182877236635,
+    "posterior_probability_positive": 0.54225,
+    "max_rhat": 1.002148293523359,
+    "minimum_bulk_ess": 2689.9096791909274,
+    "divergences": 0,
+    "draws_per_chain": 4000,
+    "tune_per_chain": 3000,
+    "target_accept": 0.995,
+    "aa_pca_variance_fraction": [
+      0.4517379872267206,
+      0.29776447271749856,
+      0.10086630372238702
+    ],
+    "design_condition_number": 9.202502209781986,
+    "temperature_mean": 66.32050671012908,
+    "temperature_range": [
+      31.400941180864848,
+      99.84773666148912
+    ],
+    "observed_zero_count": 2,
+    "posterior_predictive_zero_count_q025_q975": [
+      0.0,
+      3.0
+    ],
+    "observed_total": 6066,
+    "posterior_predictive_total_q025_q975": [
+      3417.95,
+      18071.69999999999
+    ]
+  }
+]

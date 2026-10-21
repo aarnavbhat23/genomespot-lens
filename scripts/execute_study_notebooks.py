@@ -1,4 +1,4 @@
-"""Execute the three notebooks with this Python interpreter and validate outputs."""
+"""Execute the study notebooks with this Python interpreter and validate outputs."""
 import json
 from pathlib import Path
 import sys

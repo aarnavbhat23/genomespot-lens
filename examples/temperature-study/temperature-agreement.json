@@ -1,0 +1,11 @@
+{
+  "genomes": 26,
+  "mae_celsius": 5.598861937945317,
+  "pearson_correlation": 0.9611628380518367,
+  "listed_training_or_original_holdout_overlap": 2,
+  "interpretation": "Label agreement only, NOT independent predictive validation. Final GenomeSPOT models use both original training and holdout sets; accession lists omit versions, so overlap audit is conservative and never used for phenotype joining.",
+  "holdout_file_sha256": {
+    "train_set_temperature.txt": "ee03f90258db95f131ca9cf0b85a6639869ba0f7aa8a7f93b05d7801581cc214",
+    "test_set_temperature.txt": "2f51ce490f74ac654a691544d2adccbcf92a012503c5ab3d1e4e464a02874eae"
+  }
+}
