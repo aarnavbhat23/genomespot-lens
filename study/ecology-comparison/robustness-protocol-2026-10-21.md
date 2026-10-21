@@ -49,3 +49,14 @@ new real fits; it must not silently substitute simulated results. Do not claim
 measured antimicrobial function or general ecological absence from prediction
 counts. ATB encrypted fragments remain a separate endpoint and require their
 original source/score/denominator export.
+
+## Follow-up specified after seeing the direct-pair fits
+
+The >=90%/<5% human/animal count contrast has an interval below 1 in the first
+fits. This is an exploratory lead, not independent confirmation. Audit influence
+by omitting every species in **each of all six direct count specifications**
+(three habitat pairs, two quality definitions); preserve the ten-cluster gate
+and report omissions that fall below it. Also export per-species habitat sizes,
+zero fractions and count means. These descriptive summaries do not adjust the
+covariates. Do not select only the omission or endpoint with the smallest p.
+No additional quality threshold search or claim of a causal niche effect follows.
