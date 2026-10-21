@@ -86,7 +86,7 @@ denominator, full strain phylogeny and source-study controls remain missing.
 Public project: [aarnavbhat23/genomespot-lens](https://github.com/aarnavbhat23/genomespot-lens).
 Five notebooks execute: 01–03 are explicitly synthetic method demonstrations;
 04–05 are actual-data studies. Both real-data notebooks were executed locally,
-49 tests pass, and 125 installed packages pass dependency checks. Source archives,
+50 tests pass, and 125 installed packages pass dependency checks. Source archives,
 exact joins, exclusions, licenses, fit diagnostics, failed-attempt history and
 figure-generating code are retained. Full posterior arrays stay local.
 

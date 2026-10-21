@@ -139,8 +139,12 @@ adjusted causal effect. It can disagree with the species-cluster Wald/F inferenc
 we report both, rather than discard an inconvenient result.
 '''),code('''
 permutation=within_species_permutation(genomes[genomes.multi_habitat_species],permutations=9999,seed=23)
-assert permutation==json.loads((DATA/'permutation.json').read_text())
+stored_permutation=json.loads((DATA/'permutation.json').read_text())
 display(pd.Series(permutation))
+# BLAS architectures may round the quadratic score differently. Counts,
+# exceedances and the Monte Carlo p-value must still reproduce exactly.
+assert np.isclose(permutation['statistic'],stored_permutation['statistic'],rtol=1e-12,atol=1e-12)
+assert {k:v for k,v in permutation.items() if k!='statistic'} == {k:v for k,v in stored_permutation.items() if k!='statistic'}
 '''),md('''
 ## What this supports
 

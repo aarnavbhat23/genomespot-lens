@@ -74,3 +74,11 @@ def test_habitat_confounding_without_within_species_overlap_is_not_identifiable(
         'habitat':['animal']*3+['human']*3,'amp_count':[1]*3+[10]*3})
     with pytest.raises(ValueError,match='No full habitat contrast'):
         within_species_permutation(toy,permutations=19)
+
+
+def test_real_permutation_reproduces_counts_with_score_roundoff_tolerance():
+    g=pd.read_csv(DATA/'genomes.csv')
+    observed=within_species_permutation(g[g.multi_habitat_species],permutations=9999,seed=23)
+    expected=json.loads((DATA/'permutation.json').read_text())
+    assert observed['statistic']==pytest.approx(expected['statistic'],rel=1e-12,abs=1e-12)
+    assert {k:v for k,v in observed.items() if k!='statistic'}=={k:v for k,v in expected.items() if k!='statistic'}
