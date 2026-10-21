@@ -67,7 +67,9 @@
     "single_taxon_rows": 256,
     "full_genome_mapping_available_in_score_table": false,
     "per_genome_screen_denominators_available_in_score_table": false,
-    "scope": "positive score catalog and selected mappings; insufficient for unbiased per-genome richness"
+    "scope": "Published positive score catalog plus count-validated historical protein/taxon reconstruction. Whole-genome assembly mapping and covariates remain required.",
+    "reconstructed_source_audit": "examples/amp-study/archaeome-reconstruction/audit.json",
+    "reconstructed_genome_audit": "examples/amp-study/reconstructed-genomes/prediction_audit.json"
   },
   "mendeley": {
     "doi": "10.17632/d8yzgtdrcp.3",
@@ -190,6 +192,11 @@
       "pdf_sha256": "8812c13ace4dffa5be81ead5aab33510661af4a9a73a69c467ae690f135e8cba",
       "pages": 22,
       "table1": "24 selected synthesized peptides with IDs/sequences; not a full genome-screen registry"
+    },
+    "threshold_conflict": {
+      "results": "Any-target MIC <80 micromolar",
+      "methods": "Median-panel MIC <=80 micromolar",
+      "resolved": false
     }
   },
   "scholar": {

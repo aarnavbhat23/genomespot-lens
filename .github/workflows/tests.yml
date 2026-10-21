@@ -22,7 +22,7 @@ jobs:
         with:
           python-version: '3.11'
       - run: pip install -e '.[test,plot]' -r study/requirements.txt
-      - run: python -m pytest tests/test_amp_study.py -q
+      - run: python -m pytest tests/test_amp_study.py tests/test_archaeome_archive.py -q
       - run: python scripts/execute_study_notebooks.py
         env:
           MPLBACKEND: Agg

@@ -1,0 +1,13 @@
+{
+  "created_utc": "2026-10-21T00:43:52.139657+00:00",
+  "taxa_sha256": "78e4794d30d25286d256ca001b25a570d6dc0dfb67ba6fafa043ffd804f396f7",
+  "input_taxa": 233,
+  "statuses": {
+    "failed": 1,
+    "resolved_current_exact_taxon": 138,
+    "unresolved": 94
+  },
+  "selection": "All recovered taxa; exact current NCBI taxon, current complete RefSeq assembly; unique reference preferred; duplicates excluded",
+  "scope": "Current-reference mapping, not verified historical protein identity. No AMP outcome used in selection.",
+  "mapping_sha256": "2c13259d3d4c5abba3efc58af5ce723aaf0f31b6a7aa29349d20f3af76e45140"
+}

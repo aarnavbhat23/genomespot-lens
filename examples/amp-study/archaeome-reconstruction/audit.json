@@ -1,0 +1,68 @@
+{
+  "created_utc": "2026-10-21T00:47:36.634515+00:00",
+  "description": "Count-validated UniProt 2023_03 reconstruction; not an author-supplied accession manifest",
+  "paper": "https://doi.org/10.1038/s41564-025-02061-0",
+  "paper_uniprot_access_date": "2023-08-24",
+  "archive_url": "https://ftp.uniprot.org/pub/databases/uniprot/previous_releases/release-2023_03/knowledgebase/uniprot_sprot-only2023_03.tar.gz",
+  "archive_bytes": 1601187312,
+  "archive_md5": "11e3f6e03ad6ee60219974e2ddb0cd54",
+  "archive_sha256": "99a3e8f65092243596f21697f8cc406e271c3cb4c2cd9bd6cd085aef46ac005a",
+  "catalog_sha256": "be8f62397e6afd97245fb72ebc08e62a1d5afeec42a185d5950ddf625792447a",
+  "expected_counts": {
+    "protein_records": 19710,
+    "distinct_proteins": 18677,
+    "source_taxa": 233,
+    "distinct_screened_fragments": 193331608,
+    "positive_catalog_rows": 12623
+  },
+  "observed_counts": {
+    "protein_records": 19710,
+    "distinct_proteins": 18677,
+    "source_taxa": 233,
+    "distinct_screened_fragments": 193331608,
+    "positive_catalog_rows": 12623
+  },
+  "all_five_counts_match": true,
+  "selected_source_validation": {
+    "table_sha256": "51ad7cc136604d56632bad87f3d2efae5adfcaa7513d922575c62d1b92953c7a",
+    "rows": 265,
+    "validated_parent_accession_sequence_taxon_mentions": 285
+  },
+  "published_genus_validation": {
+    "table_sha256": "34b865c5b56757742367ca6dbb31889a73d27ba74d0b3c75940c79711c6aac25",
+    "matched_genera": 20,
+    "aggregation": "Sum of distinct per-taxon positive counts, not genus-wide sequence deduplication",
+    "genus_label_aliases": {
+      "Lokiarchaeum": "Candidatus Lokiarchaeum"
+    },
+    "caveat": "Published top/bottom genera are outcome-selected validation context, not an inference cohort"
+  },
+  "all_positive_peptides_mapped": true,
+  "parent_occurrences": 14237,
+  "multi_taxon_positive_peptides": 658,
+  "taxa_with_positive_hits": 105,
+  "taxa_with_zero_catalog_hits": 128,
+  "endpoint": "distinct published mean-panel MIC <=100 micromolar positive sequences per source taxon",
+  "exposure": "distinct canonical 8-50 aa substrings in each taxon's reviewed source proteins, including isoforms",
+  "unit": "source taxon, not a resolved whole-genome assembly",
+  "caveat": "Whole-genome mapping, quality, taxonomy/tree and independent habitat remain required. Reviewed-protein coverage is highly uneven. Multiple-taxon mappings are retained, not forced to one source. Published predictions were not rerun and activity was not measured here.",
+  "license": "UniProt CC BY 4.0; retain upstream paper and UniProt attribution",
+  "outputs": {
+    "positive_parent_mappings.csv": {
+      "sha256": "deb01c2e21061a7f0c0db116f0ce132e49f247ee933f858ce68217e5eddffa84",
+      "bytes": 1295512
+    },
+    "protein_registry.csv": {
+      "sha256": "e9537a0beab6777dc0e1fc1df348bbdb438c0117cb44a8b50b4d790e81e3847b",
+      "bytes": 3228308
+    },
+    "reviewed_proteins.fasta": {
+      "sha256": "24fafe76ccd322f79844112700da2eebc21da9af4bfedda7b2da80f07dbaf2e4",
+      "bytes": 6083705
+    },
+    "source_taxa.csv": {
+      "sha256": "78e4794d30d25286d256ca001b25a570d6dc0dfb67ba6fafa043ffd804f396f7",
+      "bytes": 17948
+    }
+  }
+}

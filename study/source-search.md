@@ -42,16 +42,77 @@ access. GitHub searches for archaeasins, AllTheBacteria and APEX were also check
   inference code, model files and example sequences are present; a complete
   archaeome source-genome screening manifest was not found in that tree.
 
-**Still required for the primary richness analysis:** original screened protein
-accessions/releases; exact source taxa/strains/genome mappings; per-genome
-screening counts after the original filters; all qualifying hit mappings,
-including the ability to identify completed zero-hit screens. Global totals
-alone do not supply these records. A current UniProt reanalysis is possible
-but would define a new cohort and must be labeled accordingly.
+### Historical reconstruction recovered in this search
+
+The Methods give a UniProt access date of **24 August 2023**, with reviewed
+canonical and isoform sequences for taxon 2157. That date falls between UniProt
+2023_03 (28 June) and 2023_04 (13 September). The
+[official archived release statistics](https://ftp.uniprot.org/pub/databases/uniprot/previous_releases/release-2023_03/knowledgebase/UniProtKB_SwissProt-relstat.html)
+report 19,708 reviewed archaeal entries. The
+[release archive and published checksum](https://ftp.uniprot.org/pub/databases/uniprot/previous_releases/release-2023_03/knowledgebase/RELEASE.metalink)
+make this a reproducible route, rather than relying on a live UniProt query.
+
+Downloaded the Swiss-Prot-only archive (1,601,187,312 bytes), verified its
+published MD5 `11e3f6e03ad6ee60219974e2ddb0cd54`, and streamed the text and isoform
+members. All four reported input/screen counts are reproduced exactly:
+
+| Check | Paper | Reconstruction |
+|---|---:|---:|
+| Canonical plus isoform protein records | 19,710 | 19,708 canonical + 2 isoforms |
+| Distinct protein sequences | 18,677 | 18,677 |
+| Source taxa | 233 | 233 |
+| Distinct canonical 8–50 aa fragments | 193,331,608 | 193,331,608 |
+
+Exact substring mapping recovers **all 12,623 published positives** in these
+proteins, yielding 14,237 parent occurrences. In addition, all 285 parent
+accession mentions in the 265-row selected source table are present in this
+archive, contain the stated peptide and match a reported taxon. This independently
+checks the published source attribution. Summing distinct per-taxon positives
+also reproduces all twenty published genus totals, with an explicit
+Lokiarchaeum/Candidatus Lokiarchaeum label crosswalk. Those outcome-selected
+genera remain validation context only. No AMP model was rerun for these joins.
+
+The committed [reconstruction audit and tables](../examples/amp-study/archaeome-reconstruction/)
+include the full protein registry, all positive-to-parent mappings and all
+233 source taxa with distinct-fragment exposure. There are 105 taxa with catalog
+hits and 128 with no catalog hits under the published mean-panel ≤100 µM rule.
+Shared positives occur in multiple taxa (658 sequences); all exact occurrences
+are retained. Per-taxon exposures overlap, so their sum is greater than the
+global distinct-fragment count. Coordinates are one-based inclusive; catalog
+row numbers are zero-based and checksum pinned.
+
+This is a **count-validated historical reconstruction**, not an author-supplied
+original accession manifest: the paper supplies no original input checksum for
+an identity comparison. Reviewed-source coverage is extremely uneven: one to
+1,787 protein records per taxon, with a median of four. Only five taxa have
+at least 500 reviewed protein records. Taxon catalog counts are
+not whole-proteome discovery rates. Exposure normalization does not eliminate
+selection of which proteins were reviewed. A current UniProt query now returns
+19,908 reviewed entries in release 2026_03, so silently substituting today's
+proteins would not reproduce this cohort.
+
+**Still required for the primary genome models:** resolve the reconstructed taxa
+and source accessions to exact versioned whole-genome assemblies, full proteomes,
+quality metrics, independent habitats and an appropriate rooted archaeal tree.
+A current-reference resolution of all 233 recovered taxa finds 138 unique
+exact-taxon complete RefSeq assemblies, leaves 94 unresolved and records one
+bounded query failure for the broad uncultured-archaeon taxon. These statuses
+and provenance are retained in `examples/amp-study/reconstructed-genomes/`.
+Preserve unresolved mappings and duplicate/one-to-many strain assignments.
+The original protein/taxon screen and its positive linkage are now available;
+the whole-genome model bundle is not yet complete. Reproduction commands are in
+[study setup](README.md#reconstruct-the-historical-archaeome-input).
 
 ## AllTheBacteria study
 
-- [Version 8 preprint](https://doi.org/10.1101/2024.03.08.584059).
+- [Version 8 preprint](https://doi.org/10.1101/2024.03.08.584059) and its
+  [full PMC article](https://pmc.ncbi.nlm.nih.gov/articles/PMC13370402/).
+  **Unresolved protocol discrepancy:** Results describe 1,867 candidates selected
+  with predicted MIC <80 µM against at least one target. Methods instead describe
+  a median-panel MIC ≤80 µM rule. The 3,919,096-fragment screen therefore needs its
+  original export/provenance before choosing a primary real-data endpoint. The
+  demonstration uses the Results-style rule solely to exercise the software;
+  the implemented aggregator supports mean/any, not median.
 - Retrieved its complete supplemental archive via [Europe PMC](https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13370402/supplementaryFiles)
   after the direct PMC download returned HTML and the bioRxiv route rate-limited.
   Inspected the 22-page PDF. Table 1 lists 24 synthesized peptide IDs/sequences;
@@ -94,16 +155,28 @@ the prokaryotic source annotations in these notebooks.
 
 ## What is already executed
 
-GenomeSPOT has been run on current, exact-taxon RefSeq genome/proteome pairs for
-six organisms represented in the selected archaeome source table. All sixty
-trait predictions, warnings, source URLs and input/model hashes are archived in
-`examples/amp-study/source-genomes/`. These are current-reference physiology
-outputs, not a recreation of the original reviewed-protein screen. They have
-not been joined to invented per-genome AMP counts. These six taxa were selected
-from the most represented unambiguous taxa in the selected hit table solely
-for technical validation; that outcome-derived subset is not an inference cohort.
+The initial GenomeSPOT pilot used six exact-taxon RefSeq genome/proteome pairs
+from the selected source table, solely for technical validation. Those older
+results remain in `examples/amp-study/source-genomes/`.
+
+After the reconstruction, all 233 recovered taxa were checked independently of
+AMP outcomes. Downloaded all 138 uniquely resolved current complete RefSeq genome
+and proteome pairs and ran GenomeSPOT successfully: **1,380 actual trait
+predictions**. Every source input/model hash, feature set, prediction and warning
+is retained in `examples/amp-study/reconstructed-genomes/`.
+
+Historical source proteins are all contained in 52 current proteomes, and all
+match as full proteins in 47. Current CheckM QC passes 103 genomes; 89 have all
+four primary traits unflagged. These intersect in **24 preliminary historical
+join candidates**. Other records are retained with their limitations. Source
+identity, quality and trait reliability are separate checks; exact taxon labels
+alone did not establish protein identity. The 24 candidates are a feasibility
+result, not a powered, finalized association cohort. No ecological or resistance
+association has been fitted on this reconstructed/current-reference cohort.
 
 All three notebooks have a fully executable, explicitly simulated demonstration
 and a real-data mode that fails on absent/incompatible input instead of silently
 substituting data. The demonstrations test models and joins; no AMR/ecology/
 evolution association has yet been established on the complete original cohorts.
+The historical archaeome reconstruction and source joins above are real data
+recovery results, separate from those simulated statistical demonstrations.

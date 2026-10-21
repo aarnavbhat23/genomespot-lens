@@ -54,6 +54,13 @@ def main():
         "carbon_a": {"model": "HuggingFaceBio/Carbon-A-1.2B", "revision": carbon["sha"], "role": "Eukaryotic CDS annotation. Outside the documented scope of bacterial/archaeal gene calling; not an AMP predictor.", "weights_downloaded": False},
         "atb": {"public_genomes_and_amr": True, "master_index": {"url": URLS["atb_file_index.tsv"], "rows": len(file_index), "matched_rows": int(index_matches.sum()), "sha256": sha256(raw / "atb_file_index.tsv"), "searched_terms": ["peptide", "apex", "encrypted"]}, "complete_amp_to_genome_scoring_manifest_located": False, "caveat": "Scoped public search, not a claim that the files do not exist. See study/source-search.md."},
     }
+    reconstruction = Path(__file__).resolve().parents[1] / "examples/amp-study/archaeome-reconstruction/audit.json"
+    if reconstruction.exists():
+        report["archaeome"]["reconstructed_source_audit"] = "examples/amp-study/archaeome-reconstruction/audit.json"
+        report["archaeome"]["scope"] = "Published score catalog plus count-validated historical protein/taxon reconstruction; whole-genome mapping still required"
+    report["atb"]["threshold_conflict"] = {"results": "Any-target MIC <80 micromolar", "methods": "Median-panel MIC <=80 micromolar", "resolved": False}
+    if (reconstruction.parent.parent / "reconstructed-genomes/prediction_audit.json").exists():
+        report["archaeome"]["reconstructed_genome_audit"] = "examples/amp-study/reconstructed-genomes/prediction_audit.json"
     Path(args.audit_out).write_text(json.dumps(report, indent=2) + "\n")
 
 

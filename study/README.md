@@ -12,9 +12,13 @@ question, model, diagnostics, sensitivity analyses, interpretation and sources.
 
 **Saved inferential outputs are simulated demonstrations.** Real published
 source audits, a selected published genus table and real GenomeSPOT predictions
-for six archaeome-linked source taxa are displayed separately. The complete
-original AMP-to-genome screening linkage is not yet established; the
-[source search](source-search.md) documents what was actually checked. No
+for 138 current source genomes are displayed separately, with the earlier
+six-taxon pilot retained. A count-validated
+archaeome reconstruction now supplies the 233 source taxa, per-taxon screened
+fragment exposure, all 12,623 positive peptide mappings and zero-catalog-hit taxa.
+Historical protein identity and whole-genome QC remain explicit; ATB’s original
+full screen export remains
+unresolved. The [source search](source-search.md) documents the evidence. No
 ecology/AMR/co-evolution finding is claimed from the demonstration.
 
 ## Install and execute
@@ -24,7 +28,7 @@ From the repository root, using Python 3.11 and `uv`:
 ```bash
 uv venv --python 3.11 .venv
 uv pip install --python .venv/bin/python -e '.[test,plot]' -r study/requirements.txt
-.venv/bin/python -m pytest tests/test_amp_study.py -q
+.venv/bin/python -m pytest tests/test_amp_study.py tests/test_archaeome_archive.py -q
 .venv/bin/python scripts/execute_study_notebooks.py
 ```
 
@@ -39,6 +43,78 @@ The fixture has 384 explicitly synthetic genomes, fake peptide identifiers,
 fake AMR calls, simulated traits and a simulated tree. Its purpose is testing
 joins, offsets, filters and models. `scripts/make_study_demo.py` regenerates it
 in a new directory with seed 23. Raw published inputs stay outside Git in `runs/`.
+
+## Reconstruct the historical archaeome input
+
+The checked release archive is 1.60 GB compressed. Download it locally; only the
+compact source registry, parent mappings and audit are committed. This command
+requires the analysis dependencies installed above:
+
+```bash
+mkdir -p runs/archive-inputs
+curl -fL --retry 2 -o runs/archive-inputs/uniprot_sprot-only2023_03.tar.gz \
+  https://ftp.uniprot.org/pub/databases/uniprot/previous_releases/release-2023_03/knowledgebase/uniprot_sprot-only2023_03.tar.gz
+curl -fL --retry 2 -o runs/archive-inputs/archaeome_scores.csv \
+  'https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41564-025-02061-0/MediaObjects/41564_2025_2061_MOESM3_ESM.csv'
+.venv/bin/python scripts/reconstruct_archaeome.py \
+  --archive runs/archive-inputs/uniprot_sprot-only2023_03.tar.gz \
+  --catalog runs/archive-inputs/archaeome_scores.csv \
+  --genus-table examples/amp-study/published_genus_table.csv --out runs/archaeome-reconstruction
+```
+
+The script verifies pinned checksums, canonical+isoform counts, distinct protein
+and taxon counts, the exact distinct-fragment total and complete positive mapping.
+Pass `--selected PATH_TO_MOESM4_ESM.csv` to independently check all 285 parent
+accession/sequence/taxon mentions in the published 265-row selected table. The
+genus-table option checks all twenty published genus totals, using an explicit
+Lokiarchaeum/Candidatus Lokiarchaeum label crosswalk.
+It counts distinct fragments exactly through suffix arrays, without allocating
+193 million strings. Small exhaustive tests check boundaries, noncanonical
+residues and shared fragments. The output FASTA stays local. Tables use taxon IDs;
+they must not be passed to the genome models as if they were complete assemblies.
+Median reviewed-protein coverage is only four records per taxon, so source
+coverage is a major scientific confound even after exposure normalization.
+
+## Resolve and run the reconstructed source taxa
+
+These steps process all 233 recovered taxa independently of AMP outcomes. The
+resolver retains ambiguous/unmatched taxa. The download step compares historical
+source proteins with each current full proteome, keeping exact and containment
+coverage separately. Current-reference technical predictions do not by themselves
+establish a valid historical screen join.
+
+```bash
+.venv/bin/python scripts/resolve_archaeome_genomes.py \
+  --taxa examples/amp-study/archaeome-reconstruction/source_taxa.csv \
+  --out runs/archaeome-genome-resolution
+.venv/bin/python scripts/download_archaeome_genomes.py \
+  --mapping runs/archaeome-genome-resolution/source_genome_mappings.csv \
+  --reconstruction runs/archaeome-reconstruction --out runs/archaeome-current-inputs
+.venv/bin/python scripts/run_genomespot_manifest.py \
+  --manifest runs/archaeome-current-inputs/genome_inputs.csv \
+  --models vendor/GenomeSPOT/models --out runs/archaeome-current-predictions
+.venv/bin/python scripts/summarize_archaeome_batch.py \
+  --mapping runs/archaeome-genome-resolution/source_genome_mappings.csv \
+  --inputs runs/archaeome-current-inputs --predictions runs/archaeome-current-predictions \
+  --out runs/archaeome-batch-export
+```
+
+The checked current-reference resolution finds 138 unique exact-taxon complete
+RefSeq assemblies, leaves 94 taxa unresolved, and records one bounded query
+failure for the broad “uncultured archaeon” taxon (>1,000 descendants). All 233
+statuses are retained in `examples/amp-study/reconstructed-genomes/`. Reference
+assembly choice and original protein identity are separate checks. Current NCBI
+CheckM values are preserved where present; absent values are not filled in.
+
+All 138 downloads and GenomeSPOT runs completed, yielding 1,380 trait predictions.
+All historical source proteins are contained in 52 current full proteomes (47
+match as full proteins); 103 genomes pass the quality thresholds and 89 have all
+four primary traits unflagged. The intersection contains 24 preliminary join
+candidates. These checks are distinct: their counts must not be added together.
+The actual results, per-genome features/model provenance and exclusions are in
+`examples/amp-study/reconstructed-genomes/`. Twenty-four candidates are a
+feasibility audit, not a completed association cohort; final modeling also needs
+taxonomy, independent habitat, a defensible tree and an adequately powered design.
 
 ## Real-data run
 

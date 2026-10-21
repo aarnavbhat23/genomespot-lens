@@ -10,9 +10,16 @@ analyses with explicit screening denominators and source-mapping checks:
 3. [Resistance and AMP opportunity](notebooks/03_resistance_amp_opportunity.ipynb)
 
 Read [study setup and execution](study/README.md) first. The saved statistical
-outputs use an explicitly simulated cohort. Actual GenomeSPOT results for six
-reported archaeome source taxa and a thorough public-data audit are included.
-The complete original per-genome AMP screen linkage remains unresolved; see
+outputs use an explicitly simulated cohort. Actual GenomeSPOT results for 138 current exact-taxon source genomes
+(1,380 trait predictions) and a thorough public-data audit are included.
+**New source reconstruction:** the UniProt 2023_03 archive reproduces all four
+archaeome input/screen counts, and all 12,623 published positive sequences map
+back to its proteins. The [233-taxon registry and full parent mappings](examples/amp-study/archaeome-reconstruction/)
+are included with checksums. All 233 source taxa were checked; 138 had unique current complete RefSeq
+matches. Protein identity, genome QC and trait checks are retained separately,
+with 24 preliminary historical-join candidates. The real association cohort still
+needs taxonomy, independent habitat and an archaeal tree; ATB’s full AMP screen
+export has not been located. See
 [source search](study/source-search.md). The notebooks do not turn selected hit
 lists into zero-hit genomes or claim biological results from the demonstration.
 

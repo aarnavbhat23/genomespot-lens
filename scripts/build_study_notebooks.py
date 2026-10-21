@@ -67,6 +67,24 @@ if source_dir.exists():
     # Genuine GenomeSPOT outputs. They are not joined to invented AMP counts.
     real_predictions = pd.read_csv(source_dir / "genomespot.csv")
     display(real_predictions[real_predictions.target.isin(TRAITS.values())])
+reconstruction_dir = ROOT / "examples/amp-study/archaeome-reconstruction"
+reconstruction = json.loads((reconstruction_dir / "audit.json").read_text())
+display(pd.DataFrame({"reported": reconstruction["expected_counts"],
+                      "reconstructed": reconstruction["observed_counts"]}))
+source_taxa = pd.read_csv(reconstruction_dir / "source_taxa.csv")
+display(source_taxa[["reviewed_protein_records", "distinct_screened_fragments",
+                     "distinct_high_scoring_peptides"]].describe())
+print("Actual reconstructed taxa:", len(source_taxa), "| zero catalog hits:",
+      reconstruction["taxa_with_zero_catalog_hits"], "| all published positives map:",
+      reconstruction["all_positive_peptides_mapped"])
+print("These are source-taxon reviewed-protein screens; use verified assembly joins for genome models.")
+batch_dir = ROOT / "examples/amp-study/reconstructed-genomes"
+if (batch_dir / "prediction_audit.json").exists():
+    batch = json.loads((batch_dir / "prediction_audit.json").read_text())
+    display(pd.Series(batch["counts"], name="ACTUAL current-reference batch checks"))
+    print("Actual GenomeSPOT prediction rows:", batch["prediction_rows"])
+    print(batch["candidate_caveat"])
+print("ATB Results and Methods disagree on the MIC selection rule; resolve before a real ATB run.")
 print("Source-screen linkage: see study/source-search.md and study/data-contract.md")
 '''
 
@@ -164,8 +182,9 @@ The exposure counts the corresponding distinct sequences screened under one
 fixed protocol, model version and target panel. Missing or failed screens remain
 missing. Repeated parent copies and multiple target scores do not multiply counts.
 
-Use each dataset/cohort separately. ATB's reported any-target <80 µM rule and the
-archaeome study's mean-panel ≤100 µM rule define different outcomes. Preserve the
+Use each dataset/cohort separately. ATB's Results report any-target <80 µM, while Methods say median-panel ≤80 µM;
+that conflict needs resolution before a real ATB analysis. The demo illustrates
+an any-target rule. The archaeome study uses a separate mean-panel ≤100 µM rule. Preserve the
 original rule in `bundle.json`; harmonizing thresholds also requires harmonized
 screening and source coverage. Predicted MIC and measured MIC are distinct fields.
 '''

@@ -16,8 +16,11 @@ The primary joint ecology models exclude any flagged/missing primary trait;
 report inclusive and trait-specific coverage sensitivities rather than hiding
 extremophile exclusions. Sampling must be independent of observed AMP richness.
 
-Choose primary cutoffs before fitting: ATB's reported any-target <80 µM and the
-archaeome mean-panel ≤100 µM outcome differ. Screening exposure and panel must be
+Choose primary cutoffs before fitting. ATB's Results specify any-target <80 µM,
+whereas its Methods specify median-panel ≤80 µM. Resolve that internal conflict
+against the original screen export/analysis provenance before fitting a real ATB
+cohort; do not silently choose one. The demo illustrates an any-target <80 µM
+rule. The archaeome mean-panel ≤100 µM outcome is distinct. Screening exposure and panel must be
 homogeneous before cross-study comparisons. Publish coverage and exclusions,
 including unassigned source proteins, ambiguous strain matches and failed calls.
 
@@ -84,4 +87,6 @@ The delivered notebooks execute the complete data preparation, count models,
 cross-validation, sensitivity analyses, conditional endpoints and phylogenetic
 model construction/prior prediction on an explicitly simulated 384-genome
 fixture. Posterior MCMC is opt-in. These outputs validate software behavior;
-real biological conclusions require the missing complete screen/source linkage.
+real biological conclusions require complete genome matching and covariates. The
+archaeome protein/taxon screen has now been reconstructed and count validated;
+the ATB full screen/source export remains unresolved.

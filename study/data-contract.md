@@ -22,6 +22,11 @@ RefSeq accessions and UniProt organisms.
 }
 ```
 
+The threshold is illustrative too: ATB Results say any-target <80 µM, whereas
+Methods say median-panel ≤80 µM. Resolve that discrepancy before preparing a real
+ATB bundle. A verified median-panel protocol would require extending and testing
+the current aggregator, which currently supports mean and any only.
+
 The target IDs and rooting method above illustrate field names; they must be
 replaced with the actual panel and provenance. `threshold_mode` is `any` (minimum
 MIC across the panel) or `mean` (arithmetic mean across the panel).
@@ -67,8 +72,10 @@ but must not be labeled the same estimand.
 SHA-256 of the peptide sequence. Gene copies and multiple target scores are
 collapsed to one qualifying sequence per genome. Preserve source coordinates and
 all parent mappings outside the model table for audit. Mapping status is `exact`
-only when source attribution is established; ambiguous mappings are excluded and
-counted. Missing peptide rows never establish a zero without a completed registry.
+only when source attribution is established; unresolved genome mappings are
+excluded and counted. A peptide occurring exactly in proteins from several
+verified sources belongs to each source and is not forced to just one. The
+reconstruction preserves these multiple-source occurrences. Missing peptide rows never establish a zero without a completed registry.
 
 Cluster IDs must be assigned consistently across the full candidate cohort using
 a recorded sequence-clustering method, threshold and coverage rule. Missing IDs

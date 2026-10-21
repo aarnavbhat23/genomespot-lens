@@ -1,0 +1,14 @@
+{
+  "created_utc": "2026-10-21T00:46:57.469530+00:00",
+  "mapping_sha256": "2c13259d3d4c5abba3efc58af5ce723aaf0f31b6a7aa29349d20f3af76e45140",
+  "historical_registry_sha256": "e9537a0beab6777dc0e1fc1df348bbdb438c0117cb44a8b50b4d790e81e3847b",
+  "attempted_resolved_genomes": 138,
+  "download_pass": 138,
+  "all_historical_sources_contained": 52,
+  "scope": "Current exact-taxon assembly inputs; technical predictions are not automatically eligible historical screen joins",
+  "files": {
+    "download_status.csv": "5482321530ea7025ac40df2f9069097cf79df8ff6b854ad952f63db2c2255a78",
+    "source_protein_identity.csv": "4c3e90843654f11770dbb3f80180d133c64f32c10bb7e99488431a94d6e35b5b",
+    "genome_inputs.csv": "738b5592389723f00b6f640f443b357890e3c8e7a9bd317dbc293a4af7e70bc6"
+  }
+}
