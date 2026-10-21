@@ -25,12 +25,20 @@ full screen export remains
 unresolved. The [source search](source-search.md) documents the evidence. No
 ecology/AMR/co-evolution finding is claimed from the demonstration.
 
-[Notebook 05](../notebooks/05_real_ecology_species_comparison.ipynb) adds a second
+[Notebook 05](../notebooks/05_real_ecology_species_comparison.ipynb) retains a historical
 actual-data analysis: 1,964 bacterial genomes, 1,084 true registry zeros, and
 species-controlled habitat comparisons. It refits the models and repeats the
 permutation test using real data; its small-ORF endpoint is distinct from APEX
 windows. Read [the results and limitations](ecology-comparison/results.md).
 The temperature notebook now also includes prior, release and rooting checks.
+
+**Taxonomy correction:** notebook 05 pooled the bare `s__` label across six genera.
+Its species-control inference is superseded by
+[notebook 06](../notebooks/06_real_ecology_robustness.ipynb), which excludes unresolved
+assignments and adds direct-pair, quality, presence and influence checks. See
+[the current results](ecology-comparison/robustness-results-2026-10-21.md).
+The [deeper ATB export search](atb-export-search-2026-10-21.md) retains its limits
+and a conditional counting audit; the original screen export is still unresolved.
 
 ## Install and execute
 
@@ -43,7 +51,7 @@ uv pip install --python .venv/bin/python -e '.[test,plot]' -r study/requirements
 .venv/bin/python scripts/execute_study_notebooks.py
 ```
 
-The runner uses the current Python interpreter explicitly and executes all five
+The runner uses the current Python interpreter explicitly and executes all six
 notebooks, saving their outputs in place. It performs no network downloads or
 paid compute. The delivered notebook metadata uses a generic Python 3 kernel;
 select this environment if opening them in Jupyter or an editor. Shared code

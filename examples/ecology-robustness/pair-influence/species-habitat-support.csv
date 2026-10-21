@@ -1,0 +1,175 @@
+species,habitat,genomes,candidates,positive_genomes,mean_candidates,quality,contrast
+s__Lacticaseibacillus paracasei,animal,1,0,0,0.0,published,human / animal
+s__Lacticaseibacillus paracasei,human,28,9,8,0.32142857142857145,published,human / animal
+s__Lactiplantibacillus plantarum,animal,2,1,1,0.5,published,human / animal
+s__Lactiplantibacillus plantarum,human,11,15,10,1.3636363636363635,published,human / animal
+s__Lactobacillus acidophilus,animal,4,0,0,0.0,published,human / animal
+s__Lactobacillus acidophilus,human,9,7,6,0.7777777777777778,published,human / animal
+s__Lactobacillus amylovorus,animal,7,3,2,0.42857142857142855,published,human / animal
+s__Lactobacillus amylovorus,human,20,22,14,1.1,published,human / animal
+s__Lactobacillus crispatus,animal,48,37,26,0.7708333333333334,published,human / animal
+s__Lactobacillus crispatus,human,25,18,15,0.72,published,human / animal
+s__Lactobacillus sp027681045,animal,6,7,6,1.1666666666666667,published,human / animal
+s__Lactobacillus sp027681045,human,1,1,1,1.0,published,human / animal
+s__Lactobacillus sp945980025,animal,78,48,35,0.6153846153846154,published,human / animal
+s__Lactobacillus sp945980025,human,5,1,1,0.2,published,human / animal
+s__Ligilactobacillus agilis,animal,76,147,67,1.9342105263157894,published,human / animal
+s__Ligilactobacillus agilis,human,1,0,0,0.0,published,human / animal
+s__Ligilactobacillus animalis,animal,15,1,1,0.06666666666666667,published,human / animal
+s__Ligilactobacillus animalis,human,1,0,0,0.0,published,human / animal
+s__Ligilactobacillus ruminis,animal,1,1,1,1.0,published,human / animal
+s__Ligilactobacillus ruminis,human,145,26,22,0.1793103448275862,published,human / animal
+s__Ligilactobacillus sp945923665,animal,168,204,122,1.2142857142857142,published,human / animal
+s__Ligilactobacillus sp945923665,human,42,32,20,0.7619047619047619,published,human / animal
+s__Limosilactobacillus intestinavium,animal,12,5,4,0.4166666666666667,published,human / animal
+s__Limosilactobacillus intestinavium,human,1,0,0,0.0,published,human / animal
+s__Limosilactobacillus mucosae,animal,2,1,1,0.5,published,human / animal
+s__Limosilactobacillus mucosae,human,50,19,17,0.38,published,human / animal
+s__Limosilactobacillus oris,animal,80,147,67,1.8375,published,human / animal
+s__Limosilactobacillus oris,human,3,2,2,0.6666666666666666,published,human / animal
+s__Limosilactobacillus reuteri_E,animal,111,28,26,0.25225225225225223,published,human / animal
+s__Limosilactobacillus reuteri_E,human,15,3,3,0.2,published,human / animal
+s__Limosilactobacillus vaginalis,animal,110,25,23,0.22727272727272727,published,human / animal
+s__Limosilactobacillus vaginalis,human,7,0,0,0.0,published,human / animal
+s__Loigolactobacillus coryniformis,animal,2,3,2,1.5,published,human / animal
+s__Loigolactobacillus coryniformis,human,1,0,0,0.0,published,human / animal
+s__Pediococcus pentosaceus,animal,3,2,2,0.6666666666666666,published,human / animal
+s__Pediococcus pentosaceus,human,1,1,1,1.0,published,human / animal
+s__Lacticaseibacillus paracasei,animal,1,0,0,0.0,published,fermented food / animal
+s__Lacticaseibacillus paracasei,fermented food,8,4,4,0.5,published,fermented food / animal
+s__Lactiplantibacillus plantarum,animal,2,1,1,0.5,published,fermented food / animal
+s__Lactiplantibacillus plantarum,fermented food,14,14,8,1.0,published,fermented food / animal
+s__Lactobacillus acidophilus,animal,4,0,0,0.0,published,fermented food / animal
+s__Lactobacillus acidophilus,fermented food,2,2,2,1.0,published,fermented food / animal
+s__Latilactobacillus curvatus,animal,1,0,0,0.0,published,fermented food / animal
+s__Latilactobacillus curvatus,fermented food,13,13,9,1.0,published,fermented food / animal
+s__Levilactobacillus brevis,animal,2,0,0,0.0,published,fermented food / animal
+s__Levilactobacillus brevis,fermented food,6,1,1,0.16666666666666666,published,fermented food / animal
+s__Ligilactobacillus acidipiscis,animal,1,1,1,1.0,published,fermented food / animal
+s__Ligilactobacillus acidipiscis,fermented food,2,5,2,2.5,published,fermented food / animal
+s__Limosilactobacillus pontis,animal,1,2,1,2.0,published,fermented food / animal
+s__Limosilactobacillus pontis,fermented food,1,1,1,1.0,published,fermented food / animal
+s__Limosilactobacillus reuteri_E,animal,111,28,26,0.25225225225225223,published,fermented food / animal
+s__Limosilactobacillus reuteri_E,fermented food,1,0,0,0.0,published,fermented food / animal
+s__Loigolactobacillus coryniformis,animal,2,3,2,1.5,published,fermented food / animal
+s__Loigolactobacillus coryniformis,fermented food,4,5,3,1.25,published,fermented food / animal
+s__Paucilactobacillus vaccinostercus,animal,1,2,1,2.0,published,fermented food / animal
+s__Paucilactobacillus vaccinostercus,fermented food,3,0,0,0.0,published,fermented food / animal
+s__Pediococcus pentosaceus,animal,3,2,2,0.6666666666666666,published,fermented food / animal
+s__Pediococcus pentosaceus,fermented food,7,3,3,0.42857142857142855,published,fermented food / animal
+s__Weissella cibaria,animal,5,3,3,0.6,published,fermented food / animal
+s__Weissella cibaria,fermented food,2,0,0,0.0,published,fermented food / animal
+s__Weissella confusa,animal,3,1,1,0.3333333333333333,published,fermented food / animal
+s__Weissella confusa,fermented food,5,2,2,0.4,published,fermented food / animal
+s__Weissella paramesenteroides,animal,1,1,1,1.0,published,fermented food / animal
+s__Weissella paramesenteroides,fermented food,3,2,2,0.6666666666666666,published,fermented food / animal
+s__Lacticaseibacillus paracasei,fermented food,8,4,4,0.5,published,fermented food / human
+s__Lacticaseibacillus paracasei,human,28,9,8,0.32142857142857145,published,fermented food / human
+s__Lacticaseibacillus rhamnosus,fermented food,1,1,1,1.0,published,fermented food / human
+s__Lacticaseibacillus rhamnosus,human,32,32,18,1.0,published,fermented food / human
+s__Lactiplantibacillus plantarum,fermented food,14,14,8,1.0,published,fermented food / human
+s__Lactiplantibacillus plantarum,human,11,15,10,1.3636363636363635,published,fermented food / human
+s__Lactobacillus acidophilus,fermented food,2,2,2,1.0,published,fermented food / human
+s__Lactobacillus acidophilus,human,9,7,6,0.7777777777777778,published,fermented food / human
+s__Lactobacillus delbrueckii,fermented food,5,4,2,0.8,published,fermented food / human
+s__Lactobacillus delbrueckii,human,11,3,2,0.2727272727272727,published,fermented food / human
+s__Lactobacillus helveticus,fermented food,12,13,10,1.0833333333333333,published,fermented food / human
+s__Lactobacillus helveticus,human,1,1,1,1.0,published,fermented food / human
+s__Latilactobacillus curvatus,fermented food,13,13,9,1.0,published,fermented food / human
+s__Latilactobacillus curvatus,human,1,0,0,0.0,published,fermented food / human
+s__Latilactobacillus sakei,fermented food,4,2,1,0.5,published,fermented food / human
+s__Latilactobacillus sakei,human,2,0,0,0.0,published,fermented food / human
+s__Lentilactobacillus buchneri,fermented food,1,1,1,1.0,published,fermented food / human
+s__Lentilactobacillus buchneri,human,1,0,0,0.0,published,fermented food / human
+s__Lentilactobacillus parabuchneri,fermented food,3,1,1,0.3333333333333333,published,fermented food / human
+s__Lentilactobacillus parabuchneri,human,4,2,2,0.5,published,fermented food / human
+s__Lentilactobacillus parafarraginis,fermented food,2,1,1,0.5,published,fermented food / human
+s__Lentilactobacillus parafarraginis,human,1,1,1,1.0,published,fermented food / human
+s__Levilactobacillus brevis,fermented food,6,1,1,0.16666666666666666,published,fermented food / human
+s__Levilactobacillus brevis,human,1,0,0,0.0,published,fermented food / human
+s__Limosilactobacillus fermentum,fermented food,10,7,5,0.7,published,fermented food / human
+s__Limosilactobacillus fermentum,human,16,13,9,0.8125,published,fermented food / human
+s__Limosilactobacillus reuteri_E,fermented food,1,0,0,0.0,published,fermented food / human
+s__Limosilactobacillus reuteri_E,human,15,3,3,0.2,published,fermented food / human
+s__Loigolactobacillus coryniformis,fermented food,4,5,3,1.25,published,fermented food / human
+s__Loigolactobacillus coryniformis,human,1,0,0,0.0,published,fermented food / human
+s__Pediococcus acidilactici,fermented food,2,1,1,0.5,published,fermented food / human
+s__Pediococcus acidilactici,human,4,6,4,1.5,published,fermented food / human
+s__Pediococcus pentosaceus,fermented food,7,3,3,0.42857142857142855,published,fermented food / human
+s__Pediococcus pentosaceus,human,1,1,1,1.0,published,fermented food / human
+s__Lacticaseibacillus paracasei,animal,1,0,0,0.0,high,human / animal
+s__Lacticaseibacillus paracasei,human,20,7,6,0.35,high,human / animal
+s__Lactiplantibacillus plantarum,animal,1,1,1,1.0,high,human / animal
+s__Lactiplantibacillus plantarum,human,6,10,6,1.6666666666666667,high,human / animal
+s__Lactobacillus acidophilus,animal,1,0,0,0.0,high,human / animal
+s__Lactobacillus acidophilus,human,3,2,2,0.6666666666666666,high,human / animal
+s__Lactobacillus amylovorus,animal,2,2,1,1.0,high,human / animal
+s__Lactobacillus amylovorus,human,5,5,4,1.0,high,human / animal
+s__Lactobacillus crispatus,animal,18,24,15,1.3333333333333333,high,human / animal
+s__Lactobacillus crispatus,human,6,6,5,1.0,high,human / animal
+s__Lactobacillus sp027681045,animal,4,4,4,1.0,high,human / animal
+s__Lactobacillus sp027681045,human,1,1,1,1.0,high,human / animal
+s__Lactobacillus sp945980025,animal,25,14,11,0.56,high,human / animal
+s__Lactobacillus sp945980025,human,5,1,1,0.2,high,human / animal
+s__Ligilactobacillus ruminis,animal,1,1,1,1.0,high,human / animal
+s__Ligilactobacillus ruminis,human,42,8,6,0.19047619047619047,high,human / animal
+s__Ligilactobacillus sp945923665,animal,51,71,42,1.392156862745098,high,human / animal
+s__Ligilactobacillus sp945923665,human,19,11,9,0.5789473684210527,high,human / animal
+s__Limosilactobacillus intestinavium,animal,3,2,1,0.6666666666666666,high,human / animal
+s__Limosilactobacillus intestinavium,human,1,0,0,0.0,high,human / animal
+s__Limosilactobacillus mucosae,animal,1,0,0,0.0,high,human / animal
+s__Limosilactobacillus mucosae,human,13,6,6,0.46153846153846156,high,human / animal
+s__Limosilactobacillus oris,animal,39,85,33,2.1794871794871793,high,human / animal
+s__Limosilactobacillus oris,human,3,2,2,0.6666666666666666,high,human / animal
+s__Limosilactobacillus reuteri_E,animal,38,8,8,0.21052631578947367,high,human / animal
+s__Limosilactobacillus reuteri_E,human,11,3,3,0.2727272727272727,high,human / animal
+s__Limosilactobacillus vaginalis,animal,50,12,11,0.24,high,human / animal
+s__Limosilactobacillus vaginalis,human,5,0,0,0.0,high,human / animal
+s__Loigolactobacillus coryniformis,animal,1,2,1,2.0,high,human / animal
+s__Loigolactobacillus coryniformis,human,1,0,0,0.0,high,human / animal
+s__Pediococcus pentosaceus,animal,1,1,1,1.0,high,human / animal
+s__Pediococcus pentosaceus,human,1,1,1,1.0,high,human / animal
+s__Lacticaseibacillus paracasei,animal,1,0,0,0.0,high,fermented food / animal
+s__Lacticaseibacillus paracasei,fermented food,4,2,2,0.5,high,fermented food / animal
+s__Lactiplantibacillus plantarum,animal,1,1,1,1.0,high,fermented food / animal
+s__Lactiplantibacillus plantarum,fermented food,4,5,4,1.25,high,fermented food / animal
+s__Lactobacillus acidophilus,animal,1,0,0,0.0,high,fermented food / animal
+s__Lactobacillus acidophilus,fermented food,1,1,1,1.0,high,fermented food / animal
+s__Latilactobacillus curvatus,animal,1,0,0,0.0,high,fermented food / animal
+s__Latilactobacillus curvatus,fermented food,2,1,1,0.5,high,fermented food / animal
+s__Levilactobacillus brevis,animal,2,0,0,0.0,high,fermented food / animal
+s__Levilactobacillus brevis,fermented food,4,1,1,0.25,high,fermented food / animal
+s__Ligilactobacillus acidipiscis,animal,1,1,1,1.0,high,fermented food / animal
+s__Ligilactobacillus acidipiscis,fermented food,1,3,1,3.0,high,fermented food / animal
+s__Limosilactobacillus pontis,animal,1,2,1,2.0,high,fermented food / animal
+s__Limosilactobacillus pontis,fermented food,1,1,1,1.0,high,fermented food / animal
+s__Loigolactobacillus coryniformis,animal,1,2,1,2.0,high,fermented food / animal
+s__Loigolactobacillus coryniformis,fermented food,3,4,2,1.3333333333333333,high,fermented food / animal
+s__Pediococcus pentosaceus,animal,1,1,1,1.0,high,fermented food / animal
+s__Pediococcus pentosaceus,fermented food,5,1,1,0.2,high,fermented food / animal
+s__Lacticaseibacillus paracasei,fermented food,4,2,2,0.5,high,fermented food / human
+s__Lacticaseibacillus paracasei,human,20,7,6,0.35,high,fermented food / human
+s__Lacticaseibacillus rhamnosus,fermented food,1,1,1,1.0,high,fermented food / human
+s__Lacticaseibacillus rhamnosus,human,20,24,13,1.2,high,fermented food / human
+s__Lactiplantibacillus plantarum,fermented food,4,5,4,1.25,high,fermented food / human
+s__Lactiplantibacillus plantarum,human,6,10,6,1.6666666666666667,high,fermented food / human
+s__Lactobacillus acidophilus,fermented food,1,1,1,1.0,high,fermented food / human
+s__Lactobacillus acidophilus,human,3,2,2,0.6666666666666666,high,fermented food / human
+s__Lactobacillus delbrueckii,fermented food,3,2,1,0.6666666666666666,high,fermented food / human
+s__Lactobacillus delbrueckii,human,1,0,0,0.0,high,fermented food / human
+s__Latilactobacillus curvatus,fermented food,2,1,1,0.5,high,fermented food / human
+s__Latilactobacillus curvatus,human,1,0,0,0.0,high,fermented food / human
+s__Lentilactobacillus parabuchneri,fermented food,2,1,1,0.5,high,fermented food / human
+s__Lentilactobacillus parabuchneri,human,3,2,2,0.6666666666666666,high,fermented food / human
+s__Lentilactobacillus parafarraginis,fermented food,1,0,0,0.0,high,fermented food / human
+s__Lentilactobacillus parafarraginis,human,1,1,1,1.0,high,fermented food / human
+s__Levilactobacillus brevis,fermented food,4,1,1,0.25,high,fermented food / human
+s__Levilactobacillus brevis,human,1,0,0,0.0,high,fermented food / human
+s__Limosilactobacillus fermentum,fermented food,7,2,2,0.2857142857142857,high,fermented food / human
+s__Limosilactobacillus fermentum,human,9,6,5,0.6666666666666666,high,fermented food / human
+s__Loigolactobacillus coryniformis,fermented food,3,4,2,1.3333333333333333,high,fermented food / human
+s__Loigolactobacillus coryniformis,human,1,0,0,0.0,high,fermented food / human
+s__Pediococcus acidilactici,fermented food,2,1,1,0.5,high,fermented food / human
+s__Pediococcus acidilactici,human,2,4,2,2.0,high,fermented food / human
+s__Pediococcus pentosaceus,fermented food,5,1,1,0.2,high,fermented food / human
+s__Pediococcus pentosaceus,human,1,1,1,1.0,high,fermented food / human

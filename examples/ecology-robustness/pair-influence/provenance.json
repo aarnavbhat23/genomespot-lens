@@ -1,0 +1,15 @@
+{
+  "data_kind": "real",
+  "created_utc": "2026-10-21T16:05:44.478926+00:00",
+  "baseline_genomes_sha256": "4810460c0c91e4c3b005846ffd637e48fee6456e8bb2000614305de9ef10534c",
+  "protocol_commit": "405ac97",
+  "taxonomy_correction_protocol_commit": "78d5882",
+  "post_lead_analysis": true,
+  "analysis_code_sha256": "dc2d0b576998eee54c20d67d7ce84140b69df8bcacb5b18ae5b316c8e0742b60",
+  "statistics_sha256": "e20bc2f5080761a2e9ce8bcd0046e147fbf4ee3f567c25725a7cc638dbf061c9",
+  "outputs": {
+    "pair-influence-summary.csv": "42ea019a78815cfccb02b79d73253877b1e77ff6b051287d5281be87bc4b79e7",
+    "direct-pair-influence.csv": "c6c90331b88caff88502a94a54d9a98d542bf166977d6ad6f9d5482f765d6ad7",
+    "species-habitat-support.csv": "ecd7281df95751e3996c2ea5a5352920866035d09680c1ca1465b71adde87d89"
+  }
+}

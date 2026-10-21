@@ -1,0 +1,4070 @@
+endpoint,quality,contrast,genome_id
+count,published,human / animal,Animal_0532
+count,published,human / animal,Animal_0533
+count,published,human / animal,Animal_0534
+count,published,human / animal,Animal_0535
+count,published,human / animal,Animal_0536
+count,published,human / animal,Animal_0537
+count,published,human / animal,Animal_0538
+count,published,human / animal,Animal_0539
+count,published,human / animal,Animal_0541
+count,published,human / animal,Animal_0542
+count,published,human / animal,Animal_0543
+count,published,human / animal,Animal_0544
+count,published,human / animal,Animal_0545
+count,published,human / animal,Animal_0546
+count,published,human / animal,Animal_0547
+count,published,human / animal,Animal_0548
+count,published,human / animal,Animal_0549
+count,published,human / animal,Animal_0550
+count,published,human / animal,Animal_0551
+count,published,human / animal,Animal_0552
+count,published,human / animal,Animal_0553
+count,published,human / animal,Animal_0554
+count,published,human / animal,Animal_0555
+count,published,human / animal,Animal_0556
+count,published,human / animal,Animal_0557
+count,published,human / animal,Animal_0558
+count,published,human / animal,Animal_0559
+count,published,human / animal,Animal_0560
+count,published,human / animal,Animal_0561
+count,published,human / animal,Animal_0562
+count,published,human / animal,Animal_0563
+count,published,human / animal,Animal_0564
+count,published,human / animal,Animal_0565
+count,published,human / animal,Animal_0566
+count,published,human / animal,Animal_0568
+count,published,human / animal,Animal_0571
+count,published,human / animal,Animal_0572
+count,published,human / animal,Animal_0573
+count,published,human / animal,Animal_0577
+count,published,human / animal,Animal_0580
+count,published,human / animal,Animal_0583
+count,published,human / animal,Animal_0584
+count,published,human / animal,Animal_0587
+count,published,human / animal,Animal_0603
+count,published,human / animal,Animal_0605
+count,published,human / animal,Animal_0606
+count,published,human / animal,Animal_0608
+count,published,human / animal,Animal_0609
+count,published,human / animal,Animal_0611
+count,published,human / animal,Animal_0612
+count,published,human / animal,Animal_0613
+count,published,human / animal,Animal_0616
+count,published,human / animal,Animal_0622
+count,published,human / animal,Animal_0623
+count,published,human / animal,Animal_0625
+count,published,human / animal,Animal_0628
+count,published,human / animal,Animal_0629
+count,published,human / animal,Animal_0630
+count,published,human / animal,Animal_0632
+count,published,human / animal,Animal_0633
+count,published,human / animal,Animal_0634
+count,published,human / animal,Animal_0635
+count,published,human / animal,Animal_0636
+count,published,human / animal,Animal_0637
+count,published,human / animal,Animal_0638
+count,published,human / animal,Animal_0639
+count,published,human / animal,Animal_0641
+count,published,human / animal,Animal_0643
+count,published,human / animal,Animal_0645
+count,published,human / animal,Animal_0647
+count,published,human / animal,Animal_0648
+count,published,human / animal,Animal_0649
+count,published,human / animal,Animal_0650
+count,published,human / animal,Animal_0651
+count,published,human / animal,Animal_0653
+count,published,human / animal,Animal_0655
+count,published,human / animal,Animal_0656
+count,published,human / animal,Animal_0658
+count,published,human / animal,Animal_0660
+count,published,human / animal,Animal_0662
+count,published,human / animal,Animal_0664
+count,published,human / animal,Animal_0666
+count,published,human / animal,Animal_0668
+count,published,human / animal,Animal_0669
+count,published,human / animal,Animal_0670
+count,published,human / animal,Animal_0671
+count,published,human / animal,Animal_0672
+count,published,human / animal,Animal_0673
+count,published,human / animal,Animal_0674
+count,published,human / animal,Animal_0679
+count,published,human / animal,Animal_0680
+count,published,human / animal,Animal_0682
+count,published,human / animal,Animal_0686
+count,published,human / animal,Animal_0687
+count,published,human / animal,Animal_0691
+count,published,human / animal,Animal_0696
+count,published,human / animal,Animal_0698
+count,published,human / animal,Animal_0704
+count,published,human / animal,Animal_0705
+count,published,human / animal,Animal_0708
+count,published,human / animal,Animal_0709
+count,published,human / animal,Animal_0712
+count,published,human / animal,Animal_0717
+count,published,human / animal,Animal_0718
+count,published,human / animal,Animal_0719
+count,published,human / animal,Animal_0720
+count,published,human / animal,Animal_0721
+count,published,human / animal,Animal_0722
+count,published,human / animal,Animal_0724
+count,published,human / animal,Chicken_0867
+count,published,human / animal,Chicken_0868
+count,published,human / animal,Chicken_0875
+count,published,human / animal,Chicken_0876
+count,published,human / animal,Chicken_0877
+count,published,human / animal,Chicken_0878
+count,published,human / animal,Chicken_0880
+count,published,human / animal,Chicken_0881
+count,published,human / animal,Chicken_0882
+count,published,human / animal,Chicken_0883
+count,published,human / animal,Chicken_0884
+count,published,human / animal,Chicken_0885
+count,published,human / animal,Chicken_0886
+count,published,human / animal,Chicken_0887
+count,published,human / animal,Chicken_0889
+count,published,human / animal,Chicken_0890
+count,published,human / animal,Chicken_0891
+count,published,human / animal,Chicken_0893
+count,published,human / animal,Chicken_0895
+count,published,human / animal,Chicken_0898
+count,published,human / animal,Chicken_0902
+count,published,human / animal,Chicken_0903
+count,published,human / animal,Chicken_0906
+count,published,human / animal,Chicken_0907
+count,published,human / animal,Chicken_0908
+count,published,human / animal,Chicken_0911
+count,published,human / animal,Chicken_0914
+count,published,human / animal,Chicken_0915
+count,published,human / animal,Chicken_0916
+count,published,human / animal,Chicken_0918
+count,published,human / animal,Chicken_0920
+count,published,human / animal,Chicken_0921
+count,published,human / animal,Chicken_0923
+count,published,human / animal,Chicken_0924
+count,published,human / animal,Chicken_0925
+count,published,human / animal,Chicken_0928
+count,published,human / animal,Chicken_0930
+count,published,human / animal,Chicken_0931
+count,published,human / animal,Chicken_0932
+count,published,human / animal,Chicken_0933
+count,published,human / animal,Chicken_0936
+count,published,human / animal,Chicken_0938
+count,published,human / animal,Chicken_0939
+count,published,human / animal,Chicken_0942
+count,published,human / animal,Chicken_0943
+count,published,human / animal,Chicken_0947
+count,published,human / animal,Chicken_0949
+count,published,human / animal,Chicken_0952
+count,published,human / animal,Chicken_0953
+count,published,human / animal,Chicken_0957
+count,published,human / animal,Chicken_0958
+count,published,human / animal,Chicken_0959
+count,published,human / animal,Chicken_0960
+count,published,human / animal,Chicken_0962
+count,published,human / animal,Chicken_0963
+count,published,human / animal,Chicken_0965
+count,published,human / animal,Chicken_0967
+count,published,human / animal,Chicken_0968
+count,published,human / animal,Chicken_0969
+count,published,human / animal,Chicken_0971
+count,published,human / animal,Chicken_0972
+count,published,human / animal,Chicken_0973
+count,published,human / animal,Chicken_0974
+count,published,human / animal,Chicken_0975
+count,published,human / animal,Chicken_0977
+count,published,human / animal,Chicken_0978
+count,published,human / animal,Chicken_0981
+count,published,human / animal,Chicken_0982
+count,published,human / animal,Chicken_0983
+count,published,human / animal,Chicken_0984
+count,published,human / animal,Chicken_0985
+count,published,human / animal,Chicken_0986
+count,published,human / animal,Chicken_0987
+count,published,human / animal,Chicken_0989
+count,published,human / animal,Chicken_0990
+count,published,human / animal,Chicken_0991
+count,published,human / animal,Chicken_0993
+count,published,human / animal,Chicken_0995
+count,published,human / animal,Chicken_0996
+count,published,human / animal,Chicken_0997
+count,published,human / animal,Chicken_0999
+count,published,human / animal,Chicken_1000
+count,published,human / animal,Chicken_1001
+count,published,human / animal,Chicken_1002
+count,published,human / animal,Chicken_1003
+count,published,human / animal,Chicken_1004
+count,published,human / animal,Chicken_1005
+count,published,human / animal,Chicken_1006
+count,published,human / animal,Chicken_1007
+count,published,human / animal,Chicken_1009
+count,published,human / animal,Chicken_1011
+count,published,human / animal,Chicken_1014
+count,published,human / animal,Chicken_1015
+count,published,human / animal,Chicken_1016
+count,published,human / animal,Chicken_1021
+count,published,human / animal,Chicken_1022
+count,published,human / animal,Chicken_1023
+count,published,human / animal,Chicken_1026
+count,published,human / animal,Chicken_1027
+count,published,human / animal,Chicken_1030
+count,published,human / animal,Chicken_1032
+count,published,human / animal,Chicken_1035
+count,published,human / animal,Chicken_1036
+count,published,human / animal,Chicken_1039
+count,published,human / animal,Chicken_1040
+count,published,human / animal,Chicken_1041
+count,published,human / animal,Chicken_1042
+count,published,human / animal,Chicken_1046
+count,published,human / animal,Chicken_1048
+count,published,human / animal,Chicken_1050
+count,published,human / animal,Chicken_1054
+count,published,human / animal,Chicken_1057
+count,published,human / animal,Chicken_1058
+count,published,human / animal,Chicken_1059
+count,published,human / animal,Chicken_1060
+count,published,human / animal,Chicken_1062
+count,published,human / animal,Chicken_1068
+count,published,human / animal,Chicken_1069
+count,published,human / animal,Chicken_1070
+count,published,human / animal,Chicken_1071
+count,published,human / animal,Chicken_1072
+count,published,human / animal,Chicken_1074
+count,published,human / animal,Chicken_1076
+count,published,human / animal,Chicken_1079
+count,published,human / animal,Chicken_1082
+count,published,human / animal,Chicken_1084
+count,published,human / animal,Chicken_1085
+count,published,human / animal,Chicken_1086
+count,published,human / animal,Chicken_1087
+count,published,human / animal,Chicken_1090
+count,published,human / animal,Chicken_1091
+count,published,human / animal,Chicken_1092
+count,published,human / animal,Chicken_1093
+count,published,human / animal,Chicken_1095
+count,published,human / animal,Chicken_1096
+count,published,human / animal,Chicken_1097
+count,published,human / animal,Chicken_1098
+count,published,human / animal,Chicken_1099
+count,published,human / animal,Chicken_1100
+count,published,human / animal,Chicken_1102
+count,published,human / animal,Chicken_1103
+count,published,human / animal,Chicken_1105
+count,published,human / animal,Chicken_1106
+count,published,human / animal,Chicken_1108
+count,published,human / animal,Chicken_1109
+count,published,human / animal,Chicken_1110
+count,published,human / animal,Chicken_1112
+count,published,human / animal,Chicken_1114
+count,published,human / animal,Chicken_1115
+count,published,human / animal,Chicken_1116
+count,published,human / animal,Chicken_1118
+count,published,human / animal,Chicken_1119
+count,published,human / animal,Chicken_1120
+count,published,human / animal,Chicken_1121
+count,published,human / animal,Chicken_1122
+count,published,human / animal,Chicken_1123
+count,published,human / animal,Chicken_1124
+count,published,human / animal,Chicken_1125
+count,published,human / animal,Chicken_1126
+count,published,human / animal,Chicken_1127
+count,published,human / animal,Chicken_1128
+count,published,human / animal,Chicken_1132
+count,published,human / animal,Chicken_1133
+count,published,human / animal,Chicken_1134
+count,published,human / animal,Chicken_1135
+count,published,human / animal,Chicken_1140
+count,published,human / animal,Chicken_1142
+count,published,human / animal,Chicken_1144
+count,published,human / animal,Chicken_1145
+count,published,human / animal,Chicken_1146
+count,published,human / animal,Chicken_1147
+count,published,human / animal,Chicken_1148
+count,published,human / animal,Chicken_1149
+count,published,human / animal,Chicken_1150
+count,published,human / animal,Chicken_1151
+count,published,human / animal,Chicken_1153
+count,published,human / animal,Chicken_1154
+count,published,human / animal,Chicken_1155
+count,published,human / animal,Chicken_1156
+count,published,human / animal,Chicken_1157
+count,published,human / animal,Chicken_1159
+count,published,human / animal,Chicken_1161
+count,published,human / animal,Chicken_1162
+count,published,human / animal,Chicken_1163
+count,published,human / animal,Chicken_1165
+count,published,human / animal,Chicken_1166
+count,published,human / animal,Chicken_1167
+count,published,human / animal,Chicken_1170
+count,published,human / animal,Chicken_1171
+count,published,human / animal,Chicken_1176
+count,published,human / animal,Chicken_1179
+count,published,human / animal,Chicken_1181
+count,published,human / animal,Chicken_1183
+count,published,human / animal,Chicken_1184
+count,published,human / animal,Chicken_1186
+count,published,human / animal,Chicken_1188
+count,published,human / animal,Chicken_1191
+count,published,human / animal,Chicken_1192
+count,published,human / animal,Chicken_1193
+count,published,human / animal,Chicken_1194
+count,published,human / animal,Chicken_1195
+count,published,human / animal,Chicken_1199
+count,published,human / animal,Chicken_1202
+count,published,human / animal,Chicken_1203
+count,published,human / animal,Chicken_1206
+count,published,human / animal,Chicken_1207
+count,published,human / animal,Chicken_1209
+count,published,human / animal,Chicken_1210
+count,published,human / animal,Chicken_1213
+count,published,human / animal,Chicken_1214
+count,published,human / animal,Chicken_1215
+count,published,human / animal,Chicken_1216
+count,published,human / animal,Chicken_1217
+count,published,human / animal,Chicken_1218
+count,published,human / animal,Chicken_1220
+count,published,human / animal,Chicken_1221
+count,published,human / animal,Chicken_1222
+count,published,human / animal,Chicken_1223
+count,published,human / animal,Chicken_1224
+count,published,human / animal,Chicken_1229
+count,published,human / animal,Chicken_1231
+count,published,human / animal,Chicken_1232
+count,published,human / animal,Chicken_1233
+count,published,human / animal,Chicken_1234
+count,published,human / animal,Chicken_1235
+count,published,human / animal,Chicken_1237
+count,published,human / animal,Chicken_1238
+count,published,human / animal,Chicken_1239
+count,published,human / animal,Chicken_1241
+count,published,human / animal,Chicken_1246
+count,published,human / animal,Chicken_1247
+count,published,human / animal,Chicken_1250
+count,published,human / animal,Chicken_1253
+count,published,human / animal,Chicken_1259
+count,published,human / animal,Chicken_1262
+count,published,human / animal,Chicken_1263
+count,published,human / animal,Chicken_1266
+count,published,human / animal,Chicken_1267
+count,published,human / animal,Chicken_1269
+count,published,human / animal,Chicken_1272
+count,published,human / animal,Chicken_1275
+count,published,human / animal,Chicken_1276
+count,published,human / animal,Chicken_1277
+count,published,human / animal,Chicken_1279
+count,published,human / animal,Chicken_1280
+count,published,human / animal,Chicken_1283
+count,published,human / animal,Chicken_1284
+count,published,human / animal,Chicken_1286
+count,published,human / animal,Chicken_1287
+count,published,human / animal,Chicken_1288
+count,published,human / animal,Chicken_1291
+count,published,human / animal,Chicken_1292
+count,published,human / animal,Chicken_1294
+count,published,human / animal,Chicken_1295
+count,published,human / animal,Chicken_1296
+count,published,human / animal,Chicken_1297
+count,published,human / animal,Chicken_1299
+count,published,human / animal,Chicken_1300
+count,published,human / animal,Chicken_1301
+count,published,human / animal,Chicken_1307
+count,published,human / animal,Chicken_1308
+count,published,human / animal,Chicken_1310
+count,published,human / animal,Chicken_1312
+count,published,human / animal,Chicken_1314
+count,published,human / animal,Chicken_1315
+count,published,human / animal,Chicken_1316
+count,published,human / animal,Chicken_1317
+count,published,human / animal,Chicken_1319
+count,published,human / animal,Chicken_1320
+count,published,human / animal,Chicken_1321
+count,published,human / animal,Chicken_1327
+count,published,human / animal,Chicken_1328
+count,published,human / animal,Chicken_1329
+count,published,human / animal,Chicken_1331
+count,published,human / animal,Chicken_1332
+count,published,human / animal,Chicken_1333
+count,published,human / animal,Chicken_1335
+count,published,human / animal,Chicken_1336
+count,published,human / animal,Chicken_1338
+count,published,human / animal,Chicken_1339
+count,published,human / animal,Chicken_1340
+count,published,human / animal,Chicken_1341
+count,published,human / animal,Chicken_1342
+count,published,human / animal,Chicken_1343
+count,published,human / animal,Chicken_1344
+count,published,human / animal,Chicken_1345
+count,published,human / animal,Chicken_1347
+count,published,human / animal,Chicken_1348
+count,published,human / animal,Chicken_1349
+count,published,human / animal,Chicken_1351
+count,published,human / animal,Chicken_1353
+count,published,human / animal,Chicken_1354
+count,published,human / animal,Chicken_1358
+count,published,human / animal,Chicken_1359
+count,published,human / animal,Chicken_1360
+count,published,human / animal,Chicken_1361
+count,published,human / animal,Chicken_1363
+count,published,human / animal,Chicken_1364
+count,published,human / animal,Chicken_1365
+count,published,human / animal,Chicken_1366
+count,published,human / animal,Chicken_1367
+count,published,human / animal,Chicken_1369
+count,published,human / animal,Chicken_1370
+count,published,human / animal,Chicken_1371
+count,published,human / animal,Chicken_1373
+count,published,human / animal,Chicken_1377
+count,published,human / animal,Chicken_1378
+count,published,human / animal,Chicken_1380
+count,published,human / animal,Chicken_1381
+count,published,human / animal,Chicken_1382
+count,published,human / animal,Chicken_1384
+count,published,human / animal,Chicken_1385
+count,published,human / animal,Chicken_1389
+count,published,human / animal,Chicken_1390
+count,published,human / animal,Chicken_1391
+count,published,human / animal,Chicken_1392
+count,published,human / animal,Chicken_1394
+count,published,human / animal,Chicken_1397
+count,published,human / animal,Chicken_1398
+count,published,human / animal,Chicken_1399
+count,published,human / animal,Chicken_1400
+count,published,human / animal,Chicken_1401
+count,published,human / animal,Chicken_1402
+count,published,human / animal,Chicken_1403
+count,published,human / animal,Chicken_1405
+count,published,human / animal,Chicken_1406
+count,published,human / animal,Chicken_1407
+count,published,human / animal,Chicken_1408
+count,published,human / animal,Chicken_1409
+count,published,human / animal,Chicken_1410
+count,published,human / animal,Chicken_1411
+count,published,human / animal,Chicken_1413
+count,published,human / animal,Chicken_1414
+count,published,human / animal,Chicken_1415
+count,published,human / animal,Chicken_1417
+count,published,human / animal,Chicken_1418
+count,published,human / animal,Chicken_1419
+count,published,human / animal,Chicken_1421
+count,published,human / animal,Chicken_1422
+count,published,human / animal,Chicken_1429
+count,published,human / animal,Chicken_1430
+count,published,human / animal,Chicken_1431
+count,published,human / animal,Chicken_1432
+count,published,human / animal,Chicken_1434
+count,published,human / animal,Chicken_1435
+count,published,human / animal,Chicken_1437
+count,published,human / animal,Chicken_1440
+count,published,human / animal,Chicken_1443
+count,published,human / animal,Chicken_1445
+count,published,human / animal,Chicken_1446
+count,published,human / animal,Chicken_1447
+count,published,human / animal,Chicken_1448
+count,published,human / animal,Chicken_1450
+count,published,human / animal,Chicken_1452
+count,published,human / animal,Chicken_1455
+count,published,human / animal,Chicken_1458
+count,published,human / animal,Chicken_1460
+count,published,human / animal,Chicken_1461
+count,published,human / animal,Chicken_1462
+count,published,human / animal,Chicken_1463
+count,published,human / animal,Chicken_1466
+count,published,human / animal,Chicken_1467
+count,published,human / animal,Chicken_1469
+count,published,human / animal,Chicken_1474
+count,published,human / animal,Chicken_1475
+count,published,human / animal,Chicken_1476
+count,published,human / animal,Chicken_1480
+count,published,human / animal,Chicken_1481
+count,published,human / animal,Chicken_1483
+count,published,human / animal,Chicken_1484
+count,published,human / animal,Chicken_1485
+count,published,human / animal,Chicken_1488
+count,published,human / animal,Chicken_1491
+count,published,human / animal,Chicken_1492
+count,published,human / animal,Chicken_1493
+count,published,human / animal,Chicken_1496
+count,published,human / animal,Chicken_1500
+count,published,human / animal,Chicken_1503
+count,published,human / animal,Chicken_1505
+count,published,human / animal,Chicken_1506
+count,published,human / animal,Chicken_1507
+count,published,human / animal,Chicken_1508
+count,published,human / animal,Chicken_1509
+count,published,human / animal,Chicken_1510
+count,published,human / animal,Chicken_1511
+count,published,human / animal,Chicken_1513
+count,published,human / animal,Chicken_1514
+count,published,human / animal,Chicken_1516
+count,published,human / animal,Chicken_1517
+count,published,human / animal,Chicken_1518
+count,published,human / animal,Chicken_1519
+count,published,human / animal,Chicken_1522
+count,published,human / animal,Chicken_1527
+count,published,human / animal,Chicken_1531
+count,published,human / animal,Chicken_1535
+count,published,human / animal,Chicken_1536
+count,published,human / animal,Chicken_1537
+count,published,human / animal,Chicken_1538
+count,published,human / animal,Chicken_1540
+count,published,human / animal,Chicken_1543
+count,published,human / animal,Chicken_1544
+count,published,human / animal,Chicken_1545
+count,published,human / animal,Chicken_1546
+count,published,human / animal,Chicken_1547
+count,published,human / animal,Chicken_1548
+count,published,human / animal,Chicken_1549
+count,published,human / animal,Chicken_1550
+count,published,human / animal,Chicken_1552
+count,published,human / animal,Chicken_1553
+count,published,human / animal,Chicken_1556
+count,published,human / animal,Chicken_1557
+count,published,human / animal,Chicken_1562
+count,published,human / animal,Chicken_1563
+count,published,human / animal,Chicken_1564
+count,published,human / animal,Chicken_1566
+count,published,human / animal,Chicken_1567
+count,published,human / animal,Chicken_1568
+count,published,human / animal,Chicken_1569
+count,published,human / animal,Chicken_1570
+count,published,human / animal,Chicken_1571
+count,published,human / animal,Chicken_1574
+count,published,human / animal,Chicken_1575
+count,published,human / animal,Chicken_1579
+count,published,human / animal,Chicken_1580
+count,published,human / animal,Chicken_1582
+count,published,human / animal,Chicken_1583
+count,published,human / animal,Chicken_1585
+count,published,human / animal,Chicken_1586
+count,published,human / animal,Chicken_1589
+count,published,human / animal,Chicken_1590
+count,published,human / animal,Chicken_1591
+count,published,human / animal,Chicken_1593
+count,published,human / animal,Chicken_1594
+count,published,human / animal,Chicken_1595
+count,published,human / animal,Chicken_1596
+count,published,human / animal,Chicken_1599
+count,published,human / animal,Chicken_1601
+count,published,human / animal,Chicken_1602
+count,published,human / animal,Chicken_1603
+count,published,human / animal,Chicken_1605
+count,published,human / animal,Chicken_1607
+count,published,human / animal,Chicken_1608
+count,published,human / animal,Chicken_1609
+count,published,human / animal,Chicken_1612
+count,published,human / animal,Chicken_1616
+count,published,human / animal,Chicken_1618
+count,published,human / animal,Chicken_1620
+count,published,human / animal,Chicken_1621
+count,published,human / animal,Chicken_1622
+count,published,human / animal,Chicken_1626
+count,published,human / animal,Chicken_1629
+count,published,human / animal,Chicken_1630
+count,published,human / animal,Chicken_1631
+count,published,human / animal,Chicken_1632
+count,published,human / animal,Chicken_1634
+count,published,human / animal,Chicken_1635
+count,published,human / animal,Chicken_1636
+count,published,human / animal,Chicken_1637
+count,published,human / animal,Chicken_1639
+count,published,human / animal,Chicken_1642
+count,published,human / animal,Chicken_1643
+count,published,human / animal,Chicken_1644
+count,published,human / animal,Chicken_1646
+count,published,human / animal,Chicken_1647
+count,published,human / animal,Chicken_1648
+count,published,human / animal,Chicken_1651
+count,published,human / animal,Chicken_1652
+count,published,human / animal,Chicken_1655
+count,published,human / animal,Chicken_1657
+count,published,human / animal,Chicken_1658
+count,published,human / animal,Chicken_1660
+count,published,human / animal,Chicken_1662
+count,published,human / animal,Chicken_1664
+count,published,human / animal,Chicken_1666
+count,published,human / animal,Chicken_1667
+count,published,human / animal,Chicken_1668
+count,published,human / animal,Chicken_1671
+count,published,human / animal,Chicken_1674
+count,published,human / animal,Chicken_1675
+count,published,human / animal,Chicken_1677
+count,published,human / animal,Chicken_1679
+count,published,human / animal,Chicken_1680
+count,published,human / animal,Chicken_1681
+count,published,human / animal,Chicken_1682
+count,published,human / animal,Chicken_1683
+count,published,human / animal,Chicken_1684
+count,published,human / animal,Chicken_1685
+count,published,human / animal,Chicken_1687
+count,published,human / animal,Chicken_1693
+count,published,human / animal,Chicken_1695
+count,published,human / animal,Chicken_1696
+count,published,human / animal,Chicken_1697
+count,published,human / animal,Chicken_1698
+count,published,human / animal,Chicken_1699
+count,published,human / animal,Chicken_1700
+count,published,human / animal,Chicken_1702
+count,published,human / animal,Chicken_1705
+count,published,human / animal,Chicken_1708
+count,published,human / animal,Chicken_1711
+count,published,human / animal,Chicken_1712
+count,published,human / animal,Chicken_1713
+count,published,human / animal,Chicken_1714
+count,published,human / animal,Chicken_1715
+count,published,human / animal,Chicken_1716
+count,published,human / animal,Chicken_1719
+count,published,human / animal,Chicken_1721
+count,published,human / animal,Chicken_1722
+count,published,human / animal,Chicken_1723
+count,published,human / animal,Chicken_1724
+count,published,human / animal,Chicken_1725
+count,published,human / animal,Chicken_1727
+count,published,human / animal,Chicken_1731
+count,published,human / animal,Chicken_1734
+count,published,human / animal,Chicken_1735
+count,published,human / animal,Chicken_1736
+count,published,human / animal,Chicken_1737
+count,published,human / animal,Chicken_1744
+count,published,human / animal,Chicken_1745
+count,published,human / animal,Chicken_1748
+count,published,human / animal,Chicken_1750
+count,published,human / animal,Chicken_1752
+count,published,human / animal,Chicken_1754
+count,published,human / animal,Chicken_1755
+count,published,human / animal,Chicken_1756
+count,published,human / animal,Chicken_1757
+count,published,human / animal,Chicken_1758
+count,published,human / animal,Chicken_1759
+count,published,human / animal,Chicken_1760
+count,published,human / animal,Chicken_1761
+count,published,human / animal,Chicken_1763
+count,published,human / animal,Chicken_1764
+count,published,human / animal,Chicken_1765
+count,published,human / animal,Chicken_1766
+count,published,human / animal,Chicken_1770
+count,published,human / animal,Chicken_1772
+count,published,human / animal,Chicken_1773
+count,published,human / animal,Chicken_1774
+count,published,human / animal,Chicken_1776
+count,published,human / animal,Chicken_1779
+count,published,human / animal,Chicken_1781
+count,published,human / animal,Chicken_1782
+count,published,human / animal,Chicken_1783
+count,published,human / animal,Chicken_1784
+count,published,human / animal,Chicken_1786
+count,published,human / animal,Chicken_1787
+count,published,human / animal,Chicken_1790
+count,published,human / animal,Chicken_1792
+count,published,human / animal,Chicken_1794
+count,published,human / animal,Chicken_1795
+count,published,human / animal,Chicken_1796
+count,published,human / animal,Chicken_1799
+count,published,human / animal,Chicken_1802
+count,published,human / animal,Chicken_1803
+count,published,human / animal,Chicken_1804
+count,published,human / animal,Chicken_1805
+count,published,human / animal,Chicken_1807
+count,published,human / animal,Chicken_1809
+count,published,human / animal,Chicken_1810
+count,published,human / animal,Chicken_1811
+count,published,human / animal,Chicken_1812
+count,published,human / animal,Chicken_1813
+count,published,human / animal,Chicken_1815
+count,published,human / animal,Chicken_1816
+count,published,human / animal,Chicken_1817
+count,published,human / animal,Chicken_1818
+count,published,human / animal,Chicken_1819
+count,published,human / animal,Chicken_1820
+count,published,human / animal,Chicken_1822
+count,published,human / animal,Chicken_1824
+count,published,human / animal,Chicken_1825
+count,published,human / animal,Chicken_1826
+count,published,human / animal,Chicken_1827
+count,published,human / animal,Chicken_1829
+count,published,human / animal,Chicken_1833
+count,published,human / animal,Chicken_1834
+count,published,human / animal,Chicken_1836
+count,published,human / animal,Chicken_1839
+count,published,human / animal,Chicken_1840
+count,published,human / animal,Chicken_1842
+count,published,human / animal,Chicken_1844
+count,published,human / animal,Chicken_1845
+count,published,human / animal,Chicken_1849
+count,published,human / animal,Chicken_1851
+count,published,human / animal,Chicken_1853
+count,published,human / animal,Chicken_1854
+count,published,human / animal,Chicken_1855
+count,published,human / animal,Chicken_1857
+count,published,human / animal,Chicken_1858
+count,published,human / animal,Chicken_1859
+count,published,human / animal,Chicken_1861
+count,published,human / animal,Chicken_1862
+count,published,human / animal,Chicken_1863
+count,published,human / animal,Chicken_1864
+count,published,human / animal,Chicken_1865
+count,published,human / animal,Chicken_1866
+count,published,human / animal,Chicken_1869
+count,published,human / animal,Chicken_1872
+count,published,human / animal,Chicken_1873
+count,published,human / animal,Chicken_1874
+count,published,human / animal,Chicken_1875
+count,published,human / animal,Chicken_1877
+count,published,human / animal,Chicken_1879
+count,published,human / animal,Chicken_1885
+count,published,human / animal,Chicken_1886
+count,published,human / animal,Chicken_1887
+count,published,human / animal,Chicken_1889
+count,published,human / animal,Chicken_1891
+count,published,human / animal,Chicken_1894
+count,published,human / animal,Chicken_1896
+count,published,human / animal,Chicken_1898
+count,published,human / animal,Chicken_1899
+count,published,human / animal,Chicken_1900
+count,published,human / animal,Chicken_1902
+count,published,human / animal,Chicken_1903
+count,published,human / animal,Chicken_1905
+count,published,human / animal,Chicken_1906
+count,published,human / animal,Chicken_1909
+count,published,human / animal,Human_0004
+count,published,human / animal,Human_0007
+count,published,human / animal,Human_0010
+count,published,human / animal,Human_0013
+count,published,human / animal,Human_0017
+count,published,human / animal,Human_0018
+count,published,human / animal,Human_0023
+count,published,human / animal,Human_0024
+count,published,human / animal,Human_0025
+count,published,human / animal,Human_0028
+count,published,human / animal,Human_0029
+count,published,human / animal,Human_0030
+count,published,human / animal,Human_0031
+count,published,human / animal,Human_0037
+count,published,human / animal,Human_0038
+count,published,human / animal,Human_0039
+count,published,human / animal,Human_0041
+count,published,human / animal,Human_0044
+count,published,human / animal,Human_0049
+count,published,human / animal,Human_0050
+count,published,human / animal,Human_0051
+count,published,human / animal,Human_0054
+count,published,human / animal,Human_0055
+count,published,human / animal,Human_0056
+count,published,human / animal,Human_0057
+count,published,human / animal,Human_0058
+count,published,human / animal,Human_0059
+count,published,human / animal,Human_0060
+count,published,human / animal,Human_0061
+count,published,human / animal,Human_0062
+count,published,human / animal,Human_0063
+count,published,human / animal,Human_0064
+count,published,human / animal,Human_0065
+count,published,human / animal,Human_0066
+count,published,human / animal,Human_0067
+count,published,human / animal,Human_0068
+count,published,human / animal,Human_0072
+count,published,human / animal,Human_0073
+count,published,human / animal,Human_0074
+count,published,human / animal,Human_0075
+count,published,human / animal,Human_0076
+count,published,human / animal,Human_0077
+count,published,human / animal,Human_0078
+count,published,human / animal,Human_0079
+count,published,human / animal,Human_0080
+count,published,human / animal,Human_0083
+count,published,human / animal,Human_0084
+count,published,human / animal,Human_0085
+count,published,human / animal,Human_0086
+count,published,human / animal,Human_0087
+count,published,human / animal,Human_0088
+count,published,human / animal,Human_0089
+count,published,human / animal,Human_0090
+count,published,human / animal,Human_0093
+count,published,human / animal,Human_0095
+count,published,human / animal,Human_0096
+count,published,human / animal,Human_0097
+count,published,human / animal,Human_0098
+count,published,human / animal,Human_0099
+count,published,human / animal,Human_0100
+count,published,human / animal,Human_0101
+count,published,human / animal,Human_0103
+count,published,human / animal,Human_0104
+count,published,human / animal,Human_0105
+count,published,human / animal,Human_0106
+count,published,human / animal,Human_0107
+count,published,human / animal,Human_0108
+count,published,human / animal,Human_0109
+count,published,human / animal,Human_0110
+count,published,human / animal,Human_0111
+count,published,human / animal,Human_0112
+count,published,human / animal,Human_0113
+count,published,human / animal,Human_0116
+count,published,human / animal,Human_0119
+count,published,human / animal,Human_0120
+count,published,human / animal,Human_0123
+count,published,human / animal,Human_0124
+count,published,human / animal,Human_0125
+count,published,human / animal,Human_0127
+count,published,human / animal,Human_0128
+count,published,human / animal,Human_0130
+count,published,human / animal,Human_0131
+count,published,human / animal,Human_0132
+count,published,human / animal,Human_0133
+count,published,human / animal,Human_0134
+count,published,human / animal,Human_0136
+count,published,human / animal,Human_0139
+count,published,human / animal,Human_0143
+count,published,human / animal,Human_0145
+count,published,human / animal,Human_0146
+count,published,human / animal,Human_0147
+count,published,human / animal,Human_0151
+count,published,human / animal,Human_0153
+count,published,human / animal,Human_0158
+count,published,human / animal,Human_0159
+count,published,human / animal,Human_0160
+count,published,human / animal,Human_0161
+count,published,human / animal,Human_0163
+count,published,human / animal,Human_0169
+count,published,human / animal,Human_0170
+count,published,human / animal,Human_0171
+count,published,human / animal,Human_0172
+count,published,human / animal,Human_0174
+count,published,human / animal,Human_0180
+count,published,human / animal,Human_0181
+count,published,human / animal,Human_0182
+count,published,human / animal,Human_0184
+count,published,human / animal,Human_0185
+count,published,human / animal,Human_0186
+count,published,human / animal,Human_0188
+count,published,human / animal,Human_0201
+count,published,human / animal,Human_0213
+count,published,human / animal,Human_0217
+count,published,human / animal,Human_0220
+count,published,human / animal,Human_0222
+count,published,human / animal,Human_0223
+count,published,human / animal,Human_0224
+count,published,human / animal,Human_0225
+count,published,human / animal,Human_0226
+count,published,human / animal,Human_0227
+count,published,human / animal,Human_0228
+count,published,human / animal,Human_0229
+count,published,human / animal,Human_0230
+count,published,human / animal,Human_0231
+count,published,human / animal,Human_0232
+count,published,human / animal,Human_0233
+count,published,human / animal,Human_0234
+count,published,human / animal,Human_0235
+count,published,human / animal,Human_0236
+count,published,human / animal,Human_0238
+count,published,human / animal,Human_0239
+count,published,human / animal,Human_0240
+count,published,human / animal,Human_0241
+count,published,human / animal,Human_0242
+count,published,human / animal,Human_0243
+count,published,human / animal,Human_0244
+count,published,human / animal,Human_0245
+count,published,human / animal,Human_0246
+count,published,human / animal,Human_0247
+count,published,human / animal,Human_0249
+count,published,human / animal,Human_0250
+count,published,human / animal,Human_0251
+count,published,human / animal,Human_0254
+count,published,human / animal,Human_0255
+count,published,human / animal,Human_0257
+count,published,human / animal,Human_0260
+count,published,human / animal,Human_0261
+count,published,human / animal,Human_0262
+count,published,human / animal,Human_0263
+count,published,human / animal,Human_0264
+count,published,human / animal,Human_0265
+count,published,human / animal,Human_0268
+count,published,human / animal,Human_0269
+count,published,human / animal,Human_0270
+count,published,human / animal,Human_0271
+count,published,human / animal,Human_0272
+count,published,human / animal,Human_0273
+count,published,human / animal,Human_0274
+count,published,human / animal,Human_0275
+count,published,human / animal,Human_0276
+count,published,human / animal,Human_0277
+count,published,human / animal,Human_0278
+count,published,human / animal,Human_0279
+count,published,human / animal,Human_0280
+count,published,human / animal,Human_0281
+count,published,human / animal,Human_0282
+count,published,human / animal,Human_0283
+count,published,human / animal,Human_0284
+count,published,human / animal,Human_0285
+count,published,human / animal,Human_0286
+count,published,human / animal,Human_0287
+count,published,human / animal,Human_0288
+count,published,human / animal,Human_0289
+count,published,human / animal,Human_0290
+count,published,human / animal,Human_0291
+count,published,human / animal,Human_0292
+count,published,human / animal,Human_0293
+count,published,human / animal,Human_0294
+count,published,human / animal,Human_0295
+count,published,human / animal,Human_0296
+count,published,human / animal,Human_0297
+count,published,human / animal,Human_0298
+count,published,human / animal,Human_0299
+count,published,human / animal,Human_0300
+count,published,human / animal,Human_0301
+count,published,human / animal,Human_0302
+count,published,human / animal,Human_0303
+count,published,human / animal,Human_0304
+count,published,human / animal,Human_0305
+count,published,human / animal,Human_0306
+count,published,human / animal,Human_0307
+count,published,human / animal,Human_0308
+count,published,human / animal,Human_0309
+count,published,human / animal,Human_0310
+count,published,human / animal,Human_0311
+count,published,human / animal,Human_0312
+count,published,human / animal,Human_0313
+count,published,human / animal,Human_0314
+count,published,human / animal,Human_0315
+count,published,human / animal,Human_0317
+count,published,human / animal,Human_0318
+count,published,human / animal,Human_0320
+count,published,human / animal,Human_0321
+count,published,human / animal,Human_0322
+count,published,human / animal,Human_0323
+count,published,human / animal,Human_0324
+count,published,human / animal,Human_0325
+count,published,human / animal,Human_0326
+count,published,human / animal,Human_0327
+count,published,human / animal,Human_0328
+count,published,human / animal,Human_0329
+count,published,human / animal,Human_0330
+count,published,human / animal,Human_0331
+count,published,human / animal,Human_0332
+count,published,human / animal,Human_0333
+count,published,human / animal,Human_0335
+count,published,human / animal,Human_0336
+count,published,human / animal,Human_0337
+count,published,human / animal,Human_0338
+count,published,human / animal,Human_0339
+count,published,human / animal,Human_0340
+count,published,human / animal,Human_0341
+count,published,human / animal,Human_0342
+count,published,human / animal,Human_0343
+count,published,human / animal,Human_0344
+count,published,human / animal,Human_0345
+count,published,human / animal,Human_0346
+count,published,human / animal,Human_0347
+count,published,human / animal,Human_0348
+count,published,human / animal,Human_0350
+count,published,human / animal,Human_0351
+count,published,human / animal,Human_0352
+count,published,human / animal,Human_0355
+count,published,human / animal,Human_0356
+count,published,human / animal,Human_0358
+count,published,human / animal,Human_0360
+count,published,human / animal,Human_0361
+count,published,human / animal,Human_0362
+count,published,human / animal,Human_0363
+count,published,human / animal,Human_0364
+count,published,human / animal,Human_0365
+count,published,human / animal,Human_0366
+count,published,human / animal,Human_0367
+count,published,human / animal,Human_0369
+count,published,human / animal,Human_0370
+count,published,human / animal,Human_0371
+count,published,human / animal,Human_0372
+count,published,human / animal,Human_0373
+count,published,human / animal,Human_0374
+count,published,human / animal,Human_0375
+count,published,human / animal,Human_0377
+count,published,human / animal,Human_0378
+count,published,human / animal,Human_0380
+count,published,human / animal,Human_0381
+count,published,human / animal,Human_0382
+count,published,human / animal,Human_0383
+count,published,human / animal,Human_0384
+count,published,human / animal,Human_0385
+count,published,human / animal,Human_0386
+count,published,human / animal,Human_0387
+count,published,human / animal,Human_0388
+count,published,human / animal,Human_0389
+count,published,human / animal,Human_0390
+count,published,human / animal,Human_0392
+count,published,human / animal,Human_0393
+count,published,human / animal,Human_0394
+count,published,human / animal,Human_0396
+count,published,human / animal,Human_0397
+count,published,human / animal,Human_0400
+count,published,human / animal,Human_0402
+count,published,human / animal,Human_0403
+count,published,human / animal,Human_0405
+count,published,human / animal,Human_0406
+count,published,human / animal,Human_0407
+count,published,human / animal,Human_0409
+count,published,human / animal,Human_0410
+count,published,human / animal,Human_0412
+count,published,human / animal,Human_0413
+count,published,human / animal,Human_0414
+count,published,human / animal,Human_0415
+count,published,human / animal,Human_0418
+count,published,human / animal,Human_0422
+count,published,human / animal,Human_0425
+count,published,human / animal,Human_0426
+count,published,human / animal,Human_0428
+count,published,human / animal,Human_0429
+count,published,human / animal,Human_0434
+count,published,human / animal,Human_0435
+count,published,human / animal,Human_0436
+count,published,human / animal,Human_0437
+count,published,human / animal,Human_0438
+count,published,human / animal,Human_0449
+count,published,human / animal,Human_0450
+count,published,human / animal,Human_0451
+count,published,human / animal,Human_0452
+count,published,human / animal,Human_0453
+count,published,human / animal,Human_0454
+count,published,human / animal,Human_0455
+count,published,human / animal,Human_0456
+count,published,human / animal,Human_0457
+count,published,human / animal,Human_0458
+count,published,human / animal,Human_0459
+count,published,human / animal,Human_0460
+count,published,human / animal,Human_0461
+count,published,human / animal,Human_0465
+count,published,human / animal,Human_0466
+count,published,human / animal,Human_0467
+count,published,human / animal,Human_0468
+count,published,human / animal,Human_0469
+count,published,human / animal,Human_0470
+count,published,human / animal,Human_0471
+count,published,human / animal,Human_0472
+count,published,human / animal,Human_0473
+count,published,human / animal,Human_0474
+count,published,human / animal,Human_0476
+count,published,human / animal,Human_0477
+count,published,human / animal,Human_0478
+count,published,human / animal,Human_0479
+count,published,human / animal,Human_0480
+count,published,human / animal,Human_0481
+count,published,human / animal,Human_0482
+count,published,human / animal,Human_0483
+count,published,human / animal,Human_0484
+count,published,human / animal,Human_0485
+count,published,human / animal,Human_0486
+count,published,human / animal,Human_0487
+count,published,human / animal,Human_0488
+count,published,human / animal,Human_0489
+count,published,human / animal,Human_0490
+count,published,human / animal,Human_0491
+count,published,human / animal,Human_0493
+count,published,human / animal,Human_0494
+count,published,human / animal,Human_0495
+count,published,human / animal,Human_0496
+count,published,human / animal,Human_0497
+count,published,human / animal,Human_0498
+count,published,human / animal,Human_0499
+count,published,human / animal,Human_0500
+count,published,human / animal,Human_0501
+count,published,human / animal,Human_0502
+count,published,human / animal,Human_0503
+count,published,human / animal,Human_0504
+count,published,human / animal,Human_0505
+count,published,human / animal,Human_0506
+count,published,human / animal,Human_0507
+count,published,human / animal,Human_0508
+count,published,human / animal,Human_0509
+count,published,human / animal,Human_0510
+count,published,human / animal,Human_0511
+count,published,human / animal,Human_0513
+count,published,human / animal,Human_0514
+count,published,human / animal,Human_0515
+count,published,human / animal,Human_0516
+count,published,human / animal,Human_0517
+count,published,human / animal,Human_0518
+count,published,human / animal,Human_0519
+count,published,human / animal,Human_0520
+count,published,human / animal,Human_0521
+count,published,human / animal,Human_0522
+count,published,human / animal,Human_0523
+count,published,human / animal,Human_0524
+count,published,human / animal,Human_0525
+count,published,human / animal,Human_0526
+count,published,human / animal,Human_0527
+count,published,human / animal,Human_0528
+count,published,human / animal,Human_0530
+count,published,fermented food / animal,Animal_0538
+count,published,fermented food / animal,Animal_0542
+count,published,fermented food / animal,Animal_0543
+count,published,fermented food / animal,Animal_0556
+count,published,fermented food / animal,Animal_0641
+count,published,fermented food / animal,Animal_0645
+count,published,fermented food / animal,Animal_0649
+count,published,fermented food / animal,Animal_0651
+count,published,fermented food / animal,Animal_0655
+count,published,fermented food / animal,Animal_0660
+count,published,fermented food / animal,Animal_0664
+count,published,fermented food / animal,Animal_0668
+count,published,fermented food / animal,Animal_0671
+count,published,fermented food / animal,Animal_0686
+count,published,fermented food / animal,Animal_0698
+count,published,fermented food / animal,Animal_0704
+count,published,fermented food / animal,Animal_0705
+count,published,fermented food / animal,Animal_0709
+count,published,fermented food / animal,Animal_0718
+count,published,fermented food / animal,Animal_0719
+count,published,fermented food / animal,Animal_0720
+count,published,fermented food / animal,Animal_0721
+count,published,fermented food / animal,Animal_0722
+count,published,fermented food / animal,Animal_0724
+count,published,fermented food / animal,Animal_0726
+count,published,fermented food / animal,Animal_0727
+count,published,fermented food / animal,Animal_0728
+count,published,fermented food / animal,Chicken_0875
+count,published,fermented food / animal,Chicken_0890
+count,published,fermented food / animal,Chicken_0895
+count,published,fermented food / animal,Chicken_0898
+count,published,fermented food / animal,Chicken_0907
+count,published,fermented food / animal,Chicken_0910
+count,published,fermented food / animal,Chicken_0914
+count,published,fermented food / animal,Chicken_0917
+count,published,fermented food / animal,Chicken_0918
+count,published,fermented food / animal,Chicken_0925
+count,published,fermented food / animal,Chicken_0936
+count,published,fermented food / animal,Chicken_0943
+count,published,fermented food / animal,Chicken_0952
+count,published,fermented food / animal,Chicken_0953
+count,published,fermented food / animal,Chicken_0962
+count,published,fermented food / animal,Chicken_0963
+count,published,fermented food / animal,Chicken_0982
+count,published,fermented food / animal,Chicken_0986
+count,published,fermented food / animal,Chicken_0990
+count,published,fermented food / animal,Chicken_1009
+count,published,fermented food / animal,Chicken_1011
+count,published,fermented food / animal,Chicken_1017
+count,published,fermented food / animal,Chicken_1021
+count,published,fermented food / animal,Chicken_1042
+count,published,fermented food / animal,Chicken_1048
+count,published,fermented food / animal,Chicken_1058
+count,published,fermented food / animal,Chicken_1074
+count,published,fermented food / animal,Chicken_1078
+count,published,fermented food / animal,Chicken_1084
+count,published,fermented food / animal,Chicken_1087
+count,published,fermented food / animal,Chicken_1096
+count,published,fermented food / animal,Chicken_1097
+count,published,fermented food / animal,Chicken_1100
+count,published,fermented food / animal,Chicken_1109
+count,published,fermented food / animal,Chicken_1115
+count,published,fermented food / animal,Chicken_1120
+count,published,fermented food / animal,Chicken_1126
+count,published,fermented food / animal,Chicken_1130
+count,published,fermented food / animal,Chicken_1135
+count,published,fermented food / animal,Chicken_1142
+count,published,fermented food / animal,Chicken_1147
+count,published,fermented food / animal,Chicken_1191
+count,published,fermented food / animal,Chicken_1195
+count,published,fermented food / animal,Chicken_1209
+count,published,fermented food / animal,Chicken_1215
+count,published,fermented food / animal,Chicken_1218
+count,published,fermented food / animal,Chicken_1222
+count,published,fermented food / animal,Chicken_1233
+count,published,fermented food / animal,Chicken_1240
+count,published,fermented food / animal,Chicken_1308
+count,published,fermented food / animal,Chicken_1323
+count,published,fermented food / animal,Chicken_1336
+count,published,fermented food / animal,Chicken_1347
+count,published,fermented food / animal,Chicken_1361
+count,published,fermented food / animal,Chicken_1363
+count,published,fermented food / animal,Chicken_1367
+count,published,fermented food / animal,Chicken_1369
+count,published,fermented food / animal,Chicken_1373
+count,published,fermented food / animal,Chicken_1382
+count,published,fermented food / animal,Chicken_1391
+count,published,fermented food / animal,Chicken_1399
+count,published,fermented food / animal,Chicken_1410
+count,published,fermented food / animal,Chicken_1415
+count,published,fermented food / animal,Chicken_1452
+count,published,fermented food / animal,Chicken_1454
+count,published,fermented food / animal,Chicken_1460
+count,published,fermented food / animal,Chicken_1475
+count,published,fermented food / animal,Chicken_1514
+count,published,fermented food / animal,Chicken_1518
+count,published,fermented food / animal,Chicken_1550
+count,published,fermented food / animal,Chicken_1557
+count,published,fermented food / animal,Chicken_1561
+count,published,fermented food / animal,Chicken_1568
+count,published,fermented food / animal,Chicken_1570
+count,published,fermented food / animal,Chicken_1574
+count,published,fermented food / animal,Chicken_1585
+count,published,fermented food / animal,Chicken_1586
+count,published,fermented food / animal,Chicken_1601
+count,published,fermented food / animal,Chicken_1618
+count,published,fermented food / animal,Chicken_1620
+count,published,fermented food / animal,Chicken_1634
+count,published,fermented food / animal,Chicken_1637
+count,published,fermented food / animal,Chicken_1662
+count,published,fermented food / animal,Chicken_1664
+count,published,fermented food / animal,Chicken_1666
+count,published,fermented food / animal,Chicken_1696
+count,published,fermented food / animal,Chicken_1708
+count,published,fermented food / animal,Chicken_1712
+count,published,fermented food / animal,Chicken_1714
+count,published,fermented food / animal,Chicken_1716
+count,published,fermented food / animal,Chicken_1721
+count,published,fermented food / animal,Chicken_1725
+count,published,fermented food / animal,Chicken_1756
+count,published,fermented food / animal,Chicken_1769
+count,published,fermented food / animal,Chicken_1776
+count,published,fermented food / animal,Chicken_1781
+count,published,fermented food / animal,Chicken_1785
+count,published,fermented food / animal,Chicken_1786
+count,published,fermented food / animal,Chicken_1790
+count,published,fermented food / animal,Chicken_1792
+count,published,fermented food / animal,Chicken_1800
+count,published,fermented food / animal,Chicken_1802
+count,published,fermented food / animal,Chicken_1827
+count,published,fermented food / animal,Chicken_1855
+count,published,fermented food / animal,Chicken_1857
+count,published,fermented food / animal,Chicken_1862
+count,published,fermented food / animal,Chicken_1864
+count,published,fermented food / animal,Chicken_1874
+count,published,fermented food / animal,Chicken_1887
+count,published,fermented food / animal,Chicken_1896
+count,published,fermented food / animal,Chicken_1906
+count,published,fermented food / animal,MAG_108
+count,published,fermented food / animal,MAG_117
+count,published,fermented food / animal,MAG_126
+count,published,fermented food / animal,MAG_134
+count,published,fermented food / animal,MAG_142
+count,published,fermented food / animal,MAG_157
+count,published,fermented food / animal,MAG_158
+count,published,fermented food / animal,MAG_162
+count,published,fermented food / animal,MAG_166
+count,published,fermented food / animal,MAG_174
+count,published,fermented food / animal,MAG_179
+count,published,fermented food / animal,MAG_212
+count,published,fermented food / animal,MAG_213
+count,published,fermented food / animal,MAG_217
+count,published,fermented food / animal,MAG_249
+count,published,fermented food / animal,MAG_258
+count,published,fermented food / animal,MAG_261
+count,published,fermented food / animal,MAG_263
+count,published,fermented food / animal,MAG_264
+count,published,fermented food / animal,MAG_265
+count,published,fermented food / animal,MAG_266
+count,published,fermented food / animal,MAG_267
+count,published,fermented food / animal,MAG_268
+count,published,fermented food / animal,MAG_269
+count,published,fermented food / animal,MAG_270
+count,published,fermented food / animal,MAG_271
+count,published,fermented food / animal,MAG_273
+count,published,fermented food / animal,MAG_276
+count,published,fermented food / animal,MAG_28
+count,published,fermented food / animal,MAG_299
+count,published,fermented food / animal,MAG_302
+count,published,fermented food / animal,MAG_316
+count,published,fermented food / animal,MAG_336
+count,published,fermented food / animal,MAG_341
+count,published,fermented food / animal,MAG_353
+count,published,fermented food / animal,MAG_358
+count,published,fermented food / animal,MAG_36
+count,published,fermented food / animal,MAG_360
+count,published,fermented food / animal,MAG_361
+count,published,fermented food / animal,MAG_362
+count,published,fermented food / animal,MAG_376
+count,published,fermented food / animal,MAG_379
+count,published,fermented food / animal,MAG_390
+count,published,fermented food / animal,MAG_421
+count,published,fermented food / animal,MAG_422
+count,published,fermented food / animal,MAG_425
+count,published,fermented food / animal,MAG_433
+count,published,fermented food / animal,MAG_460
+count,published,fermented food / animal,MAG_479
+count,published,fermented food / animal,MAG_505
+count,published,fermented food / animal,MAG_509
+count,published,fermented food / animal,MAG_513
+count,published,fermented food / animal,MAG_514
+count,published,fermented food / animal,MAG_516
+count,published,fermented food / animal,MAG_517
+count,published,fermented food / animal,MAG_521
+count,published,fermented food / animal,MAG_522
+count,published,fermented food / animal,MAG_530
+count,published,fermented food / animal,MAG_534
+count,published,fermented food / animal,MAG_544
+count,published,fermented food / animal,MAG_559
+count,published,fermented food / animal,MAG_560
+count,published,fermented food / animal,MAG_565
+count,published,fermented food / animal,MAG_574
+count,published,fermented food / animal,MAG_575
+count,published,fermented food / animal,MAG_577
+count,published,fermented food / animal,MAG_60
+count,published,fermented food / animal,MAG_616
+count,published,fermented food / animal,MAG_66
+count,published,fermented food / animal,MAG_67
+count,published,fermented food / animal,MAG_77
+count,published,fermented food / human,Human_0001
+count,published,fermented food / human,Human_0002
+count,published,fermented food / human,Human_0004
+count,published,fermented food / human,Human_0005
+count,published,fermented food / human,Human_0007
+count,published,fermented food / human,Human_0008
+count,published,fermented food / human,Human_0010
+count,published,fermented food / human,Human_0011
+count,published,fermented food / human,Human_0012
+count,published,fermented food / human,Human_0013
+count,published,fermented food / human,Human_0015
+count,published,fermented food / human,Human_0016
+count,published,fermented food / human,Human_0017
+count,published,fermented food / human,Human_0018
+count,published,fermented food / human,Human_0019
+count,published,fermented food / human,Human_0020
+count,published,fermented food / human,Human_0021
+count,published,fermented food / human,Human_0022
+count,published,fermented food / human,Human_0024
+count,published,fermented food / human,Human_0025
+count,published,fermented food / human,Human_0026
+count,published,fermented food / human,Human_0027
+count,published,fermented food / human,Human_0028
+count,published,fermented food / human,Human_0029
+count,published,fermented food / human,Human_0032
+count,published,fermented food / human,Human_0033
+count,published,fermented food / human,Human_0034
+count,published,fermented food / human,Human_0035
+count,published,fermented food / human,Human_0036
+count,published,fermented food / human,Human_0037
+count,published,fermented food / human,Human_0038
+count,published,fermented food / human,Human_0039
+count,published,fermented food / human,Human_0040
+count,published,fermented food / human,Human_0042
+count,published,fermented food / human,Human_0043
+count,published,fermented food / human,Human_0044
+count,published,fermented food / human,Human_0045
+count,published,fermented food / human,Human_0047
+count,published,fermented food / human,Human_0048
+count,published,fermented food / human,Human_0049
+count,published,fermented food / human,Human_0051
+count,published,fermented food / human,Human_0053
+count,published,fermented food / human,Human_0054
+count,published,fermented food / human,Human_0055
+count,published,fermented food / human,Human_0073
+count,published,fermented food / human,Human_0075
+count,published,fermented food / human,Human_0081
+count,published,fermented food / human,Human_0082
+count,published,fermented food / human,Human_0091
+count,published,fermented food / human,Human_0094
+count,published,fermented food / human,Human_0098
+count,published,fermented food / human,Human_0102
+count,published,fermented food / human,Human_0105
+count,published,fermented food / human,Human_0114
+count,published,fermented food / human,Human_0115
+count,published,fermented food / human,Human_0117
+count,published,fermented food / human,Human_0118
+count,published,fermented food / human,Human_0120
+count,published,fermented food / human,Human_0121
+count,published,fermented food / human,Human_0124
+count,published,fermented food / human,Human_0127
+count,published,fermented food / human,Human_0129
+count,published,fermented food / human,Human_0130
+count,published,fermented food / human,Human_0150
+count,published,fermented food / human,Human_0153
+count,published,fermented food / human,Human_0154
+count,published,fermented food / human,Human_0156
+count,published,fermented food / human,Human_0218
+count,published,fermented food / human,Human_0219
+count,published,fermented food / human,Human_0221
+count,published,fermented food / human,Human_0222
+count,published,fermented food / human,Human_0223
+count,published,fermented food / human,Human_0224
+count,published,fermented food / human,Human_0229
+count,published,fermented food / human,Human_0244
+count,published,fermented food / human,Human_0251
+count,published,fermented food / human,Human_0252
+count,published,fermented food / human,Human_0253
+count,published,fermented food / human,Human_0256
+count,published,fermented food / human,Human_0259
+count,published,fermented food / human,Human_0266
+count,published,fermented food / human,Human_0267
+count,published,fermented food / human,Human_0304
+count,published,fermented food / human,Human_0349
+count,published,fermented food / human,Human_0353
+count,published,fermented food / human,Human_0359
+count,published,fermented food / human,Human_0368
+count,published,fermented food / human,Human_0372
+count,published,fermented food / human,Human_0379
+count,published,fermented food / human,Human_0391
+count,published,fermented food / human,Human_0393
+count,published,fermented food / human,Human_0395
+count,published,fermented food / human,Human_0399
+count,published,fermented food / human,Human_0400
+count,published,fermented food / human,Human_0402
+count,published,fermented food / human,Human_0403
+count,published,fermented food / human,Human_0404
+count,published,fermented food / human,Human_0406
+count,published,fermented food / human,Human_0407
+count,published,fermented food / human,Human_0408
+count,published,fermented food / human,Human_0409
+count,published,fermented food / human,Human_0410
+count,published,fermented food / human,Human_0411
+count,published,fermented food / human,Human_0413
+count,published,fermented food / human,Human_0415
+count,published,fermented food / human,Human_0416
+count,published,fermented food / human,Human_0417
+count,published,fermented food / human,Human_0418
+count,published,fermented food / human,Human_0419
+count,published,fermented food / human,Human_0420
+count,published,fermented food / human,Human_0421
+count,published,fermented food / human,Human_0422
+count,published,fermented food / human,Human_0425
+count,published,fermented food / human,Human_0426
+count,published,fermented food / human,Human_0431
+count,published,fermented food / human,Human_0432
+count,published,fermented food / human,Human_0433
+count,published,fermented food / human,Human_0434
+count,published,fermented food / human,Human_0435
+count,published,fermented food / human,Human_0436
+count,published,fermented food / human,Human_0437
+count,published,fermented food / human,Human_0447
+count,published,fermented food / human,Human_0448
+count,published,fermented food / human,Human_0449
+count,published,fermented food / human,Human_0450
+count,published,fermented food / human,Human_0454
+count,published,fermented food / human,Human_0461
+count,published,fermented food / human,Human_0463
+count,published,fermented food / human,Human_0467
+count,published,fermented food / human,Human_0479
+count,published,fermented food / human,Human_0480
+count,published,fermented food / human,Human_0483
+count,published,fermented food / human,Human_0485
+count,published,fermented food / human,Human_0492
+count,published,fermented food / human,Human_0503
+count,published,fermented food / human,Human_0512
+count,published,fermented food / human,Human_0523
+count,published,fermented food / human,Human_0527
+count,published,fermented food / human,Human_0529
+count,published,fermented food / human,MAG_101
+count,published,fermented food / human,MAG_108
+count,published,fermented food / human,MAG_115
+count,published,fermented food / human,MAG_117
+count,published,fermented food / human,MAG_126
+count,published,fermented food / human,MAG_129
+count,published,fermented food / human,MAG_134
+count,published,fermented food / human,MAG_135
+count,published,fermented food / human,MAG_144
+count,published,fermented food / human,MAG_151
+count,published,fermented food / human,MAG_157
+count,published,fermented food / human,MAG_158
+count,published,fermented food / human,MAG_162
+count,published,fermented food / human,MAG_166
+count,published,fermented food / human,MAG_174
+count,published,fermented food / human,MAG_179
+count,published,fermented food / human,MAG_181
+count,published,fermented food / human,MAG_192
+count,published,fermented food / human,MAG_212
+count,published,fermented food / human,MAG_213
+count,published,fermented food / human,MAG_217
+count,published,fermented food / human,MAG_246
+count,published,fermented food / human,MAG_258
+count,published,fermented food / human,MAG_261
+count,published,fermented food / human,MAG_264
+count,published,fermented food / human,MAG_266
+count,published,fermented food / human,MAG_267
+count,published,fermented food / human,MAG_269
+count,published,fermented food / human,MAG_273
+count,published,fermented food / human,MAG_274
+count,published,fermented food / human,MAG_276
+count,published,fermented food / human,MAG_277
+count,published,fermented food / human,MAG_28
+count,published,fermented food / human,MAG_299
+count,published,fermented food / human,MAG_304
+count,published,fermented food / human,MAG_316
+count,published,fermented food / human,MAG_324
+count,published,fermented food / human,MAG_353
+count,published,fermented food / human,MAG_355
+count,published,fermented food / human,MAG_358
+count,published,fermented food / human,MAG_36
+count,published,fermented food / human,MAG_360
+count,published,fermented food / human,MAG_361
+count,published,fermented food / human,MAG_362
+count,published,fermented food / human,MAG_376
+count,published,fermented food / human,MAG_379
+count,published,fermented food / human,MAG_385
+count,published,fermented food / human,MAG_390
+count,published,fermented food / human,MAG_401
+count,published,fermented food / human,MAG_41
+count,published,fermented food / human,MAG_414
+count,published,fermented food / human,MAG_421
+count,published,fermented food / human,MAG_422
+count,published,fermented food / human,MAG_425
+count,published,fermented food / human,MAG_433
+count,published,fermented food / human,MAG_44
+count,published,fermented food / human,MAG_460
+count,published,fermented food / human,MAG_466
+count,published,fermented food / human,MAG_475
+count,published,fermented food / human,MAG_476
+count,published,fermented food / human,MAG_477
+count,published,fermented food / human,MAG_479
+count,published,fermented food / human,MAG_495
+count,published,fermented food / human,MAG_498
+count,published,fermented food / human,MAG_499
+count,published,fermented food / human,MAG_503
+count,published,fermented food / human,MAG_505
+count,published,fermented food / human,MAG_508
+count,published,fermented food / human,MAG_511
+count,published,fermented food / human,MAG_513
+count,published,fermented food / human,MAG_516
+count,published,fermented food / human,MAG_517
+count,published,fermented food / human,MAG_521
+count,published,fermented food / human,MAG_522
+count,published,fermented food / human,MAG_525
+count,published,fermented food / human,MAG_530
+count,published,fermented food / human,MAG_532
+count,published,fermented food / human,MAG_534
+count,published,fermented food / human,MAG_537
+count,published,fermented food / human,MAG_55
+count,published,fermented food / human,MAG_559
+count,published,fermented food / human,MAG_565
+count,published,fermented food / human,MAG_569
+count,published,fermented food / human,MAG_572
+count,published,fermented food / human,MAG_574
+count,published,fermented food / human,MAG_575
+count,published,fermented food / human,MAG_58
+count,published,fermented food / human,MAG_59
+count,published,fermented food / human,MAG_616
+count,published,fermented food / human,MAG_64
+count,published,fermented food / human,MAG_66
+count,published,fermented food / human,MAG_67
+count,published,fermented food / human,MAG_77
+count,published,fermented food / human,MAG_88
+count,published,fermented food / human,MAG_93
+presence,published,human / animal,Animal_0532
+presence,published,human / animal,Animal_0533
+presence,published,human / animal,Animal_0534
+presence,published,human / animal,Animal_0535
+presence,published,human / animal,Animal_0536
+presence,published,human / animal,Animal_0537
+presence,published,human / animal,Animal_0538
+presence,published,human / animal,Animal_0539
+presence,published,human / animal,Animal_0541
+presence,published,human / animal,Animal_0542
+presence,published,human / animal,Animal_0543
+presence,published,human / animal,Animal_0544
+presence,published,human / animal,Animal_0545
+presence,published,human / animal,Animal_0546
+presence,published,human / animal,Animal_0547
+presence,published,human / animal,Animal_0548
+presence,published,human / animal,Animal_0549
+presence,published,human / animal,Animal_0550
+presence,published,human / animal,Animal_0551
+presence,published,human / animal,Animal_0552
+presence,published,human / animal,Animal_0553
+presence,published,human / animal,Animal_0554
+presence,published,human / animal,Animal_0555
+presence,published,human / animal,Animal_0556
+presence,published,human / animal,Animal_0557
+presence,published,human / animal,Animal_0558
+presence,published,human / animal,Animal_0559
+presence,published,human / animal,Animal_0560
+presence,published,human / animal,Animal_0561
+presence,published,human / animal,Animal_0562
+presence,published,human / animal,Animal_0563
+presence,published,human / animal,Animal_0564
+presence,published,human / animal,Animal_0565
+presence,published,human / animal,Animal_0566
+presence,published,human / animal,Animal_0568
+presence,published,human / animal,Animal_0571
+presence,published,human / animal,Animal_0572
+presence,published,human / animal,Animal_0573
+presence,published,human / animal,Animal_0577
+presence,published,human / animal,Animal_0580
+presence,published,human / animal,Animal_0583
+presence,published,human / animal,Animal_0584
+presence,published,human / animal,Animal_0587
+presence,published,human / animal,Animal_0603
+presence,published,human / animal,Animal_0605
+presence,published,human / animal,Animal_0606
+presence,published,human / animal,Animal_0608
+presence,published,human / animal,Animal_0609
+presence,published,human / animal,Animal_0611
+presence,published,human / animal,Animal_0612
+presence,published,human / animal,Animal_0613
+presence,published,human / animal,Animal_0616
+presence,published,human / animal,Animal_0622
+presence,published,human / animal,Animal_0623
+presence,published,human / animal,Animal_0625
+presence,published,human / animal,Animal_0628
+presence,published,human / animal,Animal_0629
+presence,published,human / animal,Animal_0630
+presence,published,human / animal,Animal_0632
+presence,published,human / animal,Animal_0633
+presence,published,human / animal,Animal_0634
+presence,published,human / animal,Animal_0635
+presence,published,human / animal,Animal_0636
+presence,published,human / animal,Animal_0637
+presence,published,human / animal,Animal_0638
+presence,published,human / animal,Animal_0639
+presence,published,human / animal,Animal_0641
+presence,published,human / animal,Animal_0643
+presence,published,human / animal,Animal_0645
+presence,published,human / animal,Animal_0647
+presence,published,human / animal,Animal_0648
+presence,published,human / animal,Animal_0649
+presence,published,human / animal,Animal_0650
+presence,published,human / animal,Animal_0651
+presence,published,human / animal,Animal_0653
+presence,published,human / animal,Animal_0655
+presence,published,human / animal,Animal_0656
+presence,published,human / animal,Animal_0658
+presence,published,human / animal,Animal_0660
+presence,published,human / animal,Animal_0662
+presence,published,human / animal,Animal_0664
+presence,published,human / animal,Animal_0666
+presence,published,human / animal,Animal_0668
+presence,published,human / animal,Animal_0669
+presence,published,human / animal,Animal_0670
+presence,published,human / animal,Animal_0671
+presence,published,human / animal,Animal_0672
+presence,published,human / animal,Animal_0673
+presence,published,human / animal,Animal_0674
+presence,published,human / animal,Animal_0679
+presence,published,human / animal,Animal_0680
+presence,published,human / animal,Animal_0682
+presence,published,human / animal,Animal_0686
+presence,published,human / animal,Animal_0687
+presence,published,human / animal,Animal_0691
+presence,published,human / animal,Animal_0696
+presence,published,human / animal,Animal_0698
+presence,published,human / animal,Animal_0704
+presence,published,human / animal,Animal_0705
+presence,published,human / animal,Animal_0708
+presence,published,human / animal,Animal_0709
+presence,published,human / animal,Animal_0712
+presence,published,human / animal,Animal_0717
+presence,published,human / animal,Animal_0718
+presence,published,human / animal,Animal_0719
+presence,published,human / animal,Animal_0720
+presence,published,human / animal,Animal_0721
+presence,published,human / animal,Animal_0722
+presence,published,human / animal,Animal_0724
+presence,published,human / animal,Chicken_0867
+presence,published,human / animal,Chicken_0868
+presence,published,human / animal,Chicken_0875
+presence,published,human / animal,Chicken_0876
+presence,published,human / animal,Chicken_0877
+presence,published,human / animal,Chicken_0878
+presence,published,human / animal,Chicken_0880
+presence,published,human / animal,Chicken_0881
+presence,published,human / animal,Chicken_0882
+presence,published,human / animal,Chicken_0883
+presence,published,human / animal,Chicken_0884
+presence,published,human / animal,Chicken_0885
+presence,published,human / animal,Chicken_0886
+presence,published,human / animal,Chicken_0887
+presence,published,human / animal,Chicken_0889
+presence,published,human / animal,Chicken_0890
+presence,published,human / animal,Chicken_0891
+presence,published,human / animal,Chicken_0893
+presence,published,human / animal,Chicken_0895
+presence,published,human / animal,Chicken_0898
+presence,published,human / animal,Chicken_0903
+presence,published,human / animal,Chicken_0906
+presence,published,human / animal,Chicken_0907
+presence,published,human / animal,Chicken_0908
+presence,published,human / animal,Chicken_0911
+presence,published,human / animal,Chicken_0914
+presence,published,human / animal,Chicken_0915
+presence,published,human / animal,Chicken_0916
+presence,published,human / animal,Chicken_0918
+presence,published,human / animal,Chicken_0920
+presence,published,human / animal,Chicken_0921
+presence,published,human / animal,Chicken_0923
+presence,published,human / animal,Chicken_0924
+presence,published,human / animal,Chicken_0925
+presence,published,human / animal,Chicken_0928
+presence,published,human / animal,Chicken_0930
+presence,published,human / animal,Chicken_0931
+presence,published,human / animal,Chicken_0932
+presence,published,human / animal,Chicken_0933
+presence,published,human / animal,Chicken_0936
+presence,published,human / animal,Chicken_0938
+presence,published,human / animal,Chicken_0942
+presence,published,human / animal,Chicken_0943
+presence,published,human / animal,Chicken_0947
+presence,published,human / animal,Chicken_0949
+presence,published,human / animal,Chicken_0952
+presence,published,human / animal,Chicken_0953
+presence,published,human / animal,Chicken_0958
+presence,published,human / animal,Chicken_0959
+presence,published,human / animal,Chicken_0960
+presence,published,human / animal,Chicken_0962
+presence,published,human / animal,Chicken_0963
+presence,published,human / animal,Chicken_0965
+presence,published,human / animal,Chicken_0967
+presence,published,human / animal,Chicken_0968
+presence,published,human / animal,Chicken_0969
+presence,published,human / animal,Chicken_0971
+presence,published,human / animal,Chicken_0972
+presence,published,human / animal,Chicken_0973
+presence,published,human / animal,Chicken_0974
+presence,published,human / animal,Chicken_0975
+presence,published,human / animal,Chicken_0977
+presence,published,human / animal,Chicken_0978
+presence,published,human / animal,Chicken_0982
+presence,published,human / animal,Chicken_0983
+presence,published,human / animal,Chicken_0984
+presence,published,human / animal,Chicken_0985
+presence,published,human / animal,Chicken_0986
+presence,published,human / animal,Chicken_0987
+presence,published,human / animal,Chicken_0989
+presence,published,human / animal,Chicken_0990
+presence,published,human / animal,Chicken_0991
+presence,published,human / animal,Chicken_0993
+presence,published,human / animal,Chicken_0995
+presence,published,human / animal,Chicken_0996
+presence,published,human / animal,Chicken_0997
+presence,published,human / animal,Chicken_0999
+presence,published,human / animal,Chicken_1000
+presence,published,human / animal,Chicken_1001
+presence,published,human / animal,Chicken_1002
+presence,published,human / animal,Chicken_1003
+presence,published,human / animal,Chicken_1004
+presence,published,human / animal,Chicken_1005
+presence,published,human / animal,Chicken_1006
+presence,published,human / animal,Chicken_1007
+presence,published,human / animal,Chicken_1009
+presence,published,human / animal,Chicken_1011
+presence,published,human / animal,Chicken_1014
+presence,published,human / animal,Chicken_1015
+presence,published,human / animal,Chicken_1016
+presence,published,human / animal,Chicken_1021
+presence,published,human / animal,Chicken_1022
+presence,published,human / animal,Chicken_1023
+presence,published,human / animal,Chicken_1026
+presence,published,human / animal,Chicken_1027
+presence,published,human / animal,Chicken_1030
+presence,published,human / animal,Chicken_1032
+presence,published,human / animal,Chicken_1035
+presence,published,human / animal,Chicken_1036
+presence,published,human / animal,Chicken_1039
+presence,published,human / animal,Chicken_1040
+presence,published,human / animal,Chicken_1041
+presence,published,human / animal,Chicken_1042
+presence,published,human / animal,Chicken_1046
+presence,published,human / animal,Chicken_1048
+presence,published,human / animal,Chicken_1050
+presence,published,human / animal,Chicken_1054
+presence,published,human / animal,Chicken_1057
+presence,published,human / animal,Chicken_1058
+presence,published,human / animal,Chicken_1059
+presence,published,human / animal,Chicken_1060
+presence,published,human / animal,Chicken_1062
+presence,published,human / animal,Chicken_1068
+presence,published,human / animal,Chicken_1069
+presence,published,human / animal,Chicken_1070
+presence,published,human / animal,Chicken_1071
+presence,published,human / animal,Chicken_1072
+presence,published,human / animal,Chicken_1074
+presence,published,human / animal,Chicken_1076
+presence,published,human / animal,Chicken_1079
+presence,published,human / animal,Chicken_1082
+presence,published,human / animal,Chicken_1084
+presence,published,human / animal,Chicken_1085
+presence,published,human / animal,Chicken_1086
+presence,published,human / animal,Chicken_1087
+presence,published,human / animal,Chicken_1090
+presence,published,human / animal,Chicken_1091
+presence,published,human / animal,Chicken_1092
+presence,published,human / animal,Chicken_1093
+presence,published,human / animal,Chicken_1095
+presence,published,human / animal,Chicken_1096
+presence,published,human / animal,Chicken_1097
+presence,published,human / animal,Chicken_1098
+presence,published,human / animal,Chicken_1099
+presence,published,human / animal,Chicken_1100
+presence,published,human / animal,Chicken_1102
+presence,published,human / animal,Chicken_1103
+presence,published,human / animal,Chicken_1105
+presence,published,human / animal,Chicken_1106
+presence,published,human / animal,Chicken_1108
+presence,published,human / animal,Chicken_1109
+presence,published,human / animal,Chicken_1110
+presence,published,human / animal,Chicken_1112
+presence,published,human / animal,Chicken_1114
+presence,published,human / animal,Chicken_1115
+presence,published,human / animal,Chicken_1116
+presence,published,human / animal,Chicken_1118
+presence,published,human / animal,Chicken_1119
+presence,published,human / animal,Chicken_1120
+presence,published,human / animal,Chicken_1121
+presence,published,human / animal,Chicken_1122
+presence,published,human / animal,Chicken_1123
+presence,published,human / animal,Chicken_1124
+presence,published,human / animal,Chicken_1125
+presence,published,human / animal,Chicken_1126
+presence,published,human / animal,Chicken_1127
+presence,published,human / animal,Chicken_1128
+presence,published,human / animal,Chicken_1132
+presence,published,human / animal,Chicken_1133
+presence,published,human / animal,Chicken_1134
+presence,published,human / animal,Chicken_1135
+presence,published,human / animal,Chicken_1140
+presence,published,human / animal,Chicken_1142
+presence,published,human / animal,Chicken_1144
+presence,published,human / animal,Chicken_1145
+presence,published,human / animal,Chicken_1146
+presence,published,human / animal,Chicken_1147
+presence,published,human / animal,Chicken_1148
+presence,published,human / animal,Chicken_1149
+presence,published,human / animal,Chicken_1150
+presence,published,human / animal,Chicken_1151
+presence,published,human / animal,Chicken_1153
+presence,published,human / animal,Chicken_1154
+presence,published,human / animal,Chicken_1155
+presence,published,human / animal,Chicken_1156
+presence,published,human / animal,Chicken_1157
+presence,published,human / animal,Chicken_1159
+presence,published,human / animal,Chicken_1161
+presence,published,human / animal,Chicken_1162
+presence,published,human / animal,Chicken_1163
+presence,published,human / animal,Chicken_1166
+presence,published,human / animal,Chicken_1167
+presence,published,human / animal,Chicken_1170
+presence,published,human / animal,Chicken_1171
+presence,published,human / animal,Chicken_1176
+presence,published,human / animal,Chicken_1179
+presence,published,human / animal,Chicken_1181
+presence,published,human / animal,Chicken_1183
+presence,published,human / animal,Chicken_1184
+presence,published,human / animal,Chicken_1186
+presence,published,human / animal,Chicken_1188
+presence,published,human / animal,Chicken_1191
+presence,published,human / animal,Chicken_1192
+presence,published,human / animal,Chicken_1193
+presence,published,human / animal,Chicken_1194
+presence,published,human / animal,Chicken_1195
+presence,published,human / animal,Chicken_1199
+presence,published,human / animal,Chicken_1202
+presence,published,human / animal,Chicken_1203
+presence,published,human / animal,Chicken_1206
+presence,published,human / animal,Chicken_1207
+presence,published,human / animal,Chicken_1209
+presence,published,human / animal,Chicken_1210
+presence,published,human / animal,Chicken_1213
+presence,published,human / animal,Chicken_1214
+presence,published,human / animal,Chicken_1215
+presence,published,human / animal,Chicken_1216
+presence,published,human / animal,Chicken_1217
+presence,published,human / animal,Chicken_1218
+presence,published,human / animal,Chicken_1220
+presence,published,human / animal,Chicken_1221
+presence,published,human / animal,Chicken_1222
+presence,published,human / animal,Chicken_1223
+presence,published,human / animal,Chicken_1224
+presence,published,human / animal,Chicken_1229
+presence,published,human / animal,Chicken_1231
+presence,published,human / animal,Chicken_1232
+presence,published,human / animal,Chicken_1233
+presence,published,human / animal,Chicken_1234
+presence,published,human / animal,Chicken_1235
+presence,published,human / animal,Chicken_1237
+presence,published,human / animal,Chicken_1238
+presence,published,human / animal,Chicken_1239
+presence,published,human / animal,Chicken_1241
+presence,published,human / animal,Chicken_1246
+presence,published,human / animal,Chicken_1247
+presence,published,human / animal,Chicken_1250
+presence,published,human / animal,Chicken_1253
+presence,published,human / animal,Chicken_1259
+presence,published,human / animal,Chicken_1262
+presence,published,human / animal,Chicken_1263
+presence,published,human / animal,Chicken_1266
+presence,published,human / animal,Chicken_1267
+presence,published,human / animal,Chicken_1269
+presence,published,human / animal,Chicken_1272
+presence,published,human / animal,Chicken_1275
+presence,published,human / animal,Chicken_1276
+presence,published,human / animal,Chicken_1277
+presence,published,human / animal,Chicken_1279
+presence,published,human / animal,Chicken_1280
+presence,published,human / animal,Chicken_1283
+presence,published,human / animal,Chicken_1284
+presence,published,human / animal,Chicken_1286
+presence,published,human / animal,Chicken_1287
+presence,published,human / animal,Chicken_1288
+presence,published,human / animal,Chicken_1291
+presence,published,human / animal,Chicken_1292
+presence,published,human / animal,Chicken_1294
+presence,published,human / animal,Chicken_1295
+presence,published,human / animal,Chicken_1296
+presence,published,human / animal,Chicken_1297
+presence,published,human / animal,Chicken_1299
+presence,published,human / animal,Chicken_1300
+presence,published,human / animal,Chicken_1301
+presence,published,human / animal,Chicken_1307
+presence,published,human / animal,Chicken_1308
+presence,published,human / animal,Chicken_1310
+presence,published,human / animal,Chicken_1312
+presence,published,human / animal,Chicken_1314
+presence,published,human / animal,Chicken_1315
+presence,published,human / animal,Chicken_1316
+presence,published,human / animal,Chicken_1317
+presence,published,human / animal,Chicken_1319
+presence,published,human / animal,Chicken_1320
+presence,published,human / animal,Chicken_1321
+presence,published,human / animal,Chicken_1327
+presence,published,human / animal,Chicken_1328
+presence,published,human / animal,Chicken_1329
+presence,published,human / animal,Chicken_1331
+presence,published,human / animal,Chicken_1332
+presence,published,human / animal,Chicken_1333
+presence,published,human / animal,Chicken_1335
+presence,published,human / animal,Chicken_1336
+presence,published,human / animal,Chicken_1338
+presence,published,human / animal,Chicken_1339
+presence,published,human / animal,Chicken_1340
+presence,published,human / animal,Chicken_1341
+presence,published,human / animal,Chicken_1342
+presence,published,human / animal,Chicken_1343
+presence,published,human / animal,Chicken_1344
+presence,published,human / animal,Chicken_1345
+presence,published,human / animal,Chicken_1347
+presence,published,human / animal,Chicken_1348
+presence,published,human / animal,Chicken_1349
+presence,published,human / animal,Chicken_1351
+presence,published,human / animal,Chicken_1353
+presence,published,human / animal,Chicken_1354
+presence,published,human / animal,Chicken_1358
+presence,published,human / animal,Chicken_1359
+presence,published,human / animal,Chicken_1360
+presence,published,human / animal,Chicken_1361
+presence,published,human / animal,Chicken_1363
+presence,published,human / animal,Chicken_1364
+presence,published,human / animal,Chicken_1365
+presence,published,human / animal,Chicken_1366
+presence,published,human / animal,Chicken_1367
+presence,published,human / animal,Chicken_1369
+presence,published,human / animal,Chicken_1370
+presence,published,human / animal,Chicken_1371
+presence,published,human / animal,Chicken_1373
+presence,published,human / animal,Chicken_1377
+presence,published,human / animal,Chicken_1378
+presence,published,human / animal,Chicken_1380
+presence,published,human / animal,Chicken_1381
+presence,published,human / animal,Chicken_1382
+presence,published,human / animal,Chicken_1384
+presence,published,human / animal,Chicken_1385
+presence,published,human / animal,Chicken_1389
+presence,published,human / animal,Chicken_1390
+presence,published,human / animal,Chicken_1391
+presence,published,human / animal,Chicken_1392
+presence,published,human / animal,Chicken_1394
+presence,published,human / animal,Chicken_1397
+presence,published,human / animal,Chicken_1398
+presence,published,human / animal,Chicken_1399
+presence,published,human / animal,Chicken_1400
+presence,published,human / animal,Chicken_1401
+presence,published,human / animal,Chicken_1402
+presence,published,human / animal,Chicken_1403
+presence,published,human / animal,Chicken_1405
+presence,published,human / animal,Chicken_1406
+presence,published,human / animal,Chicken_1407
+presence,published,human / animal,Chicken_1408
+presence,published,human / animal,Chicken_1409
+presence,published,human / animal,Chicken_1410
+presence,published,human / animal,Chicken_1411
+presence,published,human / animal,Chicken_1413
+presence,published,human / animal,Chicken_1414
+presence,published,human / animal,Chicken_1415
+presence,published,human / animal,Chicken_1417
+presence,published,human / animal,Chicken_1418
+presence,published,human / animal,Chicken_1419
+presence,published,human / animal,Chicken_1421
+presence,published,human / animal,Chicken_1422
+presence,published,human / animal,Chicken_1429
+presence,published,human / animal,Chicken_1431
+presence,published,human / animal,Chicken_1432
+presence,published,human / animal,Chicken_1434
+presence,published,human / animal,Chicken_1435
+presence,published,human / animal,Chicken_1437
+presence,published,human / animal,Chicken_1440
+presence,published,human / animal,Chicken_1443
+presence,published,human / animal,Chicken_1445
+presence,published,human / animal,Chicken_1446
+presence,published,human / animal,Chicken_1447
+presence,published,human / animal,Chicken_1448
+presence,published,human / animal,Chicken_1450
+presence,published,human / animal,Chicken_1452
+presence,published,human / animal,Chicken_1455
+presence,published,human / animal,Chicken_1458
+presence,published,human / animal,Chicken_1460
+presence,published,human / animal,Chicken_1461
+presence,published,human / animal,Chicken_1462
+presence,published,human / animal,Chicken_1463
+presence,published,human / animal,Chicken_1466
+presence,published,human / animal,Chicken_1467
+presence,published,human / animal,Chicken_1469
+presence,published,human / animal,Chicken_1474
+presence,published,human / animal,Chicken_1475
+presence,published,human / animal,Chicken_1476
+presence,published,human / animal,Chicken_1480
+presence,published,human / animal,Chicken_1481
+presence,published,human / animal,Chicken_1483
+presence,published,human / animal,Chicken_1484
+presence,published,human / animal,Chicken_1485
+presence,published,human / animal,Chicken_1488
+presence,published,human / animal,Chicken_1491
+presence,published,human / animal,Chicken_1492
+presence,published,human / animal,Chicken_1493
+presence,published,human / animal,Chicken_1496
+presence,published,human / animal,Chicken_1500
+presence,published,human / animal,Chicken_1503
+presence,published,human / animal,Chicken_1505
+presence,published,human / animal,Chicken_1506
+presence,published,human / animal,Chicken_1507
+presence,published,human / animal,Chicken_1508
+presence,published,human / animal,Chicken_1509
+presence,published,human / animal,Chicken_1510
+presence,published,human / animal,Chicken_1511
+presence,published,human / animal,Chicken_1513
+presence,published,human / animal,Chicken_1514
+presence,published,human / animal,Chicken_1516
+presence,published,human / animal,Chicken_1517
+presence,published,human / animal,Chicken_1518
+presence,published,human / animal,Chicken_1519
+presence,published,human / animal,Chicken_1522
+presence,published,human / animal,Chicken_1527
+presence,published,human / animal,Chicken_1531
+presence,published,human / animal,Chicken_1535
+presence,published,human / animal,Chicken_1536
+presence,published,human / animal,Chicken_1537
+presence,published,human / animal,Chicken_1538
+presence,published,human / animal,Chicken_1540
+presence,published,human / animal,Chicken_1543
+presence,published,human / animal,Chicken_1544
+presence,published,human / animal,Chicken_1545
+presence,published,human / animal,Chicken_1546
+presence,published,human / animal,Chicken_1547
+presence,published,human / animal,Chicken_1548
+presence,published,human / animal,Chicken_1549
+presence,published,human / animal,Chicken_1550
+presence,published,human / animal,Chicken_1552
+presence,published,human / animal,Chicken_1553
+presence,published,human / animal,Chicken_1556
+presence,published,human / animal,Chicken_1557
+presence,published,human / animal,Chicken_1562
+presence,published,human / animal,Chicken_1563
+presence,published,human / animal,Chicken_1564
+presence,published,human / animal,Chicken_1566
+presence,published,human / animal,Chicken_1567
+presence,published,human / animal,Chicken_1568
+presence,published,human / animal,Chicken_1569
+presence,published,human / animal,Chicken_1570
+presence,published,human / animal,Chicken_1571
+presence,published,human / animal,Chicken_1574
+presence,published,human / animal,Chicken_1575
+presence,published,human / animal,Chicken_1579
+presence,published,human / animal,Chicken_1580
+presence,published,human / animal,Chicken_1582
+presence,published,human / animal,Chicken_1583
+presence,published,human / animal,Chicken_1585
+presence,published,human / animal,Chicken_1586
+presence,published,human / animal,Chicken_1589
+presence,published,human / animal,Chicken_1590
+presence,published,human / animal,Chicken_1591
+presence,published,human / animal,Chicken_1593
+presence,published,human / animal,Chicken_1594
+presence,published,human / animal,Chicken_1595
+presence,published,human / animal,Chicken_1596
+presence,published,human / animal,Chicken_1599
+presence,published,human / animal,Chicken_1601
+presence,published,human / animal,Chicken_1602
+presence,published,human / animal,Chicken_1603
+presence,published,human / animal,Chicken_1605
+presence,published,human / animal,Chicken_1607
+presence,published,human / animal,Chicken_1608
+presence,published,human / animal,Chicken_1609
+presence,published,human / animal,Chicken_1612
+presence,published,human / animal,Chicken_1616
+presence,published,human / animal,Chicken_1618
+presence,published,human / animal,Chicken_1620
+presence,published,human / animal,Chicken_1621
+presence,published,human / animal,Chicken_1622
+presence,published,human / animal,Chicken_1626
+presence,published,human / animal,Chicken_1629
+presence,published,human / animal,Chicken_1630
+presence,published,human / animal,Chicken_1631
+presence,published,human / animal,Chicken_1632
+presence,published,human / animal,Chicken_1634
+presence,published,human / animal,Chicken_1635
+presence,published,human / animal,Chicken_1636
+presence,published,human / animal,Chicken_1637
+presence,published,human / animal,Chicken_1639
+presence,published,human / animal,Chicken_1642
+presence,published,human / animal,Chicken_1643
+presence,published,human / animal,Chicken_1644
+presence,published,human / animal,Chicken_1646
+presence,published,human / animal,Chicken_1647
+presence,published,human / animal,Chicken_1648
+presence,published,human / animal,Chicken_1651
+presence,published,human / animal,Chicken_1652
+presence,published,human / animal,Chicken_1655
+presence,published,human / animal,Chicken_1657
+presence,published,human / animal,Chicken_1658
+presence,published,human / animal,Chicken_1660
+presence,published,human / animal,Chicken_1662
+presence,published,human / animal,Chicken_1664
+presence,published,human / animal,Chicken_1666
+presence,published,human / animal,Chicken_1667
+presence,published,human / animal,Chicken_1668
+presence,published,human / animal,Chicken_1671
+presence,published,human / animal,Chicken_1674
+presence,published,human / animal,Chicken_1675
+presence,published,human / animal,Chicken_1677
+presence,published,human / animal,Chicken_1679
+presence,published,human / animal,Chicken_1680
+presence,published,human / animal,Chicken_1681
+presence,published,human / animal,Chicken_1682
+presence,published,human / animal,Chicken_1683
+presence,published,human / animal,Chicken_1684
+presence,published,human / animal,Chicken_1685
+presence,published,human / animal,Chicken_1687
+presence,published,human / animal,Chicken_1693
+presence,published,human / animal,Chicken_1695
+presence,published,human / animal,Chicken_1696
+presence,published,human / animal,Chicken_1697
+presence,published,human / animal,Chicken_1698
+presence,published,human / animal,Chicken_1699
+presence,published,human / animal,Chicken_1700
+presence,published,human / animal,Chicken_1702
+presence,published,human / animal,Chicken_1705
+presence,published,human / animal,Chicken_1708
+presence,published,human / animal,Chicken_1711
+presence,published,human / animal,Chicken_1712
+presence,published,human / animal,Chicken_1713
+presence,published,human / animal,Chicken_1714
+presence,published,human / animal,Chicken_1715
+presence,published,human / animal,Chicken_1716
+presence,published,human / animal,Chicken_1719
+presence,published,human / animal,Chicken_1721
+presence,published,human / animal,Chicken_1722
+presence,published,human / animal,Chicken_1723
+presence,published,human / animal,Chicken_1724
+presence,published,human / animal,Chicken_1725
+presence,published,human / animal,Chicken_1727
+presence,published,human / animal,Chicken_1731
+presence,published,human / animal,Chicken_1734
+presence,published,human / animal,Chicken_1735
+presence,published,human / animal,Chicken_1736
+presence,published,human / animal,Chicken_1737
+presence,published,human / animal,Chicken_1744
+presence,published,human / animal,Chicken_1745
+presence,published,human / animal,Chicken_1748
+presence,published,human / animal,Chicken_1750
+presence,published,human / animal,Chicken_1752
+presence,published,human / animal,Chicken_1754
+presence,published,human / animal,Chicken_1755
+presence,published,human / animal,Chicken_1756
+presence,published,human / animal,Chicken_1757
+presence,published,human / animal,Chicken_1758
+presence,published,human / animal,Chicken_1759
+presence,published,human / animal,Chicken_1760
+presence,published,human / animal,Chicken_1761
+presence,published,human / animal,Chicken_1763
+presence,published,human / animal,Chicken_1764
+presence,published,human / animal,Chicken_1765
+presence,published,human / animal,Chicken_1766
+presence,published,human / animal,Chicken_1770
+presence,published,human / animal,Chicken_1772
+presence,published,human / animal,Chicken_1773
+presence,published,human / animal,Chicken_1774
+presence,published,human / animal,Chicken_1776
+presence,published,human / animal,Chicken_1779
+presence,published,human / animal,Chicken_1781
+presence,published,human / animal,Chicken_1782
+presence,published,human / animal,Chicken_1783
+presence,published,human / animal,Chicken_1784
+presence,published,human / animal,Chicken_1786
+presence,published,human / animal,Chicken_1787
+presence,published,human / animal,Chicken_1790
+presence,published,human / animal,Chicken_1792
+presence,published,human / animal,Chicken_1794
+presence,published,human / animal,Chicken_1795
+presence,published,human / animal,Chicken_1796
+presence,published,human / animal,Chicken_1799
+presence,published,human / animal,Chicken_1802
+presence,published,human / animal,Chicken_1803
+presence,published,human / animal,Chicken_1804
+presence,published,human / animal,Chicken_1805
+presence,published,human / animal,Chicken_1807
+presence,published,human / animal,Chicken_1809
+presence,published,human / animal,Chicken_1810
+presence,published,human / animal,Chicken_1811
+presence,published,human / animal,Chicken_1812
+presence,published,human / animal,Chicken_1813
+presence,published,human / animal,Chicken_1815
+presence,published,human / animal,Chicken_1816
+presence,published,human / animal,Chicken_1817
+presence,published,human / animal,Chicken_1818
+presence,published,human / animal,Chicken_1819
+presence,published,human / animal,Chicken_1820
+presence,published,human / animal,Chicken_1822
+presence,published,human / animal,Chicken_1824
+presence,published,human / animal,Chicken_1825
+presence,published,human / animal,Chicken_1826
+presence,published,human / animal,Chicken_1827
+presence,published,human / animal,Chicken_1829
+presence,published,human / animal,Chicken_1833
+presence,published,human / animal,Chicken_1834
+presence,published,human / animal,Chicken_1836
+presence,published,human / animal,Chicken_1839
+presence,published,human / animal,Chicken_1840
+presence,published,human / animal,Chicken_1842
+presence,published,human / animal,Chicken_1844
+presence,published,human / animal,Chicken_1845
+presence,published,human / animal,Chicken_1849
+presence,published,human / animal,Chicken_1851
+presence,published,human / animal,Chicken_1853
+presence,published,human / animal,Chicken_1854
+presence,published,human / animal,Chicken_1855
+presence,published,human / animal,Chicken_1857
+presence,published,human / animal,Chicken_1858
+presence,published,human / animal,Chicken_1859
+presence,published,human / animal,Chicken_1861
+presence,published,human / animal,Chicken_1862
+presence,published,human / animal,Chicken_1863
+presence,published,human / animal,Chicken_1864
+presence,published,human / animal,Chicken_1865
+presence,published,human / animal,Chicken_1866
+presence,published,human / animal,Chicken_1869
+presence,published,human / animal,Chicken_1872
+presence,published,human / animal,Chicken_1873
+presence,published,human / animal,Chicken_1874
+presence,published,human / animal,Chicken_1875
+presence,published,human / animal,Chicken_1877
+presence,published,human / animal,Chicken_1879
+presence,published,human / animal,Chicken_1885
+presence,published,human / animal,Chicken_1886
+presence,published,human / animal,Chicken_1887
+presence,published,human / animal,Chicken_1889
+presence,published,human / animal,Chicken_1891
+presence,published,human / animal,Chicken_1894
+presence,published,human / animal,Chicken_1896
+presence,published,human / animal,Chicken_1898
+presence,published,human / animal,Chicken_1899
+presence,published,human / animal,Chicken_1900
+presence,published,human / animal,Chicken_1902
+presence,published,human / animal,Chicken_1903
+presence,published,human / animal,Chicken_1905
+presence,published,human / animal,Chicken_1906
+presence,published,human / animal,Chicken_1909
+presence,published,human / animal,Human_0004
+presence,published,human / animal,Human_0007
+presence,published,human / animal,Human_0010
+presence,published,human / animal,Human_0013
+presence,published,human / animal,Human_0017
+presence,published,human / animal,Human_0018
+presence,published,human / animal,Human_0023
+presence,published,human / animal,Human_0024
+presence,published,human / animal,Human_0025
+presence,published,human / animal,Human_0028
+presence,published,human / animal,Human_0029
+presence,published,human / animal,Human_0030
+presence,published,human / animal,Human_0031
+presence,published,human / animal,Human_0037
+presence,published,human / animal,Human_0038
+presence,published,human / animal,Human_0039
+presence,published,human / animal,Human_0041
+presence,published,human / animal,Human_0044
+presence,published,human / animal,Human_0049
+presence,published,human / animal,Human_0050
+presence,published,human / animal,Human_0051
+presence,published,human / animal,Human_0054
+presence,published,human / animal,Human_0055
+presence,published,human / animal,Human_0056
+presence,published,human / animal,Human_0057
+presence,published,human / animal,Human_0058
+presence,published,human / animal,Human_0059
+presence,published,human / animal,Human_0060
+presence,published,human / animal,Human_0061
+presence,published,human / animal,Human_0062
+presence,published,human / animal,Human_0063
+presence,published,human / animal,Human_0064
+presence,published,human / animal,Human_0065
+presence,published,human / animal,Human_0066
+presence,published,human / animal,Human_0067
+presence,published,human / animal,Human_0068
+presence,published,human / animal,Human_0072
+presence,published,human / animal,Human_0073
+presence,published,human / animal,Human_0074
+presence,published,human / animal,Human_0075
+presence,published,human / animal,Human_0076
+presence,published,human / animal,Human_0077
+presence,published,human / animal,Human_0078
+presence,published,human / animal,Human_0079
+presence,published,human / animal,Human_0080
+presence,published,human / animal,Human_0083
+presence,published,human / animal,Human_0084
+presence,published,human / animal,Human_0085
+presence,published,human / animal,Human_0086
+presence,published,human / animal,Human_0087
+presence,published,human / animal,Human_0088
+presence,published,human / animal,Human_0089
+presence,published,human / animal,Human_0090
+presence,published,human / animal,Human_0093
+presence,published,human / animal,Human_0095
+presence,published,human / animal,Human_0096
+presence,published,human / animal,Human_0097
+presence,published,human / animal,Human_0098
+presence,published,human / animal,Human_0099
+presence,published,human / animal,Human_0100
+presence,published,human / animal,Human_0101
+presence,published,human / animal,Human_0103
+presence,published,human / animal,Human_0104
+presence,published,human / animal,Human_0105
+presence,published,human / animal,Human_0106
+presence,published,human / animal,Human_0107
+presence,published,human / animal,Human_0108
+presence,published,human / animal,Human_0109
+presence,published,human / animal,Human_0110
+presence,published,human / animal,Human_0111
+presence,published,human / animal,Human_0112
+presence,published,human / animal,Human_0113
+presence,published,human / animal,Human_0116
+presence,published,human / animal,Human_0119
+presence,published,human / animal,Human_0120
+presence,published,human / animal,Human_0123
+presence,published,human / animal,Human_0124
+presence,published,human / animal,Human_0125
+presence,published,human / animal,Human_0127
+presence,published,human / animal,Human_0128
+presence,published,human / animal,Human_0130
+presence,published,human / animal,Human_0131
+presence,published,human / animal,Human_0132
+presence,published,human / animal,Human_0133
+presence,published,human / animal,Human_0134
+presence,published,human / animal,Human_0136
+presence,published,human / animal,Human_0139
+presence,published,human / animal,Human_0143
+presence,published,human / animal,Human_0145
+presence,published,human / animal,Human_0146
+presence,published,human / animal,Human_0147
+presence,published,human / animal,Human_0151
+presence,published,human / animal,Human_0153
+presence,published,human / animal,Human_0158
+presence,published,human / animal,Human_0159
+presence,published,human / animal,Human_0160
+presence,published,human / animal,Human_0161
+presence,published,human / animal,Human_0163
+presence,published,human / animal,Human_0169
+presence,published,human / animal,Human_0170
+presence,published,human / animal,Human_0171
+presence,published,human / animal,Human_0172
+presence,published,human / animal,Human_0174
+presence,published,human / animal,Human_0180
+presence,published,human / animal,Human_0181
+presence,published,human / animal,Human_0182
+presence,published,human / animal,Human_0184
+presence,published,human / animal,Human_0185
+presence,published,human / animal,Human_0186
+presence,published,human / animal,Human_0188
+presence,published,human / animal,Human_0201
+presence,published,human / animal,Human_0213
+presence,published,human / animal,Human_0217
+presence,published,human / animal,Human_0220
+presence,published,human / animal,Human_0222
+presence,published,human / animal,Human_0223
+presence,published,human / animal,Human_0224
+presence,published,human / animal,Human_0225
+presence,published,human / animal,Human_0226
+presence,published,human / animal,Human_0227
+presence,published,human / animal,Human_0228
+presence,published,human / animal,Human_0229
+presence,published,human / animal,Human_0230
+presence,published,human / animal,Human_0231
+presence,published,human / animal,Human_0232
+presence,published,human / animal,Human_0233
+presence,published,human / animal,Human_0234
+presence,published,human / animal,Human_0235
+presence,published,human / animal,Human_0236
+presence,published,human / animal,Human_0238
+presence,published,human / animal,Human_0239
+presence,published,human / animal,Human_0240
+presence,published,human / animal,Human_0241
+presence,published,human / animal,Human_0242
+presence,published,human / animal,Human_0243
+presence,published,human / animal,Human_0244
+presence,published,human / animal,Human_0245
+presence,published,human / animal,Human_0246
+presence,published,human / animal,Human_0247
+presence,published,human / animal,Human_0249
+presence,published,human / animal,Human_0250
+presence,published,human / animal,Human_0251
+presence,published,human / animal,Human_0254
+presence,published,human / animal,Human_0255
+presence,published,human / animal,Human_0257
+presence,published,human / animal,Human_0260
+presence,published,human / animal,Human_0261
+presence,published,human / animal,Human_0262
+presence,published,human / animal,Human_0263
+presence,published,human / animal,Human_0264
+presence,published,human / animal,Human_0265
+presence,published,human / animal,Human_0268
+presence,published,human / animal,Human_0269
+presence,published,human / animal,Human_0270
+presence,published,human / animal,Human_0271
+presence,published,human / animal,Human_0272
+presence,published,human / animal,Human_0273
+presence,published,human / animal,Human_0274
+presence,published,human / animal,Human_0275
+presence,published,human / animal,Human_0276
+presence,published,human / animal,Human_0277
+presence,published,human / animal,Human_0278
+presence,published,human / animal,Human_0279
+presence,published,human / animal,Human_0280
+presence,published,human / animal,Human_0281
+presence,published,human / animal,Human_0282
+presence,published,human / animal,Human_0283
+presence,published,human / animal,Human_0284
+presence,published,human / animal,Human_0285
+presence,published,human / animal,Human_0286
+presence,published,human / animal,Human_0287
+presence,published,human / animal,Human_0288
+presence,published,human / animal,Human_0289
+presence,published,human / animal,Human_0290
+presence,published,human / animal,Human_0291
+presence,published,human / animal,Human_0292
+presence,published,human / animal,Human_0293
+presence,published,human / animal,Human_0294
+presence,published,human / animal,Human_0295
+presence,published,human / animal,Human_0296
+presence,published,human / animal,Human_0297
+presence,published,human / animal,Human_0298
+presence,published,human / animal,Human_0299
+presence,published,human / animal,Human_0300
+presence,published,human / animal,Human_0301
+presence,published,human / animal,Human_0302
+presence,published,human / animal,Human_0303
+presence,published,human / animal,Human_0304
+presence,published,human / animal,Human_0305
+presence,published,human / animal,Human_0306
+presence,published,human / animal,Human_0307
+presence,published,human / animal,Human_0308
+presence,published,human / animal,Human_0309
+presence,published,human / animal,Human_0310
+presence,published,human / animal,Human_0311
+presence,published,human / animal,Human_0312
+presence,published,human / animal,Human_0313
+presence,published,human / animal,Human_0314
+presence,published,human / animal,Human_0315
+presence,published,human / animal,Human_0317
+presence,published,human / animal,Human_0318
+presence,published,human / animal,Human_0320
+presence,published,human / animal,Human_0321
+presence,published,human / animal,Human_0322
+presence,published,human / animal,Human_0323
+presence,published,human / animal,Human_0325
+presence,published,human / animal,Human_0326
+presence,published,human / animal,Human_0327
+presence,published,human / animal,Human_0328
+presence,published,human / animal,Human_0329
+presence,published,human / animal,Human_0330
+presence,published,human / animal,Human_0331
+presence,published,human / animal,Human_0332
+presence,published,human / animal,Human_0333
+presence,published,human / animal,Human_0335
+presence,published,human / animal,Human_0336
+presence,published,human / animal,Human_0337
+presence,published,human / animal,Human_0338
+presence,published,human / animal,Human_0339
+presence,published,human / animal,Human_0340
+presence,published,human / animal,Human_0341
+presence,published,human / animal,Human_0342
+presence,published,human / animal,Human_0343
+presence,published,human / animal,Human_0344
+presence,published,human / animal,Human_0345
+presence,published,human / animal,Human_0346
+presence,published,human / animal,Human_0347
+presence,published,human / animal,Human_0348
+presence,published,human / animal,Human_0350
+presence,published,human / animal,Human_0351
+presence,published,human / animal,Human_0352
+presence,published,human / animal,Human_0355
+presence,published,human / animal,Human_0356
+presence,published,human / animal,Human_0358
+presence,published,human / animal,Human_0360
+presence,published,human / animal,Human_0361
+presence,published,human / animal,Human_0362
+presence,published,human / animal,Human_0363
+presence,published,human / animal,Human_0364
+presence,published,human / animal,Human_0365
+presence,published,human / animal,Human_0366
+presence,published,human / animal,Human_0367
+presence,published,human / animal,Human_0369
+presence,published,human / animal,Human_0370
+presence,published,human / animal,Human_0371
+presence,published,human / animal,Human_0372
+presence,published,human / animal,Human_0373
+presence,published,human / animal,Human_0374
+presence,published,human / animal,Human_0375
+presence,published,human / animal,Human_0377
+presence,published,human / animal,Human_0378
+presence,published,human / animal,Human_0380
+presence,published,human / animal,Human_0381
+presence,published,human / animal,Human_0382
+presence,published,human / animal,Human_0383
+presence,published,human / animal,Human_0384
+presence,published,human / animal,Human_0385
+presence,published,human / animal,Human_0386
+presence,published,human / animal,Human_0387
+presence,published,human / animal,Human_0388
+presence,published,human / animal,Human_0389
+presence,published,human / animal,Human_0390
+presence,published,human / animal,Human_0392
+presence,published,human / animal,Human_0393
+presence,published,human / animal,Human_0394
+presence,published,human / animal,Human_0396
+presence,published,human / animal,Human_0397
+presence,published,human / animal,Human_0400
+presence,published,human / animal,Human_0402
+presence,published,human / animal,Human_0403
+presence,published,human / animal,Human_0405
+presence,published,human / animal,Human_0406
+presence,published,human / animal,Human_0407
+presence,published,human / animal,Human_0409
+presence,published,human / animal,Human_0410
+presence,published,human / animal,Human_0412
+presence,published,human / animal,Human_0413
+presence,published,human / animal,Human_0414
+presence,published,human / animal,Human_0415
+presence,published,human / animal,Human_0418
+presence,published,human / animal,Human_0422
+presence,published,human / animal,Human_0425
+presence,published,human / animal,Human_0426
+presence,published,human / animal,Human_0428
+presence,published,human / animal,Human_0429
+presence,published,human / animal,Human_0434
+presence,published,human / animal,Human_0435
+presence,published,human / animal,Human_0436
+presence,published,human / animal,Human_0437
+presence,published,human / animal,Human_0438
+presence,published,human / animal,Human_0449
+presence,published,human / animal,Human_0450
+presence,published,human / animal,Human_0451
+presence,published,human / animal,Human_0452
+presence,published,human / animal,Human_0453
+presence,published,human / animal,Human_0454
+presence,published,human / animal,Human_0455
+presence,published,human / animal,Human_0456
+presence,published,human / animal,Human_0457
+presence,published,human / animal,Human_0458
+presence,published,human / animal,Human_0459
+presence,published,human / animal,Human_0460
+presence,published,human / animal,Human_0461
+presence,published,human / animal,Human_0465
+presence,published,human / animal,Human_0466
+presence,published,human / animal,Human_0467
+presence,published,human / animal,Human_0468
+presence,published,human / animal,Human_0469
+presence,published,human / animal,Human_0470
+presence,published,human / animal,Human_0471
+presence,published,human / animal,Human_0472
+presence,published,human / animal,Human_0473
+presence,published,human / animal,Human_0474
+presence,published,human / animal,Human_0476
+presence,published,human / animal,Human_0477
+presence,published,human / animal,Human_0478
+presence,published,human / animal,Human_0479
+presence,published,human / animal,Human_0480
+presence,published,human / animal,Human_0481
+presence,published,human / animal,Human_0482
+presence,published,human / animal,Human_0483
+presence,published,human / animal,Human_0484
+presence,published,human / animal,Human_0485
+presence,published,human / animal,Human_0486
+presence,published,human / animal,Human_0487
+presence,published,human / animal,Human_0488
+presence,published,human / animal,Human_0489
+presence,published,human / animal,Human_0490
+presence,published,human / animal,Human_0491
+presence,published,human / animal,Human_0493
+presence,published,human / animal,Human_0494
+presence,published,human / animal,Human_0495
+presence,published,human / animal,Human_0496
+presence,published,human / animal,Human_0497
+presence,published,human / animal,Human_0498
+presence,published,human / animal,Human_0499
+presence,published,human / animal,Human_0500
+presence,published,human / animal,Human_0501
+presence,published,human / animal,Human_0502
+presence,published,human / animal,Human_0503
+presence,published,human / animal,Human_0504
+presence,published,human / animal,Human_0505
+presence,published,human / animal,Human_0506
+presence,published,human / animal,Human_0507
+presence,published,human / animal,Human_0508
+presence,published,human / animal,Human_0509
+presence,published,human / animal,Human_0510
+presence,published,human / animal,Human_0511
+presence,published,human / animal,Human_0513
+presence,published,human / animal,Human_0514
+presence,published,human / animal,Human_0515
+presence,published,human / animal,Human_0516
+presence,published,human / animal,Human_0517
+presence,published,human / animal,Human_0518
+presence,published,human / animal,Human_0519
+presence,published,human / animal,Human_0520
+presence,published,human / animal,Human_0521
+presence,published,human / animal,Human_0522
+presence,published,human / animal,Human_0523
+presence,published,human / animal,Human_0524
+presence,published,human / animal,Human_0525
+presence,published,human / animal,Human_0526
+presence,published,human / animal,Human_0527
+presence,published,human / animal,Human_0528
+presence,published,human / animal,Human_0530
+presence,published,fermented food / animal,Animal_0538
+presence,published,fermented food / animal,Animal_0542
+presence,published,fermented food / animal,Animal_0543
+presence,published,fermented food / animal,Animal_0556
+presence,published,fermented food / animal,Animal_0641
+presence,published,fermented food / animal,Animal_0645
+presence,published,fermented food / animal,Animal_0649
+presence,published,fermented food / animal,Animal_0651
+presence,published,fermented food / animal,Animal_0655
+presence,published,fermented food / animal,Animal_0660
+presence,published,fermented food / animal,Animal_0664
+presence,published,fermented food / animal,Animal_0668
+presence,published,fermented food / animal,Animal_0671
+presence,published,fermented food / animal,Animal_0686
+presence,published,fermented food / animal,Animal_0698
+presence,published,fermented food / animal,Animal_0704
+presence,published,fermented food / animal,Animal_0705
+presence,published,fermented food / animal,Animal_0709
+presence,published,fermented food / animal,Animal_0718
+presence,published,fermented food / animal,Animal_0719
+presence,published,fermented food / animal,Animal_0720
+presence,published,fermented food / animal,Animal_0721
+presence,published,fermented food / animal,Animal_0722
+presence,published,fermented food / animal,Animal_0724
+presence,published,fermented food / animal,Animal_0726
+presence,published,fermented food / animal,Animal_0727
+presence,published,fermented food / animal,Animal_0728
+presence,published,fermented food / animal,Chicken_0875
+presence,published,fermented food / animal,Chicken_0890
+presence,published,fermented food / animal,Chicken_0895
+presence,published,fermented food / animal,Chicken_0898
+presence,published,fermented food / animal,Chicken_0907
+presence,published,fermented food / animal,Chicken_0910
+presence,published,fermented food / animal,Chicken_0914
+presence,published,fermented food / animal,Chicken_0917
+presence,published,fermented food / animal,Chicken_0918
+presence,published,fermented food / animal,Chicken_0925
+presence,published,fermented food / animal,Chicken_0936
+presence,published,fermented food / animal,Chicken_0943
+presence,published,fermented food / animal,Chicken_0952
+presence,published,fermented food / animal,Chicken_0953
+presence,published,fermented food / animal,Chicken_0962
+presence,published,fermented food / animal,Chicken_0963
+presence,published,fermented food / animal,Chicken_0982
+presence,published,fermented food / animal,Chicken_0986
+presence,published,fermented food / animal,Chicken_0990
+presence,published,fermented food / animal,Chicken_1009
+presence,published,fermented food / animal,Chicken_1011
+presence,published,fermented food / animal,Chicken_1017
+presence,published,fermented food / animal,Chicken_1021
+presence,published,fermented food / animal,Chicken_1042
+presence,published,fermented food / animal,Chicken_1048
+presence,published,fermented food / animal,Chicken_1058
+presence,published,fermented food / animal,Chicken_1074
+presence,published,fermented food / animal,Chicken_1078
+presence,published,fermented food / animal,Chicken_1084
+presence,published,fermented food / animal,Chicken_1087
+presence,published,fermented food / animal,Chicken_1096
+presence,published,fermented food / animal,Chicken_1097
+presence,published,fermented food / animal,Chicken_1100
+presence,published,fermented food / animal,Chicken_1109
+presence,published,fermented food / animal,Chicken_1115
+presence,published,fermented food / animal,Chicken_1120
+presence,published,fermented food / animal,Chicken_1126
+presence,published,fermented food / animal,Chicken_1130
+presence,published,fermented food / animal,Chicken_1135
+presence,published,fermented food / animal,Chicken_1142
+presence,published,fermented food / animal,Chicken_1147
+presence,published,fermented food / animal,Chicken_1191
+presence,published,fermented food / animal,Chicken_1195
+presence,published,fermented food / animal,Chicken_1209
+presence,published,fermented food / animal,Chicken_1215
+presence,published,fermented food / animal,Chicken_1218
+presence,published,fermented food / animal,Chicken_1222
+presence,published,fermented food / animal,Chicken_1233
+presence,published,fermented food / animal,Chicken_1240
+presence,published,fermented food / animal,Chicken_1308
+presence,published,fermented food / animal,Chicken_1323
+presence,published,fermented food / animal,Chicken_1336
+presence,published,fermented food / animal,Chicken_1347
+presence,published,fermented food / animal,Chicken_1361
+presence,published,fermented food / animal,Chicken_1363
+presence,published,fermented food / animal,Chicken_1367
+presence,published,fermented food / animal,Chicken_1369
+presence,published,fermented food / animal,Chicken_1373
+presence,published,fermented food / animal,Chicken_1382
+presence,published,fermented food / animal,Chicken_1391
+presence,published,fermented food / animal,Chicken_1399
+presence,published,fermented food / animal,Chicken_1410
+presence,published,fermented food / animal,Chicken_1415
+presence,published,fermented food / animal,Chicken_1452
+presence,published,fermented food / animal,Chicken_1460
+presence,published,fermented food / animal,Chicken_1475
+presence,published,fermented food / animal,Chicken_1514
+presence,published,fermented food / animal,Chicken_1518
+presence,published,fermented food / animal,Chicken_1550
+presence,published,fermented food / animal,Chicken_1557
+presence,published,fermented food / animal,Chicken_1568
+presence,published,fermented food / animal,Chicken_1570
+presence,published,fermented food / animal,Chicken_1574
+presence,published,fermented food / animal,Chicken_1585
+presence,published,fermented food / animal,Chicken_1586
+presence,published,fermented food / animal,Chicken_1601
+presence,published,fermented food / animal,Chicken_1618
+presence,published,fermented food / animal,Chicken_1620
+presence,published,fermented food / animal,Chicken_1634
+presence,published,fermented food / animal,Chicken_1637
+presence,published,fermented food / animal,Chicken_1662
+presence,published,fermented food / animal,Chicken_1664
+presence,published,fermented food / animal,Chicken_1666
+presence,published,fermented food / animal,Chicken_1696
+presence,published,fermented food / animal,Chicken_1708
+presence,published,fermented food / animal,Chicken_1712
+presence,published,fermented food / animal,Chicken_1714
+presence,published,fermented food / animal,Chicken_1716
+presence,published,fermented food / animal,Chicken_1721
+presence,published,fermented food / animal,Chicken_1725
+presence,published,fermented food / animal,Chicken_1756
+presence,published,fermented food / animal,Chicken_1769
+presence,published,fermented food / animal,Chicken_1776
+presence,published,fermented food / animal,Chicken_1781
+presence,published,fermented food / animal,Chicken_1785
+presence,published,fermented food / animal,Chicken_1786
+presence,published,fermented food / animal,Chicken_1790
+presence,published,fermented food / animal,Chicken_1792
+presence,published,fermented food / animal,Chicken_1800
+presence,published,fermented food / animal,Chicken_1802
+presence,published,fermented food / animal,Chicken_1827
+presence,published,fermented food / animal,Chicken_1855
+presence,published,fermented food / animal,Chicken_1857
+presence,published,fermented food / animal,Chicken_1862
+presence,published,fermented food / animal,Chicken_1864
+presence,published,fermented food / animal,Chicken_1874
+presence,published,fermented food / animal,Chicken_1887
+presence,published,fermented food / animal,Chicken_1896
+presence,published,fermented food / animal,Chicken_1906
+presence,published,fermented food / animal,MAG_108
+presence,published,fermented food / animal,MAG_117
+presence,published,fermented food / animal,MAG_126
+presence,published,fermented food / animal,MAG_134
+presence,published,fermented food / animal,MAG_142
+presence,published,fermented food / animal,MAG_157
+presence,published,fermented food / animal,MAG_158
+presence,published,fermented food / animal,MAG_162
+presence,published,fermented food / animal,MAG_166
+presence,published,fermented food / animal,MAG_174
+presence,published,fermented food / animal,MAG_179
+presence,published,fermented food / animal,MAG_212
+presence,published,fermented food / animal,MAG_213
+presence,published,fermented food / animal,MAG_217
+presence,published,fermented food / animal,MAG_249
+presence,published,fermented food / animal,MAG_258
+presence,published,fermented food / animal,MAG_261
+presence,published,fermented food / animal,MAG_263
+presence,published,fermented food / animal,MAG_264
+presence,published,fermented food / animal,MAG_265
+presence,published,fermented food / animal,MAG_266
+presence,published,fermented food / animal,MAG_267
+presence,published,fermented food / animal,MAG_268
+presence,published,fermented food / animal,MAG_269
+presence,published,fermented food / animal,MAG_270
+presence,published,fermented food / animal,MAG_271
+presence,published,fermented food / animal,MAG_273
+presence,published,fermented food / animal,MAG_276
+presence,published,fermented food / animal,MAG_28
+presence,published,fermented food / animal,MAG_299
+presence,published,fermented food / animal,MAG_302
+presence,published,fermented food / animal,MAG_316
+presence,published,fermented food / animal,MAG_336
+presence,published,fermented food / animal,MAG_341
+presence,published,fermented food / animal,MAG_353
+presence,published,fermented food / animal,MAG_358
+presence,published,fermented food / animal,MAG_36
+presence,published,fermented food / animal,MAG_360
+presence,published,fermented food / animal,MAG_361
+presence,published,fermented food / animal,MAG_362
+presence,published,fermented food / animal,MAG_376
+presence,published,fermented food / animal,MAG_379
+presence,published,fermented food / animal,MAG_390
+presence,published,fermented food / animal,MAG_421
+presence,published,fermented food / animal,MAG_422
+presence,published,fermented food / animal,MAG_425
+presence,published,fermented food / animal,MAG_433
+presence,published,fermented food / animal,MAG_460
+presence,published,fermented food / animal,MAG_479
+presence,published,fermented food / animal,MAG_505
+presence,published,fermented food / animal,MAG_509
+presence,published,fermented food / animal,MAG_513
+presence,published,fermented food / animal,MAG_514
+presence,published,fermented food / animal,MAG_516
+presence,published,fermented food / animal,MAG_517
+presence,published,fermented food / animal,MAG_521
+presence,published,fermented food / animal,MAG_522
+presence,published,fermented food / animal,MAG_530
+presence,published,fermented food / animal,MAG_534
+presence,published,fermented food / animal,MAG_544
+presence,published,fermented food / animal,MAG_559
+presence,published,fermented food / animal,MAG_565
+presence,published,fermented food / animal,MAG_574
+presence,published,fermented food / animal,MAG_575
+presence,published,fermented food / animal,MAG_616
+presence,published,fermented food / animal,MAG_66
+presence,published,fermented food / animal,MAG_67
+presence,published,fermented food / animal,MAG_77
+presence,published,fermented food / human,Human_0001
+presence,published,fermented food / human,Human_0002
+presence,published,fermented food / human,Human_0004
+presence,published,fermented food / human,Human_0005
+presence,published,fermented food / human,Human_0007
+presence,published,fermented food / human,Human_0008
+presence,published,fermented food / human,Human_0010
+presence,published,fermented food / human,Human_0011
+presence,published,fermented food / human,Human_0012
+presence,published,fermented food / human,Human_0013
+presence,published,fermented food / human,Human_0015
+presence,published,fermented food / human,Human_0016
+presence,published,fermented food / human,Human_0017
+presence,published,fermented food / human,Human_0018
+presence,published,fermented food / human,Human_0019
+presence,published,fermented food / human,Human_0020
+presence,published,fermented food / human,Human_0021
+presence,published,fermented food / human,Human_0022
+presence,published,fermented food / human,Human_0024
+presence,published,fermented food / human,Human_0025
+presence,published,fermented food / human,Human_0026
+presence,published,fermented food / human,Human_0027
+presence,published,fermented food / human,Human_0028
+presence,published,fermented food / human,Human_0029
+presence,published,fermented food / human,Human_0032
+presence,published,fermented food / human,Human_0033
+presence,published,fermented food / human,Human_0034
+presence,published,fermented food / human,Human_0035
+presence,published,fermented food / human,Human_0036
+presence,published,fermented food / human,Human_0037
+presence,published,fermented food / human,Human_0038
+presence,published,fermented food / human,Human_0039
+presence,published,fermented food / human,Human_0040
+presence,published,fermented food / human,Human_0042
+presence,published,fermented food / human,Human_0043
+presence,published,fermented food / human,Human_0044
+presence,published,fermented food / human,Human_0045
+presence,published,fermented food / human,Human_0047
+presence,published,fermented food / human,Human_0048
+presence,published,fermented food / human,Human_0049
+presence,published,fermented food / human,Human_0051
+presence,published,fermented food / human,Human_0053
+presence,published,fermented food / human,Human_0054
+presence,published,fermented food / human,Human_0055
+presence,published,fermented food / human,Human_0073
+presence,published,fermented food / human,Human_0075
+presence,published,fermented food / human,Human_0081
+presence,published,fermented food / human,Human_0082
+presence,published,fermented food / human,Human_0091
+presence,published,fermented food / human,Human_0094
+presence,published,fermented food / human,Human_0098
+presence,published,fermented food / human,Human_0102
+presence,published,fermented food / human,Human_0105
+presence,published,fermented food / human,Human_0114
+presence,published,fermented food / human,Human_0115
+presence,published,fermented food / human,Human_0117
+presence,published,fermented food / human,Human_0118
+presence,published,fermented food / human,Human_0120
+presence,published,fermented food / human,Human_0121
+presence,published,fermented food / human,Human_0124
+presence,published,fermented food / human,Human_0127
+presence,published,fermented food / human,Human_0129
+presence,published,fermented food / human,Human_0130
+presence,published,fermented food / human,Human_0150
+presence,published,fermented food / human,Human_0153
+presence,published,fermented food / human,Human_0154
+presence,published,fermented food / human,Human_0156
+presence,published,fermented food / human,Human_0218
+presence,published,fermented food / human,Human_0219
+presence,published,fermented food / human,Human_0221
+presence,published,fermented food / human,Human_0222
+presence,published,fermented food / human,Human_0223
+presence,published,fermented food / human,Human_0224
+presence,published,fermented food / human,Human_0229
+presence,published,fermented food / human,Human_0244
+presence,published,fermented food / human,Human_0251
+presence,published,fermented food / human,Human_0252
+presence,published,fermented food / human,Human_0253
+presence,published,fermented food / human,Human_0256
+presence,published,fermented food / human,Human_0259
+presence,published,fermented food / human,Human_0266
+presence,published,fermented food / human,Human_0267
+presence,published,fermented food / human,Human_0304
+presence,published,fermented food / human,Human_0349
+presence,published,fermented food / human,Human_0353
+presence,published,fermented food / human,Human_0359
+presence,published,fermented food / human,Human_0368
+presence,published,fermented food / human,Human_0372
+presence,published,fermented food / human,Human_0379
+presence,published,fermented food / human,Human_0391
+presence,published,fermented food / human,Human_0393
+presence,published,fermented food / human,Human_0395
+presence,published,fermented food / human,Human_0399
+presence,published,fermented food / human,Human_0400
+presence,published,fermented food / human,Human_0402
+presence,published,fermented food / human,Human_0403
+presence,published,fermented food / human,Human_0404
+presence,published,fermented food / human,Human_0406
+presence,published,fermented food / human,Human_0407
+presence,published,fermented food / human,Human_0408
+presence,published,fermented food / human,Human_0409
+presence,published,fermented food / human,Human_0410
+presence,published,fermented food / human,Human_0411
+presence,published,fermented food / human,Human_0413
+presence,published,fermented food / human,Human_0415
+presence,published,fermented food / human,Human_0416
+presence,published,fermented food / human,Human_0417
+presence,published,fermented food / human,Human_0418
+presence,published,fermented food / human,Human_0419
+presence,published,fermented food / human,Human_0420
+presence,published,fermented food / human,Human_0421
+presence,published,fermented food / human,Human_0422
+presence,published,fermented food / human,Human_0425
+presence,published,fermented food / human,Human_0426
+presence,published,fermented food / human,Human_0431
+presence,published,fermented food / human,Human_0432
+presence,published,fermented food / human,Human_0433
+presence,published,fermented food / human,Human_0434
+presence,published,fermented food / human,Human_0435
+presence,published,fermented food / human,Human_0436
+presence,published,fermented food / human,Human_0437
+presence,published,fermented food / human,Human_0447
+presence,published,fermented food / human,Human_0448
+presence,published,fermented food / human,Human_0449
+presence,published,fermented food / human,Human_0450
+presence,published,fermented food / human,Human_0454
+presence,published,fermented food / human,Human_0461
+presence,published,fermented food / human,Human_0463
+presence,published,fermented food / human,Human_0467
+presence,published,fermented food / human,Human_0479
+presence,published,fermented food / human,Human_0480
+presence,published,fermented food / human,Human_0483
+presence,published,fermented food / human,Human_0485
+presence,published,fermented food / human,Human_0492
+presence,published,fermented food / human,Human_0503
+presence,published,fermented food / human,Human_0512
+presence,published,fermented food / human,Human_0523
+presence,published,fermented food / human,Human_0527
+presence,published,fermented food / human,Human_0529
+presence,published,fermented food / human,MAG_101
+presence,published,fermented food / human,MAG_108
+presence,published,fermented food / human,MAG_115
+presence,published,fermented food / human,MAG_117
+presence,published,fermented food / human,MAG_126
+presence,published,fermented food / human,MAG_129
+presence,published,fermented food / human,MAG_134
+presence,published,fermented food / human,MAG_135
+presence,published,fermented food / human,MAG_144
+presence,published,fermented food / human,MAG_151
+presence,published,fermented food / human,MAG_157
+presence,published,fermented food / human,MAG_158
+presence,published,fermented food / human,MAG_162
+presence,published,fermented food / human,MAG_166
+presence,published,fermented food / human,MAG_174
+presence,published,fermented food / human,MAG_179
+presence,published,fermented food / human,MAG_181
+presence,published,fermented food / human,MAG_192
+presence,published,fermented food / human,MAG_212
+presence,published,fermented food / human,MAG_213
+presence,published,fermented food / human,MAG_217
+presence,published,fermented food / human,MAG_246
+presence,published,fermented food / human,MAG_258
+presence,published,fermented food / human,MAG_261
+presence,published,fermented food / human,MAG_264
+presence,published,fermented food / human,MAG_266
+presence,published,fermented food / human,MAG_267
+presence,published,fermented food / human,MAG_269
+presence,published,fermented food / human,MAG_273
+presence,published,fermented food / human,MAG_274
+presence,published,fermented food / human,MAG_276
+presence,published,fermented food / human,MAG_277
+presence,published,fermented food / human,MAG_28
+presence,published,fermented food / human,MAG_299
+presence,published,fermented food / human,MAG_304
+presence,published,fermented food / human,MAG_316
+presence,published,fermented food / human,MAG_324
+presence,published,fermented food / human,MAG_353
+presence,published,fermented food / human,MAG_355
+presence,published,fermented food / human,MAG_358
+presence,published,fermented food / human,MAG_36
+presence,published,fermented food / human,MAG_360
+presence,published,fermented food / human,MAG_361
+presence,published,fermented food / human,MAG_362
+presence,published,fermented food / human,MAG_376
+presence,published,fermented food / human,MAG_379
+presence,published,fermented food / human,MAG_385
+presence,published,fermented food / human,MAG_390
+presence,published,fermented food / human,MAG_401
+presence,published,fermented food / human,MAG_41
+presence,published,fermented food / human,MAG_414
+presence,published,fermented food / human,MAG_421
+presence,published,fermented food / human,MAG_422
+presence,published,fermented food / human,MAG_425
+presence,published,fermented food / human,MAG_433
+presence,published,fermented food / human,MAG_44
+presence,published,fermented food / human,MAG_460
+presence,published,fermented food / human,MAG_466
+presence,published,fermented food / human,MAG_475
+presence,published,fermented food / human,MAG_476
+presence,published,fermented food / human,MAG_477
+presence,published,fermented food / human,MAG_479
+presence,published,fermented food / human,MAG_495
+presence,published,fermented food / human,MAG_498
+presence,published,fermented food / human,MAG_499
+presence,published,fermented food / human,MAG_503
+presence,published,fermented food / human,MAG_505
+presence,published,fermented food / human,MAG_508
+presence,published,fermented food / human,MAG_511
+presence,published,fermented food / human,MAG_513
+presence,published,fermented food / human,MAG_516
+presence,published,fermented food / human,MAG_517
+presence,published,fermented food / human,MAG_521
+presence,published,fermented food / human,MAG_522
+presence,published,fermented food / human,MAG_525
+presence,published,fermented food / human,MAG_530
+presence,published,fermented food / human,MAG_532
+presence,published,fermented food / human,MAG_534
+presence,published,fermented food / human,MAG_537
+presence,published,fermented food / human,MAG_55
+presence,published,fermented food / human,MAG_559
+presence,published,fermented food / human,MAG_565
+presence,published,fermented food / human,MAG_569
+presence,published,fermented food / human,MAG_572
+presence,published,fermented food / human,MAG_574
+presence,published,fermented food / human,MAG_575
+presence,published,fermented food / human,MAG_58
+presence,published,fermented food / human,MAG_59
+presence,published,fermented food / human,MAG_616
+presence,published,fermented food / human,MAG_64
+presence,published,fermented food / human,MAG_66
+presence,published,fermented food / human,MAG_67
+presence,published,fermented food / human,MAG_77
+presence,published,fermented food / human,MAG_88
+presence,published,fermented food / human,MAG_93
+count,high,human / animal,Animal_0554
+count,high,human / animal,Animal_0555
+count,high,human / animal,Animal_0556
+count,high,human / animal,Animal_0557
+count,high,human / animal,Animal_0558
+count,high,human / animal,Animal_0564
+count,high,human / animal,Animal_0566
+count,high,human / animal,Animal_0577
+count,high,human / animal,Animal_0580
+count,high,human / animal,Animal_0611
+count,high,human / animal,Animal_0629
+count,high,human / animal,Animal_0637
+count,high,human / animal,Animal_0651
+count,high,human / animal,Animal_0655
+count,high,human / animal,Animal_0656
+count,high,human / animal,Animal_0662
+count,high,human / animal,Animal_0664
+count,high,human / animal,Animal_0666
+count,high,human / animal,Animal_0669
+count,high,human / animal,Animal_0671
+count,high,human / animal,Animal_0672
+count,high,human / animal,Animal_0673
+count,high,human / animal,Animal_0674
+count,high,human / animal,Animal_0679
+count,high,human / animal,Animal_0686
+count,high,human / animal,Animal_0687
+count,high,human / animal,Animal_0691
+count,high,human / animal,Animal_0719
+count,high,human / animal,Animal_0720
+count,high,human / animal,Animal_0724
+count,high,human / animal,Chicken_0877
+count,high,human / animal,Chicken_0880
+count,high,human / animal,Chicken_0881
+count,high,human / animal,Chicken_0882
+count,high,human / animal,Chicken_0884
+count,high,human / animal,Chicken_0893
+count,high,human / animal,Chicken_0902
+count,high,human / animal,Chicken_0903
+count,high,human / animal,Chicken_0907
+count,high,human / animal,Chicken_0911
+count,high,human / animal,Chicken_0914
+count,high,human / animal,Chicken_0915
+count,high,human / animal,Chicken_0930
+count,high,human / animal,Chicken_0936
+count,high,human / animal,Chicken_0942
+count,high,human / animal,Chicken_0947
+count,high,human / animal,Chicken_0949
+count,high,human / animal,Chicken_0958
+count,high,human / animal,Chicken_0960
+count,high,human / animal,Chicken_0963
+count,high,human / animal,Chicken_0971
+count,high,human / animal,Chicken_0973
+count,high,human / animal,Chicken_0975
+count,high,human / animal,Chicken_0977
+count,high,human / animal,Chicken_0978
+count,high,human / animal,Chicken_0981
+count,high,human / animal,Chicken_0987
+count,high,human / animal,Chicken_0991
+count,high,human / animal,Chicken_0993
+count,high,human / animal,Chicken_0996
+count,high,human / animal,Chicken_0999
+count,high,human / animal,Chicken_1000
+count,high,human / animal,Chicken_1009
+count,high,human / animal,Chicken_1015
+count,high,human / animal,Chicken_1021
+count,high,human / animal,Chicken_1022
+count,high,human / animal,Chicken_1023
+count,high,human / animal,Chicken_1030
+count,high,human / animal,Chicken_1042
+count,high,human / animal,Chicken_1046
+count,high,human / animal,Chicken_1054
+count,high,human / animal,Chicken_1057
+count,high,human / animal,Chicken_1059
+count,high,human / animal,Chicken_1068
+count,high,human / animal,Chicken_1091
+count,high,human / animal,Chicken_1099
+count,high,human / animal,Chicken_1100
+count,high,human / animal,Chicken_1102
+count,high,human / animal,Chicken_1109
+count,high,human / animal,Chicken_1115
+count,high,human / animal,Chicken_1120
+count,high,human / animal,Chicken_1121
+count,high,human / animal,Chicken_1122
+count,high,human / animal,Chicken_1124
+count,high,human / animal,Chicken_1125
+count,high,human / animal,Chicken_1135
+count,high,human / animal,Chicken_1140
+count,high,human / animal,Chicken_1144
+count,high,human / animal,Chicken_1148
+count,high,human / animal,Chicken_1149
+count,high,human / animal,Chicken_1150
+count,high,human / animal,Chicken_1156
+count,high,human / animal,Chicken_1165
+count,high,human / animal,Chicken_1192
+count,high,human / animal,Chicken_1193
+count,high,human / animal,Chicken_1194
+count,high,human / animal,Chicken_1195
+count,high,human / animal,Chicken_1209
+count,high,human / animal,Chicken_1213
+count,high,human / animal,Chicken_1214
+count,high,human / animal,Chicken_1215
+count,high,human / animal,Chicken_1223
+count,high,human / animal,Chicken_1229
+count,high,human / animal,Chicken_1233
+count,high,human / animal,Chicken_1234
+count,high,human / animal,Chicken_1237
+count,high,human / animal,Chicken_1238
+count,high,human / animal,Chicken_1239
+count,high,human / animal,Chicken_1267
+count,high,human / animal,Chicken_1272
+count,high,human / animal,Chicken_1277
+count,high,human / animal,Chicken_1279
+count,high,human / animal,Chicken_1284
+count,high,human / animal,Chicken_1286
+count,high,human / animal,Chicken_1291
+count,high,human / animal,Chicken_1292
+count,high,human / animal,Chicken_1297
+count,high,human / animal,Chicken_1301
+count,high,human / animal,Chicken_1328
+count,high,human / animal,Chicken_1332
+count,high,human / animal,Chicken_1339
+count,high,human / animal,Chicken_1341
+count,high,human / animal,Chicken_1343
+count,high,human / animal,Chicken_1344
+count,high,human / animal,Chicken_1348
+count,high,human / animal,Chicken_1349
+count,high,human / animal,Chicken_1351
+count,high,human / animal,Chicken_1359
+count,high,human / animal,Chicken_1361
+count,high,human / animal,Chicken_1363
+count,high,human / animal,Chicken_1369
+count,high,human / animal,Chicken_1370
+count,high,human / animal,Chicken_1371
+count,high,human / animal,Chicken_1377
+count,high,human / animal,Chicken_1381
+count,high,human / animal,Chicken_1389
+count,high,human / animal,Chicken_1398
+count,high,human / animal,Chicken_1408
+count,high,human / animal,Chicken_1409
+count,high,human / animal,Chicken_1411
+count,high,human / animal,Chicken_1417
+count,high,human / animal,Chicken_1419
+count,high,human / animal,Chicken_1422
+count,high,human / animal,Chicken_1430
+count,high,human / animal,Chicken_1432
+count,high,human / animal,Chicken_1440
+count,high,human / animal,Chicken_1460
+count,high,human / animal,Chicken_1463
+count,high,human / animal,Chicken_1469
+count,high,human / animal,Chicken_1474
+count,high,human / animal,Chicken_1483
+count,high,human / animal,Chicken_1484
+count,high,human / animal,Chicken_1493
+count,high,human / animal,Chicken_1500
+count,high,human / animal,Chicken_1506
+count,high,human / animal,Chicken_1513
+count,high,human / animal,Chicken_1514
+count,high,human / animal,Chicken_1519
+count,high,human / animal,Chicken_1527
+count,high,human / animal,Chicken_1543
+count,high,human / animal,Chicken_1546
+count,high,human / animal,Chicken_1553
+count,high,human / animal,Chicken_1566
+count,high,human / animal,Chicken_1569
+count,high,human / animal,Chicken_1575
+count,high,human / animal,Chicken_1579
+count,high,human / animal,Chicken_1580
+count,high,human / animal,Chicken_1594
+count,high,human / animal,Chicken_1596
+count,high,human / animal,Chicken_1605
+count,high,human / animal,Chicken_1607
+count,high,human / animal,Chicken_1608
+count,high,human / animal,Chicken_1609
+count,high,human / animal,Chicken_1616
+count,high,human / animal,Chicken_1618
+count,high,human / animal,Chicken_1622
+count,high,human / animal,Chicken_1629
+count,high,human / animal,Chicken_1631
+count,high,human / animal,Chicken_1642
+count,high,human / animal,Chicken_1648
+count,high,human / animal,Chicken_1651
+count,high,human / animal,Chicken_1652
+count,high,human / animal,Chicken_1655
+count,high,human / animal,Chicken_1660
+count,high,human / animal,Chicken_1664
+count,high,human / animal,Chicken_1666
+count,high,human / animal,Chicken_1667
+count,high,human / animal,Chicken_1675
+count,high,human / animal,Chicken_1681
+count,high,human / animal,Chicken_1682
+count,high,human / animal,Chicken_1683
+count,high,human / animal,Chicken_1693
+count,high,human / animal,Chicken_1695
+count,high,human / animal,Chicken_1696
+count,high,human / animal,Chicken_1708
+count,high,human / animal,Chicken_1712
+count,high,human / animal,Chicken_1713
+count,high,human / animal,Chicken_1715
+count,high,human / animal,Chicken_1716
+count,high,human / animal,Chicken_1722
+count,high,human / animal,Chicken_1724
+count,high,human / animal,Chicken_1725
+count,high,human / animal,Chicken_1735
+count,high,human / animal,Chicken_1736
+count,high,human / animal,Chicken_1745
+count,high,human / animal,Chicken_1754
+count,high,human / animal,Chicken_1756
+count,high,human / animal,Chicken_1764
+count,high,human / animal,Chicken_1766
+count,high,human / animal,Chicken_1772
+count,high,human / animal,Chicken_1774
+count,high,human / animal,Chicken_1776
+count,high,human / animal,Chicken_1782
+count,high,human / animal,Chicken_1786
+count,high,human / animal,Chicken_1790
+count,high,human / animal,Chicken_1811
+count,high,human / animal,Chicken_1813
+count,high,human / animal,Chicken_1817
+count,high,human / animal,Chicken_1818
+count,high,human / animal,Chicken_1819
+count,high,human / animal,Chicken_1824
+count,high,human / animal,Chicken_1836
+count,high,human / animal,Chicken_1839
+count,high,human / animal,Chicken_1849
+count,high,human / animal,Chicken_1851
+count,high,human / animal,Chicken_1853
+count,high,human / animal,Chicken_1858
+count,high,human / animal,Chicken_1859
+count,high,human / animal,Chicken_1861
+count,high,human / animal,Chicken_1865
+count,high,human / animal,Chicken_1869
+count,high,human / animal,Chicken_1872
+count,high,human / animal,Chicken_1874
+count,high,human / animal,Chicken_1889
+count,high,human / animal,Chicken_1891
+count,high,human / animal,Chicken_1899
+count,high,human / animal,Chicken_1900
+count,high,human / animal,Human_0004
+count,high,human / animal,Human_0010
+count,high,human / animal,Human_0013
+count,high,human / animal,Human_0017
+count,high,human / animal,Human_0018
+count,high,human / animal,Human_0028
+count,high,human / animal,Human_0030
+count,high,human / animal,Human_0031
+count,high,human / animal,Human_0038
+count,high,human / animal,Human_0039
+count,high,human / animal,Human_0051
+count,high,human / animal,Human_0054
+count,high,human / animal,Human_0055
+count,high,human / animal,Human_0063
+count,high,human / animal,Human_0073
+count,high,human / animal,Human_0076
+count,high,human / animal,Human_0077
+count,high,human / animal,Human_0079
+count,high,human / animal,Human_0083
+count,high,human / animal,Human_0084
+count,high,human / animal,Human_0086
+count,high,human / animal,Human_0088
+count,high,human / animal,Human_0090
+count,high,human / animal,Human_0093
+count,high,human / animal,Human_0097
+count,high,human / animal,Human_0098
+count,high,human / animal,Human_0099
+count,high,human / animal,Human_0100
+count,high,human / animal,Human_0101
+count,high,human / animal,Human_0105
+count,high,human / animal,Human_0106
+count,high,human / animal,Human_0107
+count,high,human / animal,Human_0108
+count,high,human / animal,Human_0111
+count,high,human / animal,Human_0120
+count,high,human / animal,Human_0124
+count,high,human / animal,Human_0125
+count,high,human / animal,Human_0127
+count,high,human / animal,Human_0128
+count,high,human / animal,Human_0139
+count,high,human / animal,Human_0145
+count,high,human / animal,Human_0151
+count,high,human / animal,Human_0159
+count,high,human / animal,Human_0160
+count,high,human / animal,Human_0169
+count,high,human / animal,Human_0172
+count,high,human / animal,Human_0201
+count,high,human / animal,Human_0217
+count,high,human / animal,Human_0223
+count,high,human / animal,Human_0225
+count,high,human / animal,Human_0226
+count,high,human / animal,Human_0233
+count,high,human / animal,Human_0236
+count,high,human / animal,Human_0239
+count,high,human / animal,Human_0240
+count,high,human / animal,Human_0241
+count,high,human / animal,Human_0244
+count,high,human / animal,Human_0247
+count,high,human / animal,Human_0250
+count,high,human / animal,Human_0257
+count,high,human / animal,Human_0268
+count,high,human / animal,Human_0272
+count,high,human / animal,Human_0285
+count,high,human / animal,Human_0291
+count,high,human / animal,Human_0298
+count,high,human / animal,Human_0299
+count,high,human / animal,Human_0307
+count,high,human / animal,Human_0310
+count,high,human / animal,Human_0311
+count,high,human / animal,Human_0312
+count,high,human / animal,Human_0314
+count,high,human / animal,Human_0315
+count,high,human / animal,Human_0320
+count,high,human / animal,Human_0324
+count,high,human / animal,Human_0328
+count,high,human / animal,Human_0332
+count,high,human / animal,Human_0333
+count,high,human / animal,Human_0336
+count,high,human / animal,Human_0339
+count,high,human / animal,Human_0340
+count,high,human / animal,Human_0342
+count,high,human / animal,Human_0347
+count,high,human / animal,Human_0351
+count,high,human / animal,Human_0352
+count,high,human / animal,Human_0366
+count,high,human / animal,Human_0370
+count,high,human / animal,Human_0371
+count,high,human / animal,Human_0372
+count,high,human / animal,Human_0377
+count,high,human / animal,Human_0378
+count,high,human / animal,Human_0381
+count,high,human / animal,Human_0390
+count,high,human / animal,Human_0394
+count,high,human / animal,Human_0397
+count,high,human / animal,Human_0400
+count,high,human / animal,Human_0402
+count,high,human / animal,Human_0403
+count,high,human / animal,Human_0405
+count,high,human / animal,Human_0407
+count,high,human / animal,Human_0409
+count,high,human / animal,Human_0410
+count,high,human / animal,Human_0413
+count,high,human / animal,Human_0414
+count,high,human / animal,Human_0415
+count,high,human / animal,Human_0418
+count,high,human / animal,Human_0422
+count,high,human / animal,Human_0425
+count,high,human / animal,Human_0426
+count,high,human / animal,Human_0434
+count,high,human / animal,Human_0437
+count,high,human / animal,Human_0449
+count,high,human / animal,Human_0450
+count,high,human / animal,Human_0451
+count,high,human / animal,Human_0455
+count,high,human / animal,Human_0456
+count,high,human / animal,Human_0457
+count,high,human / animal,Human_0458
+count,high,human / animal,Human_0459
+count,high,human / animal,Human_0465
+count,high,human / animal,Human_0467
+count,high,human / animal,Human_0471
+count,high,human / animal,Human_0476
+count,high,human / animal,Human_0479
+count,high,human / animal,Human_0480
+count,high,human / animal,Human_0483
+count,high,human / animal,Human_0484
+count,high,human / animal,Human_0485
+count,high,human / animal,Human_0488
+count,high,human / animal,Human_0496
+count,high,human / animal,Human_0499
+count,high,human / animal,Human_0500
+count,high,human / animal,Human_0501
+count,high,human / animal,Human_0504
+count,high,human / animal,Human_0510
+count,high,human / animal,Human_0513
+count,high,human / animal,Human_0516
+count,high,human / animal,Human_0517
+count,high,human / animal,Human_0519
+count,high,human / animal,Human_0521
+count,high,human / animal,Human_0523
+count,high,human / animal,Human_0525
+count,high,human / animal,Human_0528
+count,high,fermented food / animal,Animal_0556
+count,high,fermented food / animal,Animal_0724
+count,high,fermented food / animal,Chicken_0910
+count,high,fermented food / animal,Chicken_0917
+count,high,fermented food / animal,Chicken_1078
+count,high,fermented food / animal,Chicken_1109
+count,high,fermented food / animal,Chicken_1454
+count,high,fermented food / animal,Chicken_1460
+count,high,fermented food / animal,Chicken_1561
+count,high,fermented food / animal,Chicken_1874
+count,high,fermented food / animal,MAG_157
+count,high,fermented food / animal,MAG_158
+count,high,fermented food / animal,MAG_162
+count,high,fermented food / animal,MAG_179
+count,high,fermented food / animal,MAG_212
+count,high,fermented food / animal,MAG_258
+count,high,fermented food / animal,MAG_261
+count,high,fermented food / animal,MAG_264
+count,high,fermented food / animal,MAG_266
+count,high,fermented food / animal,MAG_28
+count,high,fermented food / animal,MAG_316
+count,high,fermented food / animal,MAG_353
+count,high,fermented food / animal,MAG_421
+count,high,fermented food / animal,MAG_425
+count,high,fermented food / animal,MAG_460
+count,high,fermented food / animal,MAG_479
+count,high,fermented food / animal,MAG_505
+count,high,fermented food / animal,MAG_516
+count,high,fermented food / animal,MAG_522
+count,high,fermented food / animal,MAG_559
+count,high,fermented food / animal,MAG_560
+count,high,fermented food / animal,MAG_575
+count,high,fermented food / animal,MAG_60
+count,high,fermented food / animal,MAG_616
+count,high,fermented food / animal,MAG_67
+count,high,fermented food / human,Human_0001
+count,high,fermented food / human,Human_0002
+count,high,fermented food / human,Human_0004
+count,high,fermented food / human,Human_0005
+count,high,fermented food / human,Human_0008
+count,high,fermented food / human,Human_0010
+count,high,fermented food / human,Human_0012
+count,high,fermented food / human,Human_0013
+count,high,fermented food / human,Human_0015
+count,high,fermented food / human,Human_0017
+count,high,fermented food / human,Human_0018
+count,high,fermented food / human,Human_0021
+count,high,fermented food / human,Human_0022
+count,high,fermented food / human,Human_0027
+count,high,fermented food / human,Human_0028
+count,high,fermented food / human,Human_0032
+count,high,fermented food / human,Human_0033
+count,high,fermented food / human,Human_0034
+count,high,fermented food / human,Human_0035
+count,high,fermented food / human,Human_0038
+count,high,fermented food / human,Human_0042
+count,high,fermented food / human,Human_0045
+count,high,fermented food / human,Human_0047
+count,high,fermented food / human,Human_0048
+count,high,fermented food / human,Human_0051
+count,high,fermented food / human,Human_0054
+count,high,fermented food / human,Human_0055
+count,high,fermented food / human,Human_0091
+count,high,fermented food / human,Human_0094
+count,high,fermented food / human,Human_0098
+count,high,fermented food / human,Human_0115
+count,high,fermented food / human,Human_0120
+count,high,fermented food / human,Human_0127
+count,high,fermented food / human,Human_0156
+count,high,fermented food / human,Human_0219
+count,high,fermented food / human,Human_0221
+count,high,fermented food / human,Human_0267
+count,high,fermented food / human,Human_0359
+count,high,fermented food / human,Human_0368
+count,high,fermented food / human,Human_0379
+count,high,fermented food / human,Human_0399
+count,high,fermented food / human,Human_0400
+count,high,fermented food / human,Human_0402
+count,high,fermented food / human,Human_0403
+count,high,fermented food / human,Human_0407
+count,high,fermented food / human,Human_0408
+count,high,fermented food / human,Human_0409
+count,high,fermented food / human,Human_0410
+count,high,fermented food / human,Human_0413
+count,high,fermented food / human,Human_0415
+count,high,fermented food / human,Human_0417
+count,high,fermented food / human,Human_0418
+count,high,fermented food / human,Human_0419
+count,high,fermented food / human,Human_0420
+count,high,fermented food / human,Human_0421
+count,high,fermented food / human,Human_0422
+count,high,fermented food / human,Human_0425
+count,high,fermented food / human,Human_0426
+count,high,fermented food / human,Human_0431
+count,high,fermented food / human,Human_0432
+count,high,fermented food / human,Human_0434
+count,high,fermented food / human,Human_0437
+count,high,fermented food / human,Human_0447
+count,high,fermented food / human,Human_0449
+count,high,fermented food / human,Human_0463
+count,high,fermented food / human,Human_0467
+count,high,fermented food / human,Human_0483
+count,high,fermented food / human,Human_0485
+count,high,fermented food / human,Human_0529
+count,high,fermented food / human,MAG_151
+count,high,fermented food / human,MAG_157
+count,high,fermented food / human,MAG_158
+count,high,fermented food / human,MAG_162
+count,high,fermented food / human,MAG_179
+count,high,fermented food / human,MAG_181
+count,high,fermented food / human,MAG_192
+count,high,fermented food / human,MAG_212
+count,high,fermented food / human,MAG_258
+count,high,fermented food / human,MAG_261
+count,high,fermented food / human,MAG_264
+count,high,fermented food / human,MAG_266
+count,high,fermented food / human,MAG_274
+count,high,fermented food / human,MAG_28
+count,high,fermented food / human,MAG_316
+count,high,fermented food / human,MAG_353
+count,high,fermented food / human,MAG_355
+count,high,fermented food / human,MAG_385
+count,high,fermented food / human,MAG_414
+count,high,fermented food / human,MAG_421
+count,high,fermented food / human,MAG_425
+count,high,fermented food / human,MAG_44
+count,high,fermented food / human,MAG_460
+count,high,fermented food / human,MAG_466
+count,high,fermented food / human,MAG_475
+count,high,fermented food / human,MAG_476
+count,high,fermented food / human,MAG_477
+count,high,fermented food / human,MAG_479
+count,high,fermented food / human,MAG_498
+count,high,fermented food / human,MAG_503
+count,high,fermented food / human,MAG_505
+count,high,fermented food / human,MAG_511
+count,high,fermented food / human,MAG_516
+count,high,fermented food / human,MAG_522
+count,high,fermented food / human,MAG_532
+count,high,fermented food / human,MAG_559
+count,high,fermented food / human,MAG_575
+count,high,fermented food / human,MAG_616
+count,high,fermented food / human,MAG_67
+presence,high,human / animal,Animal_0554
+presence,high,human / animal,Animal_0555
+presence,high,human / animal,Animal_0556
+presence,high,human / animal,Animal_0557
+presence,high,human / animal,Animal_0558
+presence,high,human / animal,Animal_0564
+presence,high,human / animal,Animal_0566
+presence,high,human / animal,Animal_0577
+presence,high,human / animal,Animal_0580
+presence,high,human / animal,Animal_0611
+presence,high,human / animal,Animal_0629
+presence,high,human / animal,Animal_0637
+presence,high,human / animal,Animal_0651
+presence,high,human / animal,Animal_0655
+presence,high,human / animal,Animal_0656
+presence,high,human / animal,Animal_0662
+presence,high,human / animal,Animal_0664
+presence,high,human / animal,Animal_0666
+presence,high,human / animal,Animal_0669
+presence,high,human / animal,Animal_0671
+presence,high,human / animal,Animal_0672
+presence,high,human / animal,Animal_0673
+presence,high,human / animal,Animal_0674
+presence,high,human / animal,Animal_0679
+presence,high,human / animal,Animal_0686
+presence,high,human / animal,Animal_0687
+presence,high,human / animal,Animal_0691
+presence,high,human / animal,Animal_0719
+presence,high,human / animal,Animal_0720
+presence,high,human / animal,Chicken_0877
+presence,high,human / animal,Chicken_0880
+presence,high,human / animal,Chicken_0881
+presence,high,human / animal,Chicken_0882
+presence,high,human / animal,Chicken_0884
+presence,high,human / animal,Chicken_0893
+presence,high,human / animal,Chicken_0903
+presence,high,human / animal,Chicken_0907
+presence,high,human / animal,Chicken_0911
+presence,high,human / animal,Chicken_0914
+presence,high,human / animal,Chicken_0915
+presence,high,human / animal,Chicken_0930
+presence,high,human / animal,Chicken_0936
+presence,high,human / animal,Chicken_0942
+presence,high,human / animal,Chicken_0947
+presence,high,human / animal,Chicken_0949
+presence,high,human / animal,Chicken_0958
+presence,high,human / animal,Chicken_0960
+presence,high,human / animal,Chicken_0963
+presence,high,human / animal,Chicken_0971
+presence,high,human / animal,Chicken_0973
+presence,high,human / animal,Chicken_0975
+presence,high,human / animal,Chicken_0977
+presence,high,human / animal,Chicken_0978
+presence,high,human / animal,Chicken_0987
+presence,high,human / animal,Chicken_0991
+presence,high,human / animal,Chicken_0993
+presence,high,human / animal,Chicken_0996
+presence,high,human / animal,Chicken_0999
+presence,high,human / animal,Chicken_1000
+presence,high,human / animal,Chicken_1009
+presence,high,human / animal,Chicken_1015
+presence,high,human / animal,Chicken_1021
+presence,high,human / animal,Chicken_1022
+presence,high,human / animal,Chicken_1023
+presence,high,human / animal,Chicken_1030
+presence,high,human / animal,Chicken_1042
+presence,high,human / animal,Chicken_1046
+presence,high,human / animal,Chicken_1054
+presence,high,human / animal,Chicken_1057
+presence,high,human / animal,Chicken_1059
+presence,high,human / animal,Chicken_1068
+presence,high,human / animal,Chicken_1091
+presence,high,human / animal,Chicken_1099
+presence,high,human / animal,Chicken_1100
+presence,high,human / animal,Chicken_1102
+presence,high,human / animal,Chicken_1115
+presence,high,human / animal,Chicken_1120
+presence,high,human / animal,Chicken_1121
+presence,high,human / animal,Chicken_1122
+presence,high,human / animal,Chicken_1124
+presence,high,human / animal,Chicken_1125
+presence,high,human / animal,Chicken_1135
+presence,high,human / animal,Chicken_1140
+presence,high,human / animal,Chicken_1144
+presence,high,human / animal,Chicken_1148
+presence,high,human / animal,Chicken_1149
+presence,high,human / animal,Chicken_1150
+presence,high,human / animal,Chicken_1156
+presence,high,human / animal,Chicken_1192
+presence,high,human / animal,Chicken_1193
+presence,high,human / animal,Chicken_1194
+presence,high,human / animal,Chicken_1195
+presence,high,human / animal,Chicken_1209
+presence,high,human / animal,Chicken_1213
+presence,high,human / animal,Chicken_1214
+presence,high,human / animal,Chicken_1215
+presence,high,human / animal,Chicken_1223
+presence,high,human / animal,Chicken_1229
+presence,high,human / animal,Chicken_1233
+presence,high,human / animal,Chicken_1234
+presence,high,human / animal,Chicken_1237
+presence,high,human / animal,Chicken_1238
+presence,high,human / animal,Chicken_1239
+presence,high,human / animal,Chicken_1267
+presence,high,human / animal,Chicken_1272
+presence,high,human / animal,Chicken_1277
+presence,high,human / animal,Chicken_1279
+presence,high,human / animal,Chicken_1284
+presence,high,human / animal,Chicken_1286
+presence,high,human / animal,Chicken_1291
+presence,high,human / animal,Chicken_1292
+presence,high,human / animal,Chicken_1297
+presence,high,human / animal,Chicken_1301
+presence,high,human / animal,Chicken_1328
+presence,high,human / animal,Chicken_1332
+presence,high,human / animal,Chicken_1339
+presence,high,human / animal,Chicken_1341
+presence,high,human / animal,Chicken_1343
+presence,high,human / animal,Chicken_1344
+presence,high,human / animal,Chicken_1348
+presence,high,human / animal,Chicken_1349
+presence,high,human / animal,Chicken_1351
+presence,high,human / animal,Chicken_1359
+presence,high,human / animal,Chicken_1361
+presence,high,human / animal,Chicken_1363
+presence,high,human / animal,Chicken_1369
+presence,high,human / animal,Chicken_1370
+presence,high,human / animal,Chicken_1371
+presence,high,human / animal,Chicken_1377
+presence,high,human / animal,Chicken_1381
+presence,high,human / animal,Chicken_1389
+presence,high,human / animal,Chicken_1398
+presence,high,human / animal,Chicken_1408
+presence,high,human / animal,Chicken_1409
+presence,high,human / animal,Chicken_1411
+presence,high,human / animal,Chicken_1417
+presence,high,human / animal,Chicken_1419
+presence,high,human / animal,Chicken_1422
+presence,high,human / animal,Chicken_1432
+presence,high,human / animal,Chicken_1440
+presence,high,human / animal,Chicken_1460
+presence,high,human / animal,Chicken_1463
+presence,high,human / animal,Chicken_1469
+presence,high,human / animal,Chicken_1474
+presence,high,human / animal,Chicken_1483
+presence,high,human / animal,Chicken_1484
+presence,high,human / animal,Chicken_1493
+presence,high,human / animal,Chicken_1500
+presence,high,human / animal,Chicken_1506
+presence,high,human / animal,Chicken_1513
+presence,high,human / animal,Chicken_1514
+presence,high,human / animal,Chicken_1519
+presence,high,human / animal,Chicken_1527
+presence,high,human / animal,Chicken_1543
+presence,high,human / animal,Chicken_1546
+presence,high,human / animal,Chicken_1553
+presence,high,human / animal,Chicken_1566
+presence,high,human / animal,Chicken_1569
+presence,high,human / animal,Chicken_1575
+presence,high,human / animal,Chicken_1579
+presence,high,human / animal,Chicken_1580
+presence,high,human / animal,Chicken_1594
+presence,high,human / animal,Chicken_1596
+presence,high,human / animal,Chicken_1605
+presence,high,human / animal,Chicken_1607
+presence,high,human / animal,Chicken_1608
+presence,high,human / animal,Chicken_1609
+presence,high,human / animal,Chicken_1616
+presence,high,human / animal,Chicken_1618
+presence,high,human / animal,Chicken_1622
+presence,high,human / animal,Chicken_1629
+presence,high,human / animal,Chicken_1631
+presence,high,human / animal,Chicken_1642
+presence,high,human / animal,Chicken_1648
+presence,high,human / animal,Chicken_1651
+presence,high,human / animal,Chicken_1652
+presence,high,human / animal,Chicken_1655
+presence,high,human / animal,Chicken_1660
+presence,high,human / animal,Chicken_1664
+presence,high,human / animal,Chicken_1666
+presence,high,human / animal,Chicken_1667
+presence,high,human / animal,Chicken_1675
+presence,high,human / animal,Chicken_1681
+presence,high,human / animal,Chicken_1682
+presence,high,human / animal,Chicken_1683
+presence,high,human / animal,Chicken_1693
+presence,high,human / animal,Chicken_1695
+presence,high,human / animal,Chicken_1696
+presence,high,human / animal,Chicken_1708
+presence,high,human / animal,Chicken_1712
+presence,high,human / animal,Chicken_1713
+presence,high,human / animal,Chicken_1715
+presence,high,human / animal,Chicken_1716
+presence,high,human / animal,Chicken_1722
+presence,high,human / animal,Chicken_1724
+presence,high,human / animal,Chicken_1725
+presence,high,human / animal,Chicken_1735
+presence,high,human / animal,Chicken_1736
+presence,high,human / animal,Chicken_1745
+presence,high,human / animal,Chicken_1754
+presence,high,human / animal,Chicken_1756
+presence,high,human / animal,Chicken_1764
+presence,high,human / animal,Chicken_1766
+presence,high,human / animal,Chicken_1772
+presence,high,human / animal,Chicken_1774
+presence,high,human / animal,Chicken_1776
+presence,high,human / animal,Chicken_1782
+presence,high,human / animal,Chicken_1786
+presence,high,human / animal,Chicken_1790
+presence,high,human / animal,Chicken_1811
+presence,high,human / animal,Chicken_1813
+presence,high,human / animal,Chicken_1817
+presence,high,human / animal,Chicken_1818
+presence,high,human / animal,Chicken_1819
+presence,high,human / animal,Chicken_1824
+presence,high,human / animal,Chicken_1836
+presence,high,human / animal,Chicken_1839
+presence,high,human / animal,Chicken_1849
+presence,high,human / animal,Chicken_1851
+presence,high,human / animal,Chicken_1853
+presence,high,human / animal,Chicken_1858
+presence,high,human / animal,Chicken_1859
+presence,high,human / animal,Chicken_1861
+presence,high,human / animal,Chicken_1865
+presence,high,human / animal,Chicken_1869
+presence,high,human / animal,Chicken_1872
+presence,high,human / animal,Chicken_1874
+presence,high,human / animal,Chicken_1889
+presence,high,human / animal,Chicken_1891
+presence,high,human / animal,Chicken_1899
+presence,high,human / animal,Chicken_1900
+presence,high,human / animal,Human_0004
+presence,high,human / animal,Human_0010
+presence,high,human / animal,Human_0013
+presence,high,human / animal,Human_0017
+presence,high,human / animal,Human_0018
+presence,high,human / animal,Human_0028
+presence,high,human / animal,Human_0030
+presence,high,human / animal,Human_0031
+presence,high,human / animal,Human_0038
+presence,high,human / animal,Human_0039
+presence,high,human / animal,Human_0051
+presence,high,human / animal,Human_0055
+presence,high,human / animal,Human_0063
+presence,high,human / animal,Human_0073
+presence,high,human / animal,Human_0076
+presence,high,human / animal,Human_0077
+presence,high,human / animal,Human_0079
+presence,high,human / animal,Human_0083
+presence,high,human / animal,Human_0084
+presence,high,human / animal,Human_0086
+presence,high,human / animal,Human_0088
+presence,high,human / animal,Human_0090
+presence,high,human / animal,Human_0093
+presence,high,human / animal,Human_0097
+presence,high,human / animal,Human_0098
+presence,high,human / animal,Human_0099
+presence,high,human / animal,Human_0100
+presence,high,human / animal,Human_0101
+presence,high,human / animal,Human_0105
+presence,high,human / animal,Human_0106
+presence,high,human / animal,Human_0107
+presence,high,human / animal,Human_0108
+presence,high,human / animal,Human_0111
+presence,high,human / animal,Human_0120
+presence,high,human / animal,Human_0124
+presence,high,human / animal,Human_0125
+presence,high,human / animal,Human_0128
+presence,high,human / animal,Human_0139
+presence,high,human / animal,Human_0145
+presence,high,human / animal,Human_0151
+presence,high,human / animal,Human_0159
+presence,high,human / animal,Human_0160
+presence,high,human / animal,Human_0169
+presence,high,human / animal,Human_0172
+presence,high,human / animal,Human_0201
+presence,high,human / animal,Human_0217
+presence,high,human / animal,Human_0223
+presence,high,human / animal,Human_0225
+presence,high,human / animal,Human_0226
+presence,high,human / animal,Human_0233
+presence,high,human / animal,Human_0236
+presence,high,human / animal,Human_0239
+presence,high,human / animal,Human_0240
+presence,high,human / animal,Human_0241
+presence,high,human / animal,Human_0244
+presence,high,human / animal,Human_0247
+presence,high,human / animal,Human_0250
+presence,high,human / animal,Human_0257
+presence,high,human / animal,Human_0268
+presence,high,human / animal,Human_0272
+presence,high,human / animal,Human_0285
+presence,high,human / animal,Human_0291
+presence,high,human / animal,Human_0298
+presence,high,human / animal,Human_0299
+presence,high,human / animal,Human_0307
+presence,high,human / animal,Human_0310
+presence,high,human / animal,Human_0311
+presence,high,human / animal,Human_0312
+presence,high,human / animal,Human_0314
+presence,high,human / animal,Human_0315
+presence,high,human / animal,Human_0320
+presence,high,human / animal,Human_0328
+presence,high,human / animal,Human_0332
+presence,high,human / animal,Human_0333
+presence,high,human / animal,Human_0336
+presence,high,human / animal,Human_0339
+presence,high,human / animal,Human_0340
+presence,high,human / animal,Human_0342
+presence,high,human / animal,Human_0347
+presence,high,human / animal,Human_0351
+presence,high,human / animal,Human_0352
+presence,high,human / animal,Human_0366
+presence,high,human / animal,Human_0370
+presence,high,human / animal,Human_0371
+presence,high,human / animal,Human_0372
+presence,high,human / animal,Human_0377
+presence,high,human / animal,Human_0378
+presence,high,human / animal,Human_0381
+presence,high,human / animal,Human_0390
+presence,high,human / animal,Human_0394
+presence,high,human / animal,Human_0397
+presence,high,human / animal,Human_0400
+presence,high,human / animal,Human_0402
+presence,high,human / animal,Human_0403
+presence,high,human / animal,Human_0405
+presence,high,human / animal,Human_0409
+presence,high,human / animal,Human_0413
+presence,high,human / animal,Human_0414
+presence,high,human / animal,Human_0415
+presence,high,human / animal,Human_0422
+presence,high,human / animal,Human_0425
+presence,high,human / animal,Human_0426
+presence,high,human / animal,Human_0434
+presence,high,human / animal,Human_0437
+presence,high,human / animal,Human_0450
+presence,high,human / animal,Human_0451
+presence,high,human / animal,Human_0455
+presence,high,human / animal,Human_0456
+presence,high,human / animal,Human_0457
+presence,high,human / animal,Human_0458
+presence,high,human / animal,Human_0459
+presence,high,human / animal,Human_0465
+presence,high,human / animal,Human_0467
+presence,high,human / animal,Human_0471
+presence,high,human / animal,Human_0476
+presence,high,human / animal,Human_0479
+presence,high,human / animal,Human_0480
+presence,high,human / animal,Human_0484
+presence,high,human / animal,Human_0485
+presence,high,human / animal,Human_0488
+presence,high,human / animal,Human_0496
+presence,high,human / animal,Human_0499
+presence,high,human / animal,Human_0500
+presence,high,human / animal,Human_0501
+presence,high,human / animal,Human_0504
+presence,high,human / animal,Human_0510
+presence,high,human / animal,Human_0513
+presence,high,human / animal,Human_0516
+presence,high,human / animal,Human_0517
+presence,high,human / animal,Human_0519
+presence,high,human / animal,Human_0521
+presence,high,human / animal,Human_0523
+presence,high,human / animal,Human_0525
+presence,high,human / animal,Human_0528
+presence,high,fermented food / animal,Animal_0556
+presence,high,fermented food / animal,Animal_0724
+presence,high,fermented food / animal,Chicken_0910
+presence,high,fermented food / animal,Chicken_0917
+presence,high,fermented food / animal,Chicken_1078
+presence,high,fermented food / animal,Chicken_1460
+presence,high,fermented food / animal,Chicken_1874
+presence,high,fermented food / animal,MAG_157
+presence,high,fermented food / animal,MAG_158
+presence,high,fermented food / animal,MAG_162
+presence,high,fermented food / animal,MAG_179
+presence,high,fermented food / animal,MAG_212
+presence,high,fermented food / animal,MAG_261
+presence,high,fermented food / animal,MAG_264
+presence,high,fermented food / animal,MAG_266
+presence,high,fermented food / animal,MAG_28
+presence,high,fermented food / animal,MAG_316
+presence,high,fermented food / animal,MAG_353
+presence,high,fermented food / animal,MAG_425
+presence,high,fermented food / animal,MAG_460
+presence,high,fermented food / animal,MAG_505
+presence,high,fermented food / animal,MAG_516
+presence,high,fermented food / animal,MAG_522
+presence,high,fermented food / animal,MAG_559
+presence,high,fermented food / animal,MAG_575
+presence,high,fermented food / animal,MAG_616
+presence,high,fermented food / human,Human_0001
+presence,high,fermented food / human,Human_0002
+presence,high,fermented food / human,Human_0004
+presence,high,fermented food / human,Human_0005
+presence,high,fermented food / human,Human_0008
+presence,high,fermented food / human,Human_0010
+presence,high,fermented food / human,Human_0012
+presence,high,fermented food / human,Human_0013
+presence,high,fermented food / human,Human_0015
+presence,high,fermented food / human,Human_0017
+presence,high,fermented food / human,Human_0018
+presence,high,fermented food / human,Human_0021
+presence,high,fermented food / human,Human_0022
+presence,high,fermented food / human,Human_0027
+presence,high,fermented food / human,Human_0028
+presence,high,fermented food / human,Human_0032
+presence,high,fermented food / human,Human_0033
+presence,high,fermented food / human,Human_0034
+presence,high,fermented food / human,Human_0035
+presence,high,fermented food / human,Human_0038
+presence,high,fermented food / human,Human_0042
+presence,high,fermented food / human,Human_0045
+presence,high,fermented food / human,Human_0047
+presence,high,fermented food / human,Human_0048
+presence,high,fermented food / human,Human_0051
+presence,high,fermented food / human,Human_0055
+presence,high,fermented food / human,Human_0091
+presence,high,fermented food / human,Human_0094
+presence,high,fermented food / human,Human_0098
+presence,high,fermented food / human,Human_0115
+presence,high,fermented food / human,Human_0120
+presence,high,fermented food / human,Human_0156
+presence,high,fermented food / human,Human_0219
+presence,high,fermented food / human,Human_0221
+presence,high,fermented food / human,Human_0267
+presence,high,fermented food / human,Human_0359
+presence,high,fermented food / human,Human_0368
+presence,high,fermented food / human,Human_0379
+presence,high,fermented food / human,Human_0399
+presence,high,fermented food / human,Human_0400
+presence,high,fermented food / human,Human_0402
+presence,high,fermented food / human,Human_0403
+presence,high,fermented food / human,Human_0408
+presence,high,fermented food / human,Human_0409
+presence,high,fermented food / human,Human_0413
+presence,high,fermented food / human,Human_0415
+presence,high,fermented food / human,Human_0417
+presence,high,fermented food / human,Human_0419
+presence,high,fermented food / human,Human_0420
+presence,high,fermented food / human,Human_0421
+presence,high,fermented food / human,Human_0422
+presence,high,fermented food / human,Human_0425
+presence,high,fermented food / human,Human_0426
+presence,high,fermented food / human,Human_0431
+presence,high,fermented food / human,Human_0432
+presence,high,fermented food / human,Human_0434
+presence,high,fermented food / human,Human_0437
+presence,high,fermented food / human,Human_0447
+presence,high,fermented food / human,Human_0463
+presence,high,fermented food / human,Human_0467
+presence,high,fermented food / human,Human_0483
+presence,high,fermented food / human,Human_0485
+presence,high,fermented food / human,Human_0529
+presence,high,fermented food / human,MAG_151
+presence,high,fermented food / human,MAG_157
+presence,high,fermented food / human,MAG_158
+presence,high,fermented food / human,MAG_162
+presence,high,fermented food / human,MAG_179
+presence,high,fermented food / human,MAG_181
+presence,high,fermented food / human,MAG_192
+presence,high,fermented food / human,MAG_212
+presence,high,fermented food / human,MAG_261
+presence,high,fermented food / human,MAG_264
+presence,high,fermented food / human,MAG_266
+presence,high,fermented food / human,MAG_274
+presence,high,fermented food / human,MAG_28
+presence,high,fermented food / human,MAG_316
+presence,high,fermented food / human,MAG_353
+presence,high,fermented food / human,MAG_355
+presence,high,fermented food / human,MAG_385
+presence,high,fermented food / human,MAG_414
+presence,high,fermented food / human,MAG_425
+presence,high,fermented food / human,MAG_44
+presence,high,fermented food / human,MAG_460
+presence,high,fermented food / human,MAG_466
+presence,high,fermented food / human,MAG_475
+presence,high,fermented food / human,MAG_476
+presence,high,fermented food / human,MAG_477
+presence,high,fermented food / human,MAG_498
+presence,high,fermented food / human,MAG_503
+presence,high,fermented food / human,MAG_505
+presence,high,fermented food / human,MAG_511
+presence,high,fermented food / human,MAG_516
+presence,high,fermented food / human,MAG_522
+presence,high,fermented food / human,MAG_532
+presence,high,fermented food / human,MAG_559
+presence,high,fermented food / human,MAG_575
+presence,high,fermented food / human,MAG_616

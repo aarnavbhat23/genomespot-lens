@@ -2,7 +2,7 @@
 
 **Explore microbial physiology, ancestry, AMR burden and encrypted-AMP richness.**
 
-[Current research brief and actual findings](study/mentor-brief-2026-10-20.md).
+[Current research brief and actual findings](study/mentor-brief-2026-10-21.md).
 
 Three executable research notebooks implement ecology, evolution and resistance
 analyses with explicit screening denominators and source-mapping checks:
@@ -18,13 +18,20 @@ Its composition-adjusted temperature interval remains uncertain; see the
 [actual results and limits](study/temperature/results.md). The protocol was frozen
 before fitting. Novelty and mechanism remain unestablished.
 
-A second [real-data bacterial ecology comparison](notebooks/05_real_ecology_species_comparison.ipynb)
-reanalyzes 1,964 explicitly screened genomes, including 1,084 zero-hit members.
-The crude fermented-food/human candidate ratio of 1.87 becomes 0.98 (95% cluster
-interval 0.73–1.32) after shared-species and genome-covariate controls. A separate
-unadjusted permutation test retains a weak habitat signal; ecology is not ruled
-out. See [results, methods and limits](study/ecology-comparison/results.md).
-Its Macrel small-ORF endpoint is distinct from archaeome APEX fragments.
+The [current real-data ecology extension](notebooks/06_real_ecology_robustness.ipynb)
+corrects unresolved species assignments and tests direct habitat pairs, genome
+quality, presence and influential species. The corrected joint food/human ratio
+is 1.02 (95% interval 0.75–1.39). A high-quality human/animal count contrast is
+0.56 (0.40–0.77; 379 genomes / 16 resolved species), an exploratory lead requiring
+independent verification. [Results and limits](study/ecology-comparison/robustness-results-2026-10-21.md).
+The Macrel small-ORF endpoint differs from archaeome APEX windows. Notebook 05 is
+retained as a superseded historical raw-label analysis.
+
+A [deeper original-export search and counting audit](study/atb-export-search-2026-10-21.md)
+has not located the ATB AMP export in the checked public routes. A released
+Bakta proteome contains 33.3 million distinct 8–50-aa fragments; its original
+screen membership is unknown, so this is a conditional scope question for the
+authors, not a reconstruction or proof the reported screen total is wrong.
 
 Read [study setup and execution](study/README.md) first. The saved statistical
 outputs in notebooks **01–03** remain explicitly simulated software demonstrations. Actual GenomeSPOT results for 138 current exact-taxon source genomes

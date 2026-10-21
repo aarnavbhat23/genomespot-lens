@@ -93,5 +93,5 @@ full published root in each release.
 These five additional real fits all use the same 29 genomes. Public summary
 artifacts reside in `sensitivity-results/` and `rooting-results/` under the real
 data directory; full draws remain local. The independent bacterial comparison
-in notebook 05 addresses habitat/species confounding with a different AMP endpoint
+in notebook 06 addresses habitat/species confounding with a different AMP endpoint
 and cannot replace temperature replication.

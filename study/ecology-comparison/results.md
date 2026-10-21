@@ -1,4 +1,10 @@
-# Actual-data comparison: habitat signals after species controls
+# Historical raw-label comparison: see the corrected extension
+
+**Correction, 21 October 2026:** the original comparisons below pooled 20
+unresolved `s__` genomes across six genera. Those species-control inferences are
+superseded by [the taxonomy-corrected extension](robustness-results-2026-10-21.md)
+and notebook 06. The corrected joint food/human estimate is 1.02 (0.75–1.39).
+The source registry and original fits remain unchanged for audit.
 
 The crude fermented-food versus human-associated difference in predicted AMP
 counts is **not robust to species and genome covariates** in this reanalysis.
@@ -93,8 +99,9 @@ uniformly screened independent temperature replication remain decisive needs.
 Install the project and `study/requirements.txt` with Python 3.11, then:
 
 ```bash
-unzip examples/lactobacillaceae-ecology/sources/lactobacillaceae-supplement.zip \
-  -d runs/lactobacillaceae-source
+cp examples/lactobacillaceae-ecology/sources/lactobacillaceae-supplement.zip \
+  runs/lactobacillaceae-supplement.zip
+unzip runs/lactobacillaceae-supplement.zip -d runs/lactobacillaceae-source
 python scripts/analyze_lactobacillaceae_ecology.py \
   --raw 'runs/lactobacillaceae-source/Additional File 1' \
   --out runs/lactobacillaceae-ecology

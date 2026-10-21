@@ -93,7 +93,7 @@ establish publication priority or a new antimicrobial mechanism.
 The next decisive evidence is an independently sampled, uniformly screened cohort
 and adequate power, followed by activity validation for functional claims. The
 limited prior/tree/root sensitivities above are now complete. A separate
-[bacterial ecology comparison](../ecology-comparison/results.md) shows how
+[bacterial ecology comparison](../ecology-comparison/robustness-results-2026-10-21.md) shows how
 species and genome covariates change habitat estimates, but its small-ORF
 endpoint cannot replicate temperature-associated encrypted fragments.
 Vinay's AllTheBacteria resistance question still needs the complete original

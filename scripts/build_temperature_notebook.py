@@ -237,7 +237,7 @@ antimicrobial function.
 
 The proposed contribution is an auditable comparative test, not a claim that hot
 microbes or ecological AMP discovery are new. The prior/tree checks above leave the pilot conclusion unchanged. The separate
-real-data bacterial comparison in notebook 05 tests species/habitat confounding
+real-data bacterial comparison in notebook 06 tests species/habitat confounding
 with a different AMP endpoint; it is not temperature replication. Next decisive
 work is an independent uniform screen/replication cohort and a powered design.
 Vinay's ATB resistance question still needs its full screened-sample/parent/score

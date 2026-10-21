@@ -22,8 +22,10 @@ jobs:
         with:
           python-version: '3.11'
       - run: pip install -e '.[test,plot]' -r study/requirements.txt
-      - run: python -m pytest tests/test_amp_study.py tests/test_archaeome_archive.py tests/test_temperature_study.py tests/test_ecology_comparison.py -q
+      - run: python -m pytest tests/test_amp_study.py tests/test_archaeome_archive.py tests/test_temperature_study.py tests/test_ecology_comparison.py tests/test_ecology_robustness.py -q
       - run: python scripts/execute_study_notebooks.py
         env:
           MPLBACKEND: Agg
           AMP_STUDY_MODE: demo
+          OPENBLAS_NUM_THREADS: 1
+          OMP_NUM_THREADS: 1

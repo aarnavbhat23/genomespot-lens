@@ -1,4 +1,10 @@
-# Actual published-data comparison: bacterial ecology and AMP candidate counts
+# Historical published-data comparison: bacterial ecology and AMP candidate counts
+
+**Correction:** the source registry has 20 unresolved `s__` genomes across six
+genera, which the initial analysis incorrectly pooled as a species. The original
+data and fits are retained here, but current species-control inference uses
+`../ecology-robustness/` and notebook 06. Do not treat the bare label as shared
+species membership.
 
 Source: Du et al., Microbiome (2025), [article](https://doi.org/10.1186/s40168-025-02145-3),
 original Additional File 1. Article and supplements are CC BY 4.0; the original

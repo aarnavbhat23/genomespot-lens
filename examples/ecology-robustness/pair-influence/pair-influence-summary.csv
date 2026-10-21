@@ -1,0 +1,7 @@
+quality,contrast,omissions,estimable_omissions,insufficient_support,minimum_effect,maximum_effect,intervals_below_one,intervals_above_one
+high,fermented food / animal,9,0,9,,,0,0
+high,fermented food / human,13,13,0,0.692886539710581,0.9727881034403821,0,0
+high,human / animal,16,16,0,0.5282612883773304,0.6318742587194126,15,0
+published,fermented food / animal,14,14,0,0.8829335231146251,1.2497175235508597,0,0
+published,fermented food / human,17,17,0,0.856356444525651,1.0749299046371696,0,0
+published,human / animal,18,18,0,0.6664945016012686,0.8248331399379882,9,0

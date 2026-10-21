@@ -1,0 +1,50 @@
+{
+  "data_kind": "real",
+  "created_utc": "2026-10-21T16:34:25.650739+00:00",
+  "source": {
+    "archive": {
+      "project": "AllTheBacteria/Annotation/Bakta/Release_0.2_Set_4",
+      "project_id": "67wq9",
+      "filename": "atb.bakta.r0.2.batch.174.tar.xz",
+      "url": "https://osf.io/download/679b4ecad3296260b3f4e961/",
+      "md5": "93c4c3a54584a463a60a64bee4e16ce1",
+      "size(MB)": 8.24
+    },
+    "archive_bytes": 8640348,
+    "archive_md5_verified": true,
+    "selected_member": "atb.bakta.r0.2.batch.174/SAMN34537047.bakta.json",
+    "member_sha256": "12eb03f26e80d1e3d445e4cac7ccd4539d0f38514d20d4645348f118aa914e4f",
+    "selection": "Smallest indexed Bakta archive with positive recorded size; first annotation member; not selected on AMP outcomes",
+    "original_screen_membership_known": false
+  },
+  "bakta_version": {
+    "bakta": "1.9.4",
+    "db": {
+      "version": "5.1",
+      "type": "full"
+    }
+  },
+  "sample_id": "SAMN34537047",
+  "protein_records": 2773,
+  "unique_protein_sequences": 2772,
+  "total_amino_acids": 854751,
+  "distinct_canonical_fragments_min8_max": {
+    "49": 32612241,
+    "50": 33330305
+  },
+  "paper_reported_fragments": 3919096,
+  "single_sample_to_reported_ratio_max50": 8.504590089143006,
+  "original_screen_membership_known": false,
+  "is_original_screen_export": false,
+  "inference_allowed": "Conditional scope consistency only; no AMP scores or zero-hit genomes inferred",
+  "analysis_code_sha256": "325ab019a134033e0b0687db6b27cd7f2386b9033ee462ddc729c122a0cee04c",
+  "counter_code_sha256": "061fcf1a5bd4d52a8cf7e42b80b7af6a4c0234a85b9b1823130f15d2843a0c6a",
+  "packages": {
+    "numpy": "1.24.4",
+    "pydivsufsort": "0.0.19"
+  },
+  "outputs": {
+    "protein-registry.csv": "14392436390104cd7f79e8eb564a6b74dce8a9503312f10fa34e16075ac3ba94",
+    "released-proteins.fasta.gz": "754f1920bfea44bc7768568c34f67b22d823ea2d36d5ddce6e7480511fc293c2"
+  }
+}

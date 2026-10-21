@@ -1,0 +1,12 @@
+project,project_id,default_branch,blob_count,url
+machine-biology-group-public/pancleave,39796770,main,66,https://gitlab.com/machine-biology-group-public/pancleave
+machine-biology-group-public/apex,46671604,main,184,https://gitlab.com/machine-biology-group-public/apex
+machine-biology-group-public/amp_scoring,48170124,main,3,https://gitlab.com/machine-biology-group-public/amp_scoring
+machine-biology-group-public/apex-pathogen,48405499,main,17,https://gitlab.com/machine-biology-group-public/apex-pathogen
+machine-biology-group-public/anti-ev71,61610729,main,26,https://gitlab.com/machine-biology-group-public/anti-ev71
+machine-biology-group-public/apex_duo,65354032,main,88,https://gitlab.com/machine-biology-group-public/apex_duo
+machine-biology-group-public/ApexOracle,72034335,main,66,https://gitlab.com/machine-biology-group-public/ApexOracle
+machine-biology-group-public/apexgpt,81161094,main,156,https://gitlab.com/machine-biology-group-public/apexgpt
+machine-biology-group-public/anti-inflammtory_peptide_predictor,81338855,main,10,https://gitlab.com/machine-biology-group-public/anti-inflammtory_peptide_predictor
+machine-biology-group-public/amphion,81423025,main,33,https://gitlab.com/machine-biology-group-public/amphion
+machine-biology-group-public/apexfold,82803858,main,54,https://gitlab.com/machine-biology-group-public/apexfold

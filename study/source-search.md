@@ -1,5 +1,10 @@
 # Source search and availability record
 
+**21 October follow-up:** see [the deeper ATB export search and scope audit](atb-export-search-2026-10-21.md).
+The original export remains unlocated in checked public routes. Current bacterial
+ecology inference also uses the [taxonomy-corrected extension](ecology-comparison/robustness-results-2026-10-21.md),
+which supersedes the raw-label comparison in notebook 05.
+
 Checked 20 October 2026. This is a scoped, reproducible search of primary papers,
 their deposits and code. “Not located” records what these routes yielded; it is
 not a claim that no author has the files or that they do not exist elsewhere.

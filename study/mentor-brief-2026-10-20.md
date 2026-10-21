@@ -1,5 +1,9 @@
 # Research brief for Vinay — 20 October 2026
 
+**Superseded in part:** the bacterial analysis below pooled an unresolved species
+label. Read [the 21 October correction and new findings](mentor-brief-2026-10-21.md)
+for current results. Original inputs/estimates are retained for audit.
+
 ## A concrete result and a defensible direction
 
 **Ecological AMP associations can change substantially when the comparison

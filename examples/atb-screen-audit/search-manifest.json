@@ -1,0 +1,56 @@
+{
+  "checked_date_local": "2026-10-21",
+  "status": "original_screen_export_not_located_in_checked_public_routes",
+  "original_export_recovered": false,
+  "api_endpoints": {
+    "osf_index": "https://osf.io/download/r6gcp/",
+    "osf_components": "https://api.osf.io/v2/nodes/xv7q9/children/?page[size]=100",
+    "github_main": "https://api.github.com/repos/AllTheBacteria/AllTheBacteria/git/trees/main?recursive=1",
+    "github_paper": "https://github.com/AllTheBacteria/atb-paper",
+    "gitlab_projects": "https://gitlab.com/api/v4/groups/machine-biology-group-public/projects?per_page=100&include_subgroups=true",
+    "hf_org": "https://huggingface.co/api/datasets?author=AllTheBacteria&limit=100&full=true",
+    "mendeley_exact": "https://data.mendeley.com/research-data/?query=AllTheBacteria",
+    "datacite": "https://api.datacite.org/dois?query=AllTheBacteria&page[size]=100",
+    "zenodo": "https://zenodo.org/api/records?q=AllTheBacteria&size=25",
+    "biorxiv_versions": "https://api.biorxiv.org/details/biorxiv/10.1101/2024.03.08.584059"
+  },
+  "counts": {
+    "osf_indexed_files": 3009,
+    "osf_top_level_components": 15,
+    "github_org_repositories": 5,
+    "gitlab_public_projects": 11,
+    "gitlab_blobs_default_and_two_alternate_apex_branches": 933,
+    "hf_org_repositories": 10,
+    "mendeley_exact_query_results": 0,
+    "datacite_query_results": 20,
+    "zenodo_query_records": 5,
+    "biorxiv_versions": 8
+  },
+  "limits": [
+    "Filename/documentation/metadata checks do not inspect every member of the terabyte-scale archives or every Parquet row.",
+    "GitHub public code index can omit files; repository history and direct repository routes were also checked.",
+    "The unrelated anti-EV71 GitLab releases endpoint returned HTTP 403; this is not treated as an inspected release.",
+    "Unindexed, restricted, private or generically titled author deposits can remain undiscovered.",
+    "The released Bakta example is not established as a member of the original AMP screen."
+  ],
+  "raw_response_sha256": {
+    "osf-children.json": "7b01fb8549fdc15a0991f89f6828cd60fbb734ff92e7b0e08bdfcd2b0574fbe4",
+    "github-main-tree.json": "a30d47df26670b9ed47a7f85f09400b55955b7beb26dc0ca2305fc57b3f78f0d",
+    "gitlab-projects.json": "6b923c693901b6712153a3d4ae2c49466a8a836c400eb65415df57ad3aff3b30",
+    "hf-org.json": "90980b830545f7431caf37e65a56a14336924f022b4cf5099f007defc57fae58",
+    "mendeley-correct-state.json": "c00db65f8ddd6eb43da074dac59611cbd39b1194736db32d51204df8c843e83a",
+    "datacite.json": "79bbffadee38b658e34f46e18b864fe56880f222371c2c9ed897d40349803e36",
+    "zenodo.json": "72a6cb9fd0d557622de65f96bfee26b4cb04f3940ca64d629526f7459433ea8b",
+    "biorxiv-versions-corrected.json": "8c739fe9d8a50faec695fea79872ca954636d800aaa9a8f8011d1be9e6abdbcc",
+    "github-main-all-issues.json": "1c61a483da8eb167a86a9e12c9178cbc76cc22b65d51511ad16c5e1ebb6e4d0a"
+  },
+  "inventory_sha256": {
+    "github-main-file-inventory.csv": "c60643fb195d3945416713b6f1741f54658f20ce4cf6b81730b49faf18f6199b",
+    "publication-versions.csv": "9e2614241c0394ec441751820a64258cda4fd44bb9e603d76c476dc33d9a720c",
+    "gitlab-file-inventory.csv": "cef9616aa391b9827f811b55c3424d4ebcc15cbfe985c75d210529f7e7bd79d0",
+    "protein-registry.csv": "14392436390104cd7f79e8eb564a6b74dce8a9503312f10fa34e16075ac3ba94",
+    "gitlab-projects.csv": "f3c3b4cfba5a4fb15993b75032fa53dcd4ec646a268b79a8920332ffd1b6e8d1",
+    "huggingface-repositories.csv": "d2008653321ec496a7d064b3e57e83034482955f551a3fc06c8df1cfde8bd19b"
+  },
+  "osf_index_sha256": "b36aa796435185a8ea606e63ed5031f40b6e327853e3ef4aab8d07802fd26d3f"
+}

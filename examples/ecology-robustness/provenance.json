@@ -1,0 +1,37 @@
+{
+  "data_kind": "real",
+  "created_utc": "2026-10-21T16:07:32.038764+00:00",
+  "exploratory_protocol_commit": "d5c1eac",
+  "taxonomy_correction_protocol_commit": "78d5882",
+  "baseline_genomes_sha256": "4810460c0c91e4c3b005846ffd637e48fee6456e8bb2000614305de9ef10534c",
+  "baseline_provenance_sha256": "ee878ece88e2a589b67be4696f16d53f0a4e3e7af95a66844d119717da00896d",
+  "software": {
+    "numpy": "1.24.4",
+    "pandas": "2.0.3",
+    "scipy": "1.10.1",
+    "statsmodels": "0.14.1"
+  },
+  "analysis_code_sha256": "594fe1b98ef5dca80e26da523a78d5262b180c76b2d661ccffea47517b8186f0",
+  "new_statistics_sha256": "e20bc2f5080761a2e9ce8bcd0046e147fbf4ee3f567c25725a7cc638dbf061c9",
+  "original_statistics_sha256": "8113f6e2e839e66a7422ab4749cfb1b4aefc2a9420cd85b076141edbf7fb8c5e",
+  "counts": {
+    "registry_genomes": 1964,
+    "unresolved_species_genomes": 20,
+    "resolved_species": 136,
+    "direct_specifications": 12,
+    "informative_joint_species": 35,
+    "leave_species_out_fits": 35
+  },
+  "quality_definition": "completeness >=90%; contamination <5%; overlap recomputed after filtering",
+  "screened_smorfs_denominator_available": false,
+  "inference": "Exploratory species-cluster t intervals; direct-pair within-species estimand; no cross-species phylogenetic correction",
+  "outputs": {
+    "influence-summary.csv": "62f411bb5435a43c0e6a1a02a0a425a01a6b8726fad71e0bfe3987d8508ededc",
+    "registry-with-taxonomy-status.csv": "81cb348a5ce2db6ecb183e5a6f977002d87ac2bd49fc0d0ef916726190efeaba",
+    "corrected-joint-effects.csv": "3a7a0a943540b25d1a832cff527e7f77df260c01c8f7f5547af6c51959da3e1a",
+    "unresolved-species-exclusions.csv": "a4592ecd80f3d86d622c4b9a78a3d31aef9d913e87f2ffe4f186d22406e770ad",
+    "cohort-members.csv": "f83ae5eef62c60370c0b69d8b550589b3ae9d5fb2e12af861621c032940f1dea",
+    "species-influence.csv": "51462edb17d1c8607c3c2bb47b6e64dac2e854c80e205b269987c0edb607c703",
+    "direct-effects.csv": "ba60511df8074f5f89548b369eaff0ee14da377cd85cce516d0f2c8863f92c35"
+  }
+}

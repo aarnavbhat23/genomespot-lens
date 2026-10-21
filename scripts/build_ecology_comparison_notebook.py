@@ -7,7 +7,13 @@ ROOT=Path(__file__).resolve().parents[1]
 def md(s): return nb.v4.new_markdown_cell(textwrap.dedent(s).strip())
 def code(s): return nb.v4.new_code_cell(textwrap.dedent(s).strip())
 cells=[md('''
-# Do habitat associations survive species controls? — REAL DATA
+# Historical raw-label comparison — superseded by notebook 06
+
+**Correction, 21 October 2026:** this historical analysis pools the bare species
+label `s__` for 20 unresolved genomes across six genera. That does not establish
+conspecificity. Its species-control inference is superseded by notebook 06, which
+excludes unresolved assignments and refits the comparisons. Inputs and original
+estimates below remain for audit; they are not the current primary conclusions.
 
 This is an exploratory reanalysis of published bacterial data, following Vinay's
 ecology/evolution question. It complements the archaeome study in notebook 04.
@@ -76,7 +82,7 @@ axes[0].set(ylabel='Published predicted candidates / genome',title='Crude habita
 axes[0].tick_params(axis='x',rotation=15)
 number=(overlap>0).sum(axis=1).value_counts().sort_index()
 axes[1].bar([str(n) for n in number.index],number.values,color='#667684')
-axes[1].set(xlabel='Habitats occupied by a species',ylabel='Number of species',title='Most species lack habitat overlap')
+axes[1].set(xlabel='Habitats occupied by a species',ylabel='Number of reported species labels',title='Most species lack habitat overlap')
 for i,n in enumerate(number.values):axes[1].text(i,n+1,str(n),ha='center')
 fig.tight_layout();save(fig,'habitat_and_species_coverage');plt.show()
 '''),md('''
@@ -126,7 +132,7 @@ for j,(ax,contrast) in enumerate(zip(axes,contrasts)):
     ax.xaxis.set_minor_formatter(NullFormatter())
     ax.set(xlim=(.25,3.4),xlabel='Rate ratio (95% cluster interval)',title=contrast)
 axes[0].set_yticks(range(4),list(labels.values()));axes[0].invert_yaxis()
-fig.suptitle('REAL DATA: habitat estimates depend on species composition and genome covariates',y=1.04)
+fig.suptitle('Historical raw-label fits: see notebook 06 for taxonomy-corrected results',y=1.04)
 fig.tight_layout();save(fig,'habitat_effects_species_controls');plt.show()
 '''),md('''
 ## Report the sensitivity that does not fully agree

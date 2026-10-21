@@ -1,0 +1,21 @@
+original_id,genome_id,habitat,genus,species,assembly_status,completeness,contamination,genome_bp,gc_fraction,contig_n50,amp_count,multi_habitat_species,count_model_eligible,species_resolved,resolved_joint_model_eligible
+X363_Desmarests_Spiny_Pocket_Mouse__maxbin2_low_prob.026.contigs,Animal_0567,animal,Lactobacillus,s__,Contig,57.35,0.0,1142658,0.34,47443,0,True,True,False,False
+Cebus_capucinus_imitator_PRJNA485217_SSR056__metabat2_low_PE.006.contigs,Animal_0569,animal,Ligilactobacillus,s__,Contig,54.24,0.38,939412,0.33,3333,0,True,True,False,False
+F241_Great_Cormorant__maxbin2_low_prob.005.contigs,Animal_0604,animal,Ligilactobacillus,s__,Contig,99.48,1.05,1542672,0.4,61885,3,True,True,False,False
+X285_Short_beaked_Echidna__metabat2_high_PE.004.contigs,Animal_0725,animal,Pediococcus,s__,Contig,94.37,0.0,1267389,0.33,23891,0,True,True,False,False
+MAGs_co_23,Chicken_0870,animal,Limosilactobacillus,s__,Contig,81.79,0.185,1533188,0.55,53655,2,True,True,False,False
+MAGs_co_43,Chicken_0872,animal,Limosilactobacillus,s__,Contig,86.77,7.775,1607004,0.46,7877,0,True,True,False,False
+MAGs_co_601,Chicken_0922,animal,Lactobacillus,s__,Contig,81.28,2.669,1662303,0.37,17462,1,True,True,False,False
+MAGs_co_736,Chicken_0929,animal,Limosilactobacillus,s__,Contig,82.85,0.543,1502165,0.56,25454,5,True,True,False,False
+MAGs_co_854,Chicken_0944,animal,Limosilactobacillus,s__,Contig,94.97,2.626,1705877,0.55,51783,2,True,True,False,False
+MAGs_co_2113,Chicken_1053,animal,Limosilactobacillus,s__,Contig,92.43,1.902,1680846,0.5,23635,0,True,True,False,False
+MAGs_co_5953,Chicken_1356,animal,Pediococcus,s__,Contig,90.61,0.377,1459847,0.37,13312,0,True,True,False,False
+MAGs_co_7057,Chicken_1457,animal,Ligilactobacillus,s__,Contig,97.38,1.047,1537611,0.4,53952,0,True,True,False,False
+MAGs_co_7183,Chicken_1471,animal,Limosilactobacillus,s__,Contig,89.78,1.177,1244032,0.5,13575,0,True,True,False,False
+MAGs_co_7247,Chicken_1479,animal,Companilactobacillus,s__,Contig,97.38,2.356,2678410,0.38,22499,0,True,True,False,False
+MAGs_co_9357,Chicken_1656,animal,Limosilactobacillus,s__,Contig,98.36,1.086,1840307,0.55,72518,3,True,True,False,False
+BritoIL_2016__W2.49.ST__bin.35,Human_0069,human,Ligilactobacillus,s__,Contig,66.18980721,0.523560209,1398603,0.44,3684,1,True,True,False,False
+BritoIL_2016__WL.1.ST__bin.6,Human_0070,human,Ligilactobacillus,s__,Contig,95.50751562,1.919720768,1798165,0.44,10471,1,True,True,False,False
+BritoIL_2016__WL.2.ST__bin.48,Human_0071,human,Ligilactobacillus,s__,Contig,83.79184515,3.468189751,1475080,0.44,4764,1,True,True,False,False
+MAG_334,MAG_334,fermented food,Lacticaseibacillus,s__,Contig,97.73,4.14,2844712,0.48,30515,0,True,True,False,False
+MAG_496,MAG_496,fermented food,Lactobacillus,s__,Contig,51.74,9.49,1430200,0.44,2315,1,True,True,False,False
