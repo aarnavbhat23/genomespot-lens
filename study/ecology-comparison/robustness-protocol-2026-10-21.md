@@ -60,3 +60,22 @@ and report omissions that fall below it. Also export per-species habitat sizes,
 zero fractions and count means. These descriptive summaries do not adjust the
 covariates. Do not select only the omission or endpoint with the smallest p.
 No additional quality threshold search or claim of a causal niche effect follows.
+
+## Taxonomy audit correction before corrected fits
+
+The baseline registry has 20 genomes labeled only `s__`, across six genera and
+all three habitats. This is an unresolved rank, not a shared species. Earlier
+notebook 05 and provisional extension fits incorrectly pooled that label in
+species effects and cluster covariance. The complete source registry and old
+fits remain frozen, with their interpretation marked historical/superseded.
+
+Exclude bare/empty/unclassified species assignments from every within-species
+extension model and from species-cluster inferential contrasts. Preserve them
+in descriptive registry totals and export explicit exclusion IDs. The corrected
+registry has 136 resolved species labels; the original joint informative cohort
+loses these 20 genomes (1,292 genomes / 35 resolved species). Refit the four joint
+comparisons on resolved-label cohorts, all direct pairs, binary endpoints,
+quality checks and influence refits. Shared-species support must be recalculated
+after every restriction. Do not fill missing assignments by genus or guess ANI
+clusters. This fixes our analysis interpretation; it is not evidence that the
+source paper assigned these genomes to one biological species.
