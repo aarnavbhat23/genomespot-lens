@@ -53,3 +53,20 @@ The useful contribution sought is a reusable way to distinguish ecological
 associations from ancestry, sequence composition, and ascertainment. A null,
 attenuated, reversed, or unidentifiable result is reportable. This does not
 establish absence of ecology or prove predictor bias.
+
+## Rooting audit added before two further fits
+
+Tree inspection after the initial sensitivity fits found that the original
+pruning routine collapses unary root paths and resets the induced root branch
+to zero. It preserves patristic distances and published clade orientation, but
+its effective covariance root is the retained genomes' MRCA, not the full
+published outgroup root. The discarded shared stems are 0.04572 (r226) and
+0.14953935 (r232) substitutions/site. This corrects earlier prose describing the
+root as unchanged; original data and fits are retained for audit.
+
+Fit two additional composition-adjusted models on the same 29 genomes, one for
+each release, retaining a unary published root and its full shared stem. Use the
+original priors and the same sampling/diagnostic settings. Check original versus
+pruned root-to-tip and root-to-MRCA depths, not only patristic distances. Report
+both induced-MRCA and published-root results regardless of direction. This is
+an exploratory correction/sensitivity, not a retroactive protocol amendment.
