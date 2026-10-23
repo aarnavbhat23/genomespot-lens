@@ -8,7 +8,7 @@ The source registry and original fits remain unchanged for audit.
 
 The crude fermented-food versus human-associated difference in predicted AMP
 counts is **not robust to species and genome covariates** in this reanalysis.
-This is useful evidence for Vinay's ecology/evolution question; it does not
+This is useful evidence for the ecology/evolution question; it does not
 establish that ecology has no influence, or invalidate the source paper.
 
 ## Data integrity and endpoint

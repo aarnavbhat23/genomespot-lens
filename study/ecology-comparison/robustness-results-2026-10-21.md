@@ -94,7 +94,7 @@ human/animal strains using a real strain tree, full proteomes and an explicitly
 uniform screen with known denominators. The archived ATB screen could enable
 that and the resistance aim, but only with valid source/score/export provenance.
 Our [deeper search and conditional scope audit](../atb-export-search-2026-10-21.md)
-records the remaining gap and [precise data request](../atb-export-request-2026-10-21.md).
+records the remaining gap and specifies the required data.
 
 ## Reproduction and provenance
 

@@ -34,8 +34,7 @@ An unreported source restriction, different fragmentation procedure or descripti
 correction could resolve it. No AMP scores, per-genome hit counts or zeros are
 inferred here, and no substitute APEX screen was run.
 
-[Source-search report](../../study/atb-export-search-2026-10-21.md) and
-[precise author data request](../../study/atb-export-request-2026-10-21.md).
+[Source-search report and required data](../../study/atb-export-search-2026-10-21.md).
 
 To reproduce: download the URL in `audit.json`, verify the index MD5, extract only
 the named JSON member, then run `scripts/audit_atb_screen_scope.py` with the saved

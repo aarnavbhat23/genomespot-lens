@@ -42,7 +42,7 @@ Inventories, exact revisions, API URLs, response hashes and coverage limits are
 public under `examples/atb-screen-audit/`. These observations are scoped negative
 search evidence, not proof the authors lack a file or that no deposit exists.
 The earlier supplementary PDF still supplies only the synthesis shortlist, not
-the full screen registry. No author or mentor has been contacted automatically.
+the full screen registry.
 
 ## A quantitative scope issue that must be clarified
 
@@ -78,8 +78,8 @@ resolve either provenance or the primary selection rule.
 
 ## Minimum next evidence
 
-The prepared [data request](atb-export-request-2026-10-21.md) asks for the original
-screened-source registry, fragment/parent/genome links, eleven-target predictions,
+The required data are the original screened-source registry,
+fragment/parent/genome links, eleven-target predictions,
 fragmentation/normalization/deduplication details and the intended threshold.
 A positive list alone cannot establish genome-level zeros or full potency
 variation. Genome annotations or AMR calls alone do not fill that gap.

@@ -15,7 +15,7 @@ conspecificity. Its species-control inference is superseded by notebook 06, whic
 excludes unresolved assignments and refits the comparisons. Inputs and original
 estimates below remain for audit; they are not the current primary conclusions.
 
-This is an exploratory reanalysis of published bacterial data, following Vinay's
+This is an exploratory reanalysis of published bacterial data addressing the
 ecology/evolution question. It complements the archaeome study in notebook 04.
 It is **not replication of temperature-associated encrypted APEX fragments**:
 Du et al. used Macrel on small ORFs, a distinct endpoint. These are predicted
@@ -166,7 +166,7 @@ finding is that the crude fermented-food advantage is not robust in this analysi
 Genome assembly quality, small-ORF calling, source-study differences and strain
 relatedness remain possible explanations. Counts do not establish peptide
 expression, release, measured activity, ecological adaptation, or resistance
-co-evolution. This dataset cannot answer Vinay's encrypted-AMP/AMR question.
+co-evolution. This dataset cannot answer the encrypted-AMP/AMR question.
 
 Together with the archaeome pilot, this motivates a concrete direction: **which
 ecological AMP associations survive ancestry, composition and screening
@@ -174,7 +174,8 @@ ascertainment controls?** Neither general AMP ecology nor statistical adjustment
 is new; the proposed contribution is an auditable comparison using exact source
 mapping and complete zero/denominator accounting. A full uniformly screened ATB
 cohort and independent temperature replication are still required for stronger
-claims. See `study/ecology-comparison/results.md` and the mentor brief.
+claims. See `study/ecology-comparison/results.md` and the corrected extension in
+`study/ecology-comparison/robustness-results-2026-10-21.md`.
 ''')]
 book=nb.v4.new_notebook(cells=cells,metadata={'kernelspec':{'display_name':'Python 3','language':'python','name':'python3'},'language_info':{'name':'python','version':'3.11'}})
 nb.write(book,ROOT/'notebooks/05_real_ecology_species_comparison.ipynb')

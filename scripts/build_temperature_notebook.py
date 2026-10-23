@@ -240,7 +240,7 @@ microbes or ecological AMP discovery are new. The prior/tree checks above leave 
 real-data bacterial comparison in notebook 06 tests species/habitat confounding
 with a different AMP endpoint; it is not temperature replication. Next decisive
 work is an independent uniform screen/replication cohort and a powered design.
-Vinay's ATB resistance question still needs its full screened-sample/parent/score
+The ATB resistance question still needs its full screened-sample/parent/score
 export and resolution of its conflicting threshold descriptions. Carbon-A's
 documented eukaryotic CDS task does not replace prokaryotic annotations here.
 

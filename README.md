@@ -2,7 +2,7 @@
 
 **Explore microbial physiology, ancestry, AMR burden and encrypted-AMP richness.**
 
-[Current research brief and actual findings](study/mentor-brief-2026-10-21.md).
+[Study setup and current findings](study/README.md).
 
 Three executable research notebooks implement ecology, evolution and resistance
 analyses with explicit screening denominators and source-mapping checks:

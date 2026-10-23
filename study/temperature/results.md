@@ -96,7 +96,6 @@ limited prior/tree/root sensitivities above are now complete. A separate
 [bacterial ecology comparison](../ecology-comparison/robustness-results-2026-10-21.md) shows how
 species and genome covariates change habitat estimates, but its small-ORF
 endpoint cannot replicate temperature-associated encrypted fragments.
-Vinay's AllTheBacteria resistance question still needs the complete original
+The AllTheBacteria resistance question still needs the complete original
 sample/parent/fragment score export and clarification of its threshold. A 24-peptide
-synthesis shortlist cannot supply that cohort. Nothing has been sent to authors
-or Vinay automatically.
+synthesis shortlist cannot supply that cohort.

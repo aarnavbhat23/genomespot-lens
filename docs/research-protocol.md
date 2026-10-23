@@ -1,4 +1,4 @@
-# Research protocol and route to the mentor's analysis
+# Research protocol and comparative analysis
 
 This document specifies proposed work. The two-genome pilot is complete;
 the cohort studies below have not been run. Suggested sizes are planning
@@ -96,5 +96,5 @@ whether a manuscript is supported. The ATB/archaeome expansion follows the
 standalone study, while accession recovery can proceed alongside it.
 
 Compute and time depend on cohort and hardware. No full ATB download, paid
-compute, wet-lab experiment, author outreach or mentor message is scheduled by
+compute, wet-lab experiment or author outreach is scheduled by
 this repository. Benchmark a small batch before planning the full collection.
