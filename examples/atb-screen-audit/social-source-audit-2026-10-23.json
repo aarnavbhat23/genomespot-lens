@@ -1,0 +1,78 @@
+{
+  "checked_date_local": "2026-10-23",
+  "status": "linked_post_resolved_original_screen_export_not_located",
+  "original_export_recovered": false,
+  "post": {
+    "url": "https://x.com/delafuentelab/status/2079170015056871790",
+    "id": "2079170015056871790",
+    "created_at_utc": "2026-07-20T11:42:15Z",
+    "author_handle": "delafuentelab",
+    "non_media_external_links": [
+      "https://www.biorxiv.org/content/10.1101/2024.03.08.584059v8"
+    ],
+    "retrieval_methods": [
+      "public X browser page",
+      "public FxTwitter text mirror"
+    ],
+    "mirror_url": "https://api.fxtwitter.com/status/2079170015056871790"
+  },
+  "public_discussion": {
+    "visible_reply_ids": [
+      "2079170737403802005",
+      "2079494728182051102",
+      "2079371532376195582"
+    ],
+    "visible_reply_count": 3,
+    "all_replies_inspected": false,
+    "limit": "X required login to view the remaining replies; no screen-export link appeared in the three visible replies."
+  },
+  "timeline": {
+    "live_profile_url": "https://x.com/delafuentelab",
+    "live_profile_result": "Profile information loaded; post feed returned an error and a login prompt.",
+    "search_indexed_public_mirror_url": "https://www.sotwe.com/delafuentelab",
+    "coverage": "Search-indexed partial timeline and pinned post, not an exhaustive live timeline.",
+    "direct_mirror_download_result": "Challenge page, not timeline content; no challenge solved.",
+    "original_screen_export_link_found": false
+  },
+  "paper_fulltext_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13370402/fullTextXML",
+  "current_resource_urls": [
+    "https://allthebacteria.org/resources/",
+    "https://allthebacteria.org/docs/annotation/",
+    "https://allthebacteria.org/docs/amr/",
+    "https://allthebacteria.org/docs/osf_links/"
+  ],
+  "outdated_documentation_url": {
+    "url": "https://allthebacteria.readthedocs.io/en/latest/",
+    "response": "404"
+  },
+  "osf_index": {
+    "url": "https://osf.io/download/r6gcp/",
+    "identical_to_2026_10_21_index": true,
+    "sha256": "b36aa796435185a8ea606e63ed5031f40b6e327853e3ef4aab8d07802fd26d3f"
+  },
+  "github_trees": {
+    "AllTheBacteria/AllTheBacteria": {
+      "sha": "d6fc56cc2c20a7e18268806d1ac5ec58dcafc9d1",
+      "entries": 142,
+      "truncated": false
+    },
+    "AllTheBacteria/atb-paper": {
+      "sha": "98181f8429bddbb1bf98d3a70c1ce8651633f869",
+      "entries": 50,
+      "truncated": false
+    }
+  },
+  "raw_response_sha256": {
+    "post.json": "526c8f0c8cfb3e8a5ce55dafc30e7e9c2223f1ac8aca5a5494ec87d37a76908a",
+    "paper.xml": "a1398a55114b6d41566322d87f63acc2e6702da538cc5048ea69266b7bb75909",
+    "osf-file-index.tsv": "b36aa796435185a8ea606e63ed5031f40b6e327853e3ef4aab8d07802fd26d3f",
+    "github-main-tree.json": "619235da6d70013e9fb8175905226b946f9990d1ed2b44841fbfb2a87aa3aa4e",
+    "github-paper-tree.json": "f0c827511a40c07533343ead142f505b34b7d32a55809f0575206f318f5e08c8"
+  },
+  "limits": [
+    "Public post metadata does not expose every reply or historical timeline entry.",
+    "Repository path inventories and OSF filenames do not inspect all archive members or every dataset row.",
+    "No claim that an unindexed, restricted or private export does not exist.",
+    "Genome annotations and AMR calls do not identify original AMP screening membership or negative calls."
+  ]
+}

@@ -6,6 +6,9 @@ are accessible; they do not identify which inputs generated the AMP study's
 reported screen, scores and qualifying calls. We have not inferred absent calls
 as zeros or labeled a newly generated screen as the original one.
 
+[23 October follow-up: exact public post and linked source checks](atb-social-source-check-2026-10-23.md)
+confirm the linked paper version and record public-reply/timeline access limits.
+
 ## What was checked beyond the previous search
 
 - The [bioRxiv version API](https://api.biorxiv.org/details/biorxiv/10.1101/2024.03.08.584059)
